@@ -18,7 +18,7 @@ Status vad vi ser
 * Riksarkivet SBL [Wikidata P3217](https://www.wikidata.org/wiki/Property:P3217?uselang=sv) har yrken men ingen koppling till HISCO koder [länk](https://sok.riksarkivet.se/sbl/YrkesSearch.aspx?fbclid=IwAR1CHuNsVj45vQyh9LTy-vJV7344qhMys421nlIY3Jq82h1KqcQZlH3B70o) 
   * se [csv fil](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SBLyrken.csv) och [Notebook](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Yrken%20SBL.ipynb)
 * Svenskt Kvinnobiografiskt lexikon [Wikidata P4963](https://www.wikidata.org/wiki/Property_talk:P4963)
-  * har yrken som [nyckelord](https://skbl.se/sv/nyckelord)  
+  * har vissa yrken som [nyckelord](https://skbl.se/sv/nyckelord)  
 
 ## Övrigt -  SSYK Yrken
 * SCB har SSYK koder för yrken
