@@ -8,13 +8,15 @@ Status vad vi ser
 #### Har HISCOkoder
 * Mats Hayen har ett projekt [Tidigmoderna konkurser!](http://www.tidigmodernakonkurser.se/) som har HISCOkoder se ["Titelklassificering"](http://www.tidigmodernakonkurser.se/index.php/page/3)
 
-#### Saknar
-* Alvin
+#### Saknar 
+* Alvin [Wikidata P6821](https://www.wikidata.org/wiki/Property_talk:P6821)
 * Digitaltmuseum [Wikidata P7847](https://www.wikidata.org/wiki/Property_talk:P7847)
 * Historiska museet [Wikidata P9495](https://www.wikidata.org/wiki/Property_talk:P9495)
+* Levande musikarv [Wikidata P6821](https://www.wikidata.org/wiki/Property_talk:P6821)
+* Litteraturbanken [Wikidata P5101](https://www.wikidata.org/wiki/Property_talk:P5101)
+* [] 
 * Riksarkivet SBL [Wikidata P3217](https://www.wikidata.org/wiki/Property:P3217?uselang=sv) har yrken med unikt id men ingen koppling till HISCO koder [länk](https://sok.riksarkivet.se/sbl/YrkesSearch.aspx?fbclid=IwAR1CHuNsVj45vQyh9LTy-vJV7344qhMys421nlIY3Jq82h1KqcQZlH3B70o)
 * Svenskt Kvinnobiografiskt lexikon [Wikidata P4963](https://www.wikidata.org/wiki/Property_talk:P4963)
-* Litteraturbanken [] 
 
 ## Övrigt -  SSYK Yrken
 * SCB har SSYK koder för yrken
