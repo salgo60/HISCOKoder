@@ -13,7 +13,7 @@ Status vad vi ser
 * Alvin [Wikidata P6821](https://www.wikidata.org/wiki/Property_talk:P6821)
 * Digitaltmuseum [Wikidata P7847](https://www.wikidata.org/wiki/Property_talk:P7847)
 * Historiska museet [Wikidata P9495](https://www.wikidata.org/wiki/Property_talk:P9495)
-* Kungliga biblioteket - LIBRISXL verkar bara vara textsträngar se [https://libris.kb.se/tr574vdc33gk2cc/data.jsonld August Strindberg] 
+* Kungliga biblioteket - LIBRISXL verkar bara vara textsträngar se [August Strindberg](https://libris.kb.se/tr574vdc33gk2cc/data.jsonld) 
 * Levande musikarv [Wikidata P6821](https://www.wikidata.org/wiki/Property_talk:P6821)
 * Litteraturbanken [Wikidata P5101](https://www.wikidata.org/wiki/Property_talk:P5101) 
 * Riksarkivet SBL [Wikidata P3217](https://www.wikidata.org/wiki/Property:P3217?uselang=sv) har yrken men ingen koppling till HISCO koder [länk](https://sok.riksarkivet.se/sbl/YrkesSearch.aspx?fbclid=IwAR1CHuNsVj45vQyh9LTy-vJV7344qhMys421nlIY3Jq82h1KqcQZlH3B70o) 
