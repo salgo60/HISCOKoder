@@ -41,6 +41,7 @@ Status vad vi ser
          * type kan vara Yrke / Ideellt arbete  
 ![](https://github.com/salgo60/HISCOKoder/blob/main/img/SKBLJson.png)        
 ![](https://github.com/salgo60/HISCOKoder/blob/main/img/SKBL_yrken_json.png)        
+![](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SKBLSBLyrken.png)        
 
 ## Övrigt
 ### SSYK Yrken
