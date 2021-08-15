@@ -15,6 +15,7 @@ Status vad vi ser
 * Alvin [Wikidata P6821](https://www.wikidata.org/wiki/Property_talk:P6821)
   * [Notepad](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Alvin%20yrken.ipynb) kör igenom alla poster kopplade till Wikidata > 28000 se även [T225522](https://phabricator.wikimedia.org/T225522) 
 * Digitaltmuseum [Wikidata P7847](https://www.wikidata.org/wiki/Property_talk:P7847)
+  * har dataset [Life roles (KulturIT AS [no])](https://kulturnav.org/23c7080c-6752-4691-8c8a-ce0d65623c51) 
 * Historiska museet [Wikidata P9495](https://www.wikidata.org/wiki/Property_talk:P9495)
 * Kungliga biblioteket - LIBRISXL verkar bara vara textsträngar se [August Strindberg](https://libris.kb.se/tr574vdc33gk2cc/data.jsonld) 
 * Levande musikarv [Wikidata P6821](https://www.wikidata.org/wiki/Property_talk:P6821)
