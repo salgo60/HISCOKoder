@@ -13,7 +13,9 @@ Status vad vi ser
 
 #### verkar sakna bra strukturerad data 
 * Alvin [Wikidata P6821](https://www.wikidata.org/wiki/Property_talk:P6821)
+  * [Notepad](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Alvin%20yrken.ipynb) kör igenom alla poster kopplade till Wikidata > 28000 se även [T225522](https://phabricator.wikimedia.org/T225522) 
 * Digitaltmuseum [Wikidata P7847](https://www.wikidata.org/wiki/Property_talk:P7847)
+  * har dataset [Life roles (KulturIT AS [no])](https://kulturnav.org/23c7080c-6752-4691-8c8a-ce0d65623c51) 
 * Historiska museet [Wikidata P9495](https://www.wikidata.org/wiki/Property_talk:P9495)
 * Kungliga biblioteket - LIBRISXL verkar bara vara textsträngar se [August Strindberg](https://libris.kb.se/tr574vdc33gk2cc/data.jsonld) 
 * Levande musikarv [Wikidata P6821](https://www.wikidata.org/wiki/Property_talk:P6821)
@@ -25,7 +27,7 @@ Status vad vi ser
 * Svenskt Kvinnobiografiskt lexikon [Wikidata P4963](https://www.wikidata.org/wiki/Property_talk:P4963)
   * har vissa yrken som [nyckelord](https://skbl.se/sv/nyckelord)  
   * se [csv fil](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SKBLyrken.csv) och [Notebook](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Yrken%20SKBL.ipynb)
-  * JSON strukturerad data
+  * JSON strukturerad data --> yrken [SKBLyrken_valuecount.csv](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SKBLyrken_valuecount.csv)/[csv per person](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SKBLyrken_newListdf.csv) och [Notebook JSON](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SKBL%20yrken%20JSON.ipynb)
     * SKBL har ex. Kerstin Anneka Anderson [svenska](https://skbl.se/sv/artikel/KerstinAnnekaAnderson) [engelska](https://skbl.se/en/article/KerstinAnnekaAnderson) [json](https://skbl.se/sv/artikel/KerstinAnnekaAnderson.json) där yrket i JSON har struktur
        * occupation 
          * description
