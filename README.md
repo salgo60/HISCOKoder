@@ -30,3 +30,9 @@ Status vad vi ser
 
 ## Kontakt personer
 * [Annika Westberg, CEDAR](https://www.umu.se/en/staff/annika-westberg/)
+
+
+# Wikidata
+* om [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE)
+* [Svenska egenskaper i Wikidata](https://www.wikidata.org/wiki/Template:Sweden_properties)
+* Saknas idag en egenskap för HISCOkoder -  [Q5629694](https://www.wikidata.org/wiki/Q5629694)
