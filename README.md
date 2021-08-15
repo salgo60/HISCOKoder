@@ -1,12 +1,13 @@
 # HISCOKoder - Historiska yrken #
 
-Projekt SWEPOP har skapa [Principles of Coding Swedish Historic Occupations](https://swedpop.se/wp-content/uploads/2021/06/Principles-of-Coding-Swedish-Historic-Occupations.pdf?fbclid=IwAR11GjBmaQnBhqVgiI65bFh6YbvMpdoYN0IDHrKSS-Lc4DZcLXtZTc82hTo) tanken är att se till om vi kan föra öv er det till Wikidata
+Projekt SWEPOP har skapat [Principles of Coding Swedish Historic Occupations](https://swedpop.se/wp-content/uploads/2021/06/Principles-of-Coding-Swedish-Historic-Occupations.pdf?fbclid=IwAR11GjBmaQnBhqVgiI65bFh6YbvMpdoYN0IDHrKSS-Lc4DZcLXtZTc82hTo) tanken är att se till om vi kan föra över det till Wikidata och se om andra aktörer rör sig åt samma håll då det gäller att digitalisera datat och röra sig mot HISCO istället för textsträngar.
 
 ## Yrkesklassificering - HISCOkoder ##
 Status vad vi ser
 
 #### Har HISCOkoder
 * Mats Hayen har ett projekt [Tidigmoderna konkurser!](http://www.tidigmodernakonkurser.se/) som har HISCOkoder se ["Titelklassificering"](http://www.tidigmodernakonkurser.se/index.php/page/3)
+* Swepop - [swedpop.se](https://swedpop.se/)...
 * ...
 
 #### verkar sakna bra strukturerad data 
@@ -29,3 +30,9 @@ Status vad vi ser
 
 ## Kontakt personer
 * [Annika Westberg, CEDAR](https://www.umu.se/en/staff/annika-westberg/)
+
+
+# Wikidata
+* om [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE)
+* [Svenska egenskaper i Wikidata](https://www.wikidata.org/wiki/Template:Sweden_properties)
+* Saknas idag en egenskap för HISCOkoder -  [Q5629694](https://www.wikidata.org/wiki/Q5629694)
