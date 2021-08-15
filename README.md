@@ -36,6 +36,8 @@ Status vad vi ser
            * är med koordinat och text sträng ej [Linked data](https://vimeo.com/36752317) 
          * to
          * type kan vara Yrke / Ideellt arbete  
+![](https://github.com/salgo60/HISCOKoder/blob/main/img/SKBLJson.png)        
+![](https://github.com/salgo60/HISCOKoder/blob/main/img/SKBL_yrken_json.png)        
 
 ## Övrigt
 ### SSYK Yrken
