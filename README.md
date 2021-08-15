@@ -24,11 +24,16 @@ Status vad vi ser
   * har vissa yrken som [nyckelord](https://skbl.se/sv/nyckelord)  
   * se [csv fil](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SKBLyrken.csv) och [Notebook](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Yrken%20SKBL.ipynb)
 
-## Övrigt -  SSYK Yrken
+## Övrigt
+### SSYK Yrken
 * SCB har SSYK koder för yrken
   * diskussion jobtech [SSYK egenskap i Wikidata](https://forum.jobtechdev.se/t/ssyk-egenskap-i-wikidata/164/8)
   * Wikidata egenskap [P8654](https://www.wikidata.org/wiki/Property_talk:P8654) se  även task ["SSYK 2012"](https://phabricator.wikimedia.org/T263945)  
-
+### Wikipedia
+* historiska yrken [sv:Kategori:Historiska_yrken](https://sv.wikipedia.org/wiki/Kategori:Historiska_yrken)
+* [Category:Obsolete occupations](https://en.wikipedia.org/wiki/Category:Obsolete_occupations)
+* [Kategori:Historiske beskjeftigelser](https://no.wikipedia.org/wiki/Kategori:Historiske_beskjeftigelser)
+* [Kategorie:Historischer_Beruf](https://de.wikipedia.org/wiki/Kategorie:Historischer_Beruf)
 ## Kontakt personer
 * [Annika Westberg, CEDAR](https://www.umu.se/en/staff/annika-westberg/)
 
