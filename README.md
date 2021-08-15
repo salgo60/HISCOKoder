@@ -35,4 +35,5 @@ Status vad vi ser
 # Wikidata
 * om [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE)
 * [Svenska egenskaper i Wikidata](https://www.wikidata.org/wiki/Template:Sweden_properties)
+![](https://github.com/salgo60/HISCOKoder/blob/main/img/Swedenprop.png)
 * Saknas idag en egenskap för HISCOkoder -  [Q5629694](https://www.wikidata.org/wiki/Q5629694)
