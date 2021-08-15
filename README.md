@@ -26,6 +26,10 @@ Status vad vi ser
 * Riksarkivet SBL [Wikidata P3217](https://www.wikidata.org/wiki/Property:P3217?uselang=sv) - [yrken i WD för dessa personer](https://w.wiki/3u2i)
   * har yrken men ingen koppling till HISCO koder [länk](https://sok.riksarkivet.se/sbl/YrkesSearch.aspx?fbclid=IwAR1CHuNsVj45vQyh9LTy-vJV7344qhMys421nlIY3Jq82h1KqcQZlH3B70o) 
   * se [csv fil](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SBLyrken.csv) och [Notebook](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Yrken%20SBL.ipynb)
+  * jämförelse yrken hos SKBL och SBL - [Notebook](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/J%C3%A4mf%C3%B6r%20yrken%20SBL%20SKBL.ipynb)
+
+![](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SKBLSBLyrken.png)        
+
 * [Stadens ansikte](https://stockholmia.stockholm.se/forskning/projekt/stadens-ansikten/) ingen koppling idag till Wikidata 
   * se försök att öppna en dialog [T268374](https://phabricator.wikimedia.org/T268374) 
 * Svenskt Kvinnobiografiskt lexikon [Wikidata P4963](https://www.wikidata.org/wiki/Property_talk:P4963) - [yrken i WD för dessa personer](https://w.wiki/3u2h)
@@ -44,7 +48,6 @@ Status vad vi ser
          * type kan vara Yrke / Ideellt arbete  
 ![](https://github.com/salgo60/HISCOKoder/blob/main/img/SKBLJson.png)        
 ![](https://github.com/salgo60/HISCOKoder/blob/main/img/SKBL_yrken_json.png)        
-![](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SKBLSBLyrken.png)        
 
 ## Övrigt
 ### SSYK Yrken
