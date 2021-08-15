@@ -8,6 +8,7 @@ Status vad vi ser
 #### Har HISCOkoder
 * Mats Hayen har ett projekt [Tidigmoderna konkurser!](http://www.tidigmodernakonkurser.se/) som har HISCOkoder se ["Titelklassificering"](http://www.tidigmodernakonkurser.se/index.php/page/3)
 * Swepop - [swedpop.se](https://swedpop.se/)...
+  * [HISCO codes and description](https://swedpop.se/wp-content/uploads/2021/06/HISCO-codes-and-description.pdf) 
 * ...
 
 #### verkar sakna bra strukturerad data 
