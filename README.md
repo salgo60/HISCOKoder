@@ -25,6 +25,17 @@ Status vad vi ser
 * Svenskt Kvinnobiografiskt lexikon [Wikidata P4963](https://www.wikidata.org/wiki/Property_talk:P4963)
   * har vissa yrken som [nyckelord](https://skbl.se/sv/nyckelord)  
   * se [csv fil](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SKBLyrken.csv) och [Notebook](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Yrken%20SKBL.ipynb)
+  * JSON strukturerad data
+    * SKBL har ex. Kerstin Anneka Anderson [svenska](https://skbl.se/sv/artikel/KerstinAnnekaAnderson) [engelska](https://skbl.se/en/article/KerstinAnnekaAnderson) [json](https://skbl.se/sv/artikel/KerstinAnnekaAnderson.json) där yrket i JSON har struktur
+       * occupation 
+         * description
+         * detail
+         * from
+           * comment / date
+         * place
+           * är med koordinat och text sträng ej [Linked data](https://vimeo.com/36752317) 
+         * to
+         * type kan vara Yrke / Ideellt arbete  
 
 ## Övrigt
 ### SSYK Yrken
