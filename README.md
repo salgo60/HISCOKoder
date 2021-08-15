@@ -63,7 +63,7 @@ Status vad vi ser
   * [Kategori:Historiske beskjeftigelser](https://no.wikipedia.org/wiki/Kategori:Historiske_beskjeftigelser)
   * [Kategorie:Historischer_Beruf](https://de.wikipedia.org/wiki/Kategorie:Historischer_Beruf)
 * projekt [Wikidata:WikiProject Occupations and professions](https://www.wikidata.org/wiki/Wikidata:WikiProject_Occupations_and_professions) 
-## Kontakt personer
+## Kontaktperson
 * [Annika Westberg, CEDAR](https://www.umu.se/en/staff/annika-westberg/)
 
 
