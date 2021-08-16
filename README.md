@@ -1,6 +1,6 @@
 # HISCOKoder - Historiska yrken #
 
-Projekt SWEPOP har skapat [Principles of Coding Swedish Historic Occupations](https://swedpop.se/wp-content/uploads/2021/06/Principles-of-Coding-Swedish-Historic-Occupations.pdf?fbclid=IwAR11GjBmaQnBhqVgiI65bFh6YbvMpdoYN0IDHrKSS-Lc4DZcLXtZTc82hTo) tanken är att se till om vi kan föra över det till Wikidata och se om andra aktörer rör sig åt samma håll då det gäller att digitalisera datat och röra sig mot HISCO istället för textsträngar.
+Projekt SWEPOP har skapat [Principles of Coding Swedish Historic Occupations](https://swedpop.se/wp-content/uploads/2021/06/Principles-of-Coding-Swedish-Historic-Occupations.pdf?fbclid=IwAR11GjBmaQnBhqVgiI65bFh6YbvMpdoYN0IDHrKSS-Lc4DZcLXtZTc82hTo) tanken är att se om vi kan föra över det till Wikidata och se om andra aktörer rör sig åt samma håll då det gäller att digitalisera datat och röra sig mot HISCO istället för textsträngar.
 
 ## Yrkesklassificering - HISCOkoder ##
 Status vad vi ser
@@ -12,7 +12,7 @@ Status vad vi ser
   * [HISCO codes and description](https://swedpop.se/wp-content/uploads/2021/06/HISCO-codes-and-description.pdf) Version: June 28, 2021
 * ...
 
-#### verkar sakna bra strukturerad data 
+#### Andra aktörer som verkar sakna bra strukturerad data och koppling HISCO utan kör eget
 * Alvin [Wikidata P6821](https://www.wikidata.org/wiki/Property_talk:P6821) - [yrken i WD för i personer kopplade till Alvin](https://w.wiki/3u2w)
   * [Notepad](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Alvin%20yrken.ipynb) kör igenom alla poster kopplade till Wikidata > 28000 se även [T225522](https://phabricator.wikimedia.org/T225522) 
     * [csv fil](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Alvin_yrken_value_counts.csv) > 3000 yrken  
