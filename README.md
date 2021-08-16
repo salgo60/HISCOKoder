@@ -53,7 +53,7 @@ Status vad vi ser
 
 ## Övrigt
 ### SSYK Yrken
-* SCB har SSYK koder för yrken
+* SCB har [SSYK koder för yrken](https://www.scb.se/dokumentation/klassifikationer-och-standarder/standard-for-svensk-yrkesklassificering-ssyk/)
   * diskussion jobtech [SSYK egenskap i Wikidata](https://forum.jobtechdev.se/t/ssyk-egenskap-i-wikidata/164/8)
   * Wikidata egenskap [P8654](https://www.wikidata.org/wiki/Property_talk:P8654) se  även task ["SSYK 2012"](https://phabricator.wikimedia.org/T263945)  
 ### Wikipedia
