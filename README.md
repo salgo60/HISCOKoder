@@ -14,6 +14,8 @@ Status vad vi ser
 
 #### Andra aktörer som verkar sakna bra strukturerad data och koppling HISCO utan kör eget
 * Alvin [Wikidata P6821](https://www.wikidata.org/wiki/Property_talk:P6821) - [yrken i WD för i personer kopplade till Alvin](https://w.wiki/3u2w)
+  * [https://w.wiki/3uCW samma fråga men visa om Wikidata har en bild] eller bildkatalog  
+  * samma fråga men där yrkena har en artikel på [https://w.wiki/3uEV svenska wikipedia] / [https://w.wiki/3uEi engelska] / [https://w.wiki/3uEa tyska]
   * [Notepad](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Alvin%20yrken.ipynb) kör igenom alla poster kopplade till Wikidata > 28000 se även [T225522](https://phabricator.wikimedia.org/T225522) 
     * [csv fil](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Alvin_yrken_value_counts.csv) > 3000 yrken  
 ![](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Alvin_yrken_alla.png)
