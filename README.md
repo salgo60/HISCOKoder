@@ -74,7 +74,7 @@ Status vad vi ser
          * type kan vara Yrke / Ideellt arbete  
 ![](https://github.com/salgo60/HISCOKoder/blob/main/img/SKBLJson.png)        
 ![](https://github.com/salgo60/HISCOKoder/blob/main/img/SKBL_yrken_json.png)        
-
+![](https://github.com/salgo60/HISCOKoder/blob/main/img/SKBL_yrken_json2.png)
 ## Övrigt
 ### SSYK Yrken
 * SCB har [SSYK koder för "moderna" yrken](https://www.scb.se/dokumentation/klassifikationer-och-standarder/standard-for-svensk-yrkesklassificering-ssyk/)
