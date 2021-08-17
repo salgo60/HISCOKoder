@@ -7,7 +7,7 @@ Tanken
 * starta fundera på olikheter mellan olika yrken i maskinläsbar form
 * kan Wikidata vara en enabler? 
   * Min feedback från [LD4](https://sites.google.com/stanford.edu/ld4-community-site/home) är att aktörer som Stanford University Libraries, USA:s kongressbibliotek, Columbia University, Harvard Library gör detta se deras senaste konferans [LD4 schedule](https://ld42021.sched.com/) /  Youtube lista "[2021 LD4 Conference Videos](https://www.youtube.com/watch?v=ludJFf06w94&list=PLx2ZluWEZtICVGpkAIzRW4P17r2jFSOiY)" där jag pratade om publika identifierare i svenska boken Bautil från 1750 [artikel](https://meta.wikimedia.org/wiki/Structured_data_for_GLAM-Wiki/Roundtripping/KMB)/[video](https://youtu.be/GeDXzInR_mA?t=974) 
-  * vad behövs i Wikidata för att vi skall starta!!! Vilka är iuntresserade och vilka byggstenar har ni? 
+  * vad behövs i Wikidata för att vi skall starta!!! Vilka är intresserade och vilka byggstenar har ni? 
      * API ex. [SKBL](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SKBL%20yrken%20JSON.ipynb)
      * dokumentation ex. [SWEPOP](https://swedpop.se/wp-content/uploads/2021/06/Principles-of-Coding-Swedish-Historic-Occupations.pdf)
      * ?!?!?
