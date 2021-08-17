@@ -16,10 +16,12 @@ Status vad vi ser
 * Alvin [Wikidata P6821](https://www.wikidata.org/wiki/Property_talk:P6821) - [yrken i WD för i personer kopplade till Alvin](https://w.wiki/3u2w)
   * [samma fråga men visa om Wikidata har en bild](https://w.wiki/3uCW) eller bildkatalog  
   * samma fråga men där yrkena har en artikel på [svenska wikipedia](https://w.wiki/3uEV) / [engelska](https://w.wiki/3uEi) / [tyska](https://w.wiki/3uEa) / [kinesiska](https://w.wiki/3uEs) / sanknar [svensk Wikipedia artikel](https://w.wiki/3uJE)
-     * vilka egenskaper har dessa yrken i Wikidata
+     * vilka egenskaper har dessa yrken i Wikidata idag (behövs nog en hel del jobb för att få ordning på detta)
        * av typ [Authority control properties ](https://w.wiki/3uT2)
        * alla [externa egenskaper](https://w.wiki/3uSx) 
        * [alla Wikidata egenskaperna](https://w.wiki/3uSq)
+
+![](https://github.com/salgo60/HISCOKoder/blob/main/img/WD%20egenskaper%20yrken.png)
   * [Notepad](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Alvin%20yrken.ipynb) kör igenom alla poster kopplade till Wikidata > 28000 och försöker identifiera yrkena i html sidan hos Alvin se även [T225522](https://phabricator.wikimedia.org/T225522) 
     * [csv fil](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Alvin_yrken_value_counts.csv) > 3000 yrken  
 ![](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Alvin_yrken_alla.png)
@@ -59,9 +61,10 @@ Status vad vi ser
 
 ## Övrigt
 ### SSYK Yrken
-* SCB har [SSYK koder för yrken](https://www.scb.se/dokumentation/klassifikationer-och-standarder/standard-for-svensk-yrkesklassificering-ssyk/)
+* SCB har [SSYK koder för "moderna" yrken](https://www.scb.se/dokumentation/klassifikationer-och-standarder/standard-for-svensk-yrkesklassificering-ssyk/)
   * diskussion jobtech [SSYK egenskap i Wikidata](https://forum.jobtechdev.se/t/ssyk-egenskap-i-wikidata/164/8)
-  * Wikidata egenskap [P8654](https://www.wikidata.org/wiki/Property_talk:P8654) se  även task ["SSYK 2012"](https://phabricator.wikimedia.org/T263945)  
+  * Wikidata egenskap [P8654](https://www.wikidata.org/wiki/Property_talk:P8654) se  även task ["SSYK 2012"](https://phabricator.wikimedia.org/T263945) 
+  * min tro ör att dessa koder inte är funktionella för en datadriven arbetsmarknad ett nytt initiativ har startats upp se sr.se  
 ### Wikipedia
 * historiska yrken 
   * [sv:Kategori:Historiska_yrken](https://sv.wikipedia.org/wiki/Kategori:Historiska_yrken)
