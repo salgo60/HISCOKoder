@@ -49,6 +49,8 @@ Status vad vi ser
   * har yrken men ingen koppling till HISCO koder [länk](https://sok.riksarkivet.se/sbl/YrkesSearch.aspx?fbclid=IwAR1CHuNsVj45vQyh9LTy-vJV7344qhMys421nlIY3Jq82h1KqcQZlH3B70o) 
   * se [csv fil](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SBLyrken.csv) och [Notebook](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Yrken%20SBL.ipynb)
   * jämförelse yrken hos SKBL och SBL - [Notebook](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/J%C3%A4mf%C3%B6r%20yrken%20SBL%20SKBL.ipynb) / [csv fil](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SKBL_SBL_yrken.csv)
+    * både SBL och SKBL identifierar yrken med textsträngar vilket gör detta lite ohanterligt
+    * yrken bör ha unika persistenta identifierare och en [kunskapsgraf](https://vimeo.com/36752317)   
 
 ![](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SKBLSBLyrken.png)        
 
