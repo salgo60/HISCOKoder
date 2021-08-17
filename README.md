@@ -7,7 +7,7 @@ Tanken
 * starta fundera på olikheter mellan olika yrken i maskinläsbar form
 * kan Wikidata vara en enabler? 
   * Min feedback från [LD4](https://sites.google.com/stanford.edu/ld4-community-site/home) är att aktörer som Stanford University Libraries, USA:s kongressbibliotek, Columbia University, Harvard Library gör detta se deras senaste konferans [LD4 schedule](https://ld42021.sched.com/) /  Youtube lista "[2021 LD4 Conference Videos](https://www.youtube.com/watch?v=ludJFf06w94&list=PLx2ZluWEZtICVGpkAIzRW4P17r2jFSOiY)" där jag pratade om publika identifierare i svenska boken Bautil från 1750 [artikel](https://meta.wikimedia.org/wiki/Structured_data_for_GLAM-Wiki/Roundtripping/KMB)/[video](https://youtu.be/GeDXzInR_mA?t=974) 
-  * vad behövs i Wikidata för att vi skall starta!!! Vilka är iuntresserade och vilka byggstenar har ni? 
+  * vad behövs i Wikidata för att vi skall starta!!! Vilka är intresserade och vilka byggstenar har ni? 
      * API ex. [SKBL](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SKBL%20yrken%20JSON.ipynb)
      * dokumentation ex. [SWEPOP](https://swedpop.se/wp-content/uploads/2021/06/Principles-of-Coding-Swedish-Historic-Occupations.pdf)
      * ?!?!?
@@ -49,6 +49,8 @@ Status vad vi ser
   * har yrken men ingen koppling till HISCO koder [länk](https://sok.riksarkivet.se/sbl/YrkesSearch.aspx?fbclid=IwAR1CHuNsVj45vQyh9LTy-vJV7344qhMys421nlIY3Jq82h1KqcQZlH3B70o) 
   * se [csv fil](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SBLyrken.csv) och [Notebook](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Yrken%20SBL.ipynb)
   * jämförelse yrken hos SKBL och SBL - [Notebook](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/J%C3%A4mf%C3%B6r%20yrken%20SBL%20SKBL.ipynb) / [csv fil](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SKBL_SBL_yrken.csv)
+    * både SBL och SKBL identifierar yrken med textsträngar vilket gör detta lite ohanterligt och hobbymässigt
+    * yrken bör ha unika persistenta identifierare och en [kunskapsgraf](https://vimeo.com/36752317) där egenskaper beskriver yrket och har samma som ex. HISCOkoder  
 
 ![](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SKBLSBLyrken.png)        
 
