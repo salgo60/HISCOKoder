@@ -3,11 +3,13 @@
 Projekt SWEPOP har skapat [Principles of Coding Swedish Historic Occupations](https://swedpop.se/wp-content/uploads/2021/06/Principles-of-Coding-Swedish-Historic-Occupations.pdf) tanken är att se om vi kan föra över det till Wikidata och se om andra aktörer rör sig åt samma håll då det gäller att digitalisera datat och röra sig mot HISCO istället för textsträngar.
 
 Tanken
-* starta dela planer --> [diskussion](https://github.com/salgo60/HISCOKoder/discussions) eller [issues](https://github.com/salgo60/HISCOKoder/issues) fungera som en start
+* starta dela planer --> [diskussion](https://github.com/salgo60/HISCOKoder/discussions) eller [issues](https://github.com/salgo60/HISCOKoder/issues) fungera som en start eller varför inte [Clubhouse](https://www.clubhouse.com/room/m2XWQAzx)
 * starta fundera på olikheter mellan olika yrken i maskinläsbar form
+  * att bara ha textsträngar blir lätt som att ange en textsträng **Stockholm** och sedan låta läsaren gissa om det är
+    *  Stockholm = [Q94385](https://www.wikidata.org/wiki/Q94385?uselang=sv), Stockholm = [Q506250](https://www.wikidata.org/wiki/Q506250?uselang=sv), Stockholm = [Q922489](https://www.wikidata.org/wiki/Q922489?uselang=sv), Stockholm = [Q876775](https://www.wikidata.org/wiki/Q876775?uselang=sv), Stockholm = [Q3233188](https://www.wikidata.org/wiki/Q3233188)..... för många mer betydelser se [Stockholm olika betydelser](https://sv.wikipedia.org/wiki/Stockholm_(olika_betydelser))
 * kan Wikidata vara en enabler? 
   * Min feedback från [LD4](https://sites.google.com/stanford.edu/ld4-community-site/home) är att aktörer som Stanford University Libraries, USA:s kongressbibliotek, Columbia University, Harvard Library gör detta se deras senaste konferans [LD4 schedule](https://ld42021.sched.com/) /  Youtube lista "[2021 LD4 Conference Videos](https://www.youtube.com/watch?v=ludJFf06w94&list=PLx2ZluWEZtICVGpkAIzRW4P17r2jFSOiY)" där jag pratade om publika identifierare i svenska boken Bautil från 1750 [artikel](https://meta.wikimedia.org/wiki/Structured_data_for_GLAM-Wiki/Roundtripping/KMB)/[video](https://youtu.be/GeDXzInR_mA?t=974) 
-  * vad behövs i Wikidata för att vi skall starta!!! Vilka är intresserade och vilka byggstenar har ni? 
+  * vad behövs i Wikidata för att vi skall starta i Sverige!!! Vilka är intresserade och vilka byggstenar har ni? 
      * API ex. [SKBL](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SKBL%20yrken%20JSON.ipynb)
      * dokumentation ex. [SWEPOP](https://swedpop.se/wp-content/uploads/2021/06/Principles-of-Coding-Swedish-Historic-Occupations.pdf)
      * ?!?!?
@@ -25,7 +27,7 @@ Status vad vi ser
 #### Andra aktörer som verkar sakna bra strukturerad data och koppling HISCO utan kör eget
 * Alvin [Wikidata P6821](https://www.wikidata.org/wiki/Property_talk:P6821) - [yrken i WD för i personer kopplade till Alvin](https://w.wiki/3u2w)
   * [samma fråga men visa om Wikidata har en bild](https://w.wiki/3uCW) eller bildkatalog  
-  * samma fråga men där yrkena har en artikel på [svenska wikipedia](https://w.wiki/3uEV) / [engelska](https://w.wiki/3uEi) / [tyska](https://w.wiki/3uEa) / [kinesiska](https://w.wiki/3uEs) / sanknar [svensk Wikipedia artikel](https://w.wiki/3uJE)
+  * samma fråga men där yrkena har en artikel på [svenska wikipedia](https://w.wiki/3uEV) / [engelska](https://w.wiki/3uEi) / [tyska](https://w.wiki/3uEa) / [kinesiska](https://w.wiki/3uEs) / saknar [svensk Wikipedia artikel](https://w.wiki/3uJE)
      * vilka egenskaper har dessa yrken i Wikidata idag (behövs nog en hel del jobb för att få ordning på detta)
        * av typ [Authority control properties ](https://w.wiki/3uT2)
        * alla [externa egenskaper](https://w.wiki/3uSx) 
@@ -33,7 +35,7 @@ Status vad vi ser
 
 ![](https://github.com/salgo60/HISCOKoder/blob/main/img/WD%20egenskaper%20yrken.png)
 ![](https://github.com/salgo60/HISCOKoder/blob/main/img/WD%20egenskaper%20yrken%20bubble.png)
-  * [Notepad](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Alvin%20yrken.ipynb) kör igenom alla poster i WIkidata kopplade till Uppsala universitetsbibliotek Alvin plattform > 28000 kopplingar där vi försöker identifiera yrkena i html sidan hos Alvin se även [T225522](https://phabricator.wikimedia.org/T225522) 
+  * [Notepad](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Alvin%20yrken.ipynb) kör igenom alla poster i Wikidata kopplade till Uppsala universitetsbibliotek Alvin plattform > 28000 kopplingar där vi försöker identifiera yrkena i html sidan hos Alvin se även [T225522](https://phabricator.wikimedia.org/T225522) 
     * [csv fil](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Alvin_yrken_value_counts.csv) > 3000 yrken  
 ![](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Alvin_yrken_alla.png)
 * Digitaltmuseum [Wikidata P7847](https://www.wikidata.org/wiki/Property_talk:P7847) 
@@ -86,7 +88,7 @@ Status vad vi ser
   * [Kategori:Historiske beskjeftigelser](https://no.wikipedia.org/wiki/Kategori:Historiske_beskjeftigelser)
   * [Kategorie:Historischer_Beruf](https://de.wikipedia.org/wiki/Kategorie:Historischer_Beruf)
 * projekt [Wikidata:WikiProject Occupations and professions](https://www.wikidata.org/wiki/Wikidata:WikiProject_Occupations_and_professions) 
-## Kontaktperson
+## Kontaktpersoner
 * [Annika Westberg, CEDAR](https://www.umu.se/en/staff/annika-westberg/)
 
 
