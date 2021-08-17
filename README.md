@@ -28,7 +28,7 @@ Status vad vi ser
 
 ![](https://github.com/salgo60/HISCOKoder/blob/main/img/WD%20egenskaper%20yrken.png)
 ![](https://github.com/salgo60/HISCOKoder/blob/main/img/WD%20egenskaper%20yrken%20bubble.png)
-  * [Notepad](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Alvin%20yrken.ipynb) kör igenom alla poster kopplade till Wikidata > 28000 och försöker identifiera yrkena i html sidan hos Alvin se även [T225522](https://phabricator.wikimedia.org/T225522) 
+  * [Notepad](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Alvin%20yrken.ipynb) kör igenom alla poster i WIkidata kopplade till Uppsala universitetsbibliotek Alvin plattform > 28000 kopplingar där vi försöker identifiera yrkena i html sidan hos Alvin se även [T225522](https://phabricator.wikimedia.org/T225522) 
     * [csv fil](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Alvin_yrken_value_counts.csv) > 3000 yrken  
 ![](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Alvin_yrken_alla.png)
 * Digitaltmuseum [Wikidata P7847](https://www.wikidata.org/wiki/Property_talk:P7847) 
