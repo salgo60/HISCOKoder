@@ -4,7 +4,7 @@ Projekt SWEPOP har skapat [Principles of Coding Swedish Historic Occupations](ht
 
 Tanken
 * starta dela planer --> [diskussion](https://github.com/salgo60/HISCOKoder/discussions) eller [issues](https://github.com/salgo60/HISCOKoder/issues) fungera som en start
-* starta fundera på olikheter mellan olika yrken i maskinläsbarform
+* starta fundera på olikheter mellan olika yrken i maskinläsbar form
 * kan Wikidata vara en enabler? Min feedback från [LD4](https://sites.google.com/stanford.edu/ld4-community-site/home) är att aktörer som Stanford University Libraries, USA:s kongressbibliotek, Columbia University, Harvard Library gör detta se deras senaste konferans [LD4 schedule](https://ld42021.sched.com/) /  Youtube lista "[2021 LD4 Conference Videos](https://www.youtube.com/watch?v=ludJFf06w94&list=PLx2ZluWEZtICVGpkAIzRW4P17r2jFSOiY)" där jag pratade om publika identifierare i svenska boken Bautil från 1750 [artikel](https://meta.wikimedia.org/wiki/Structured_data_for_GLAM-Wiki/Roundtripping/KMB)/[video](https://youtu.be/GeDXzInR_mA?t=974) 
 
 ## Yrkesklassificering - HISCOkoder ##
