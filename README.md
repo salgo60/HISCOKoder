@@ -3,7 +3,7 @@
 Projekt SWEPOP har skapat [Principles of Coding Swedish Historic Occupations](https://swedpop.se/wp-content/uploads/2021/06/Principles-of-Coding-Swedish-Historic-Occupations.pdf) tanken är att se om vi kan föra över det till Wikidata och se om andra aktörer rör sig åt samma håll då det gäller att digitalisera datat och röra sig mot HISCO istället för textsträngar.
 
 Tanken
-* starta dela planer --> [diskussion](https://github.com/salgo60/HISCOKoder/discussions) eller [issues](https://github.com/salgo60/HISCOKoder/issues) fungera som en start eller varför inte [Clubhouse](https://www.clubhouse.com/room/m2XWQAzx)
+* starta dela planer --> [diskussion](https://github.com/salgo60/HISCOKoder/discussions) eller [issues](https://github.com/salgo60/HISCOKoder/issues) kan fungera som en start eller varför inte [Clubhouse](https://www.clubhouse.com/room/m2XWQAzx) - [linked data needs linked people](https://twitter.com/hashtag/LinkedDataNeedsLinkedPeople?src=hash)
 * starta fundera på olikheter mellan olika yrken i maskinläsbar form
   * att bara ha textsträngar blir lätt som att ange en textsträng **Stockholm** och sedan låta läsaren gissa om det är
     *  Stockholm = [Q94385](https://www.wikidata.org/wiki/Q94385?uselang=sv), Stockholm = [Q506250](https://www.wikidata.org/wiki/Q506250?uselang=sv), Stockholm = [Q922489](https://www.wikidata.org/wiki/Q922489?uselang=sv), Stockholm = [Q876775](https://www.wikidata.org/wiki/Q876775?uselang=sv), Stockholm = [Q3233188](https://www.wikidata.org/wiki/Q3233188)..... för många mer betydelser se [Stockholm olika betydelser](https://sv.wikipedia.org/wiki/Stockholm_(olika_betydelser))
