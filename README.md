@@ -2,6 +2,11 @@
 
 Projekt SWEPOP har skapat [Principles of Coding Swedish Historic Occupations](https://swedpop.se/wp-content/uploads/2021/06/Principles-of-Coding-Swedish-Historic-Occupations.pdf?fbclid=IwAR11GjBmaQnBhqVgiI65bFh6YbvMpdoYN0IDHrKSS-Lc4DZcLXtZTc82hTo) tanken är att se om vi kan föra över det till Wikidata och se om andra aktörer rör sig åt samma håll då det gäller att digitalisera datat och röra sig mot HISCO istället för textsträngar.
 
+Tanken
+* starta dela planer
+* starta fundera på olikheter mellan olika yrken i maskinläsbarform
+* kan Wikidata vara en enabler? Min feedback från [LD4](https://sites.google.com/stanford.edu/ld4-community-site/home) är att aktörer som Stanford University Libraries, USA:s kongressbibliotek, Columbia University, Harvard Library gör detta se deras [LD4 schedule](https://ld42021.sched.com/) /  Youtube lista "[2021 LD4 Conference Videos](https://www.youtube.com/watch?v=ludJFf06w94&list=PLx2ZluWEZtICVGpkAIzRW4P17r2jFSOiY)"  
+
 ## Yrkesklassificering - HISCOkoder ##
 Status vad vi ser
 
