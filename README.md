@@ -44,6 +44,7 @@ Status vad vi ser
 
 * Historiska museet [Wikidata P9495](https://www.wikidata.org/wiki/Property_talk:P9495) - [yrken i Wikidata för dessa personer](https://w.wiki/3u2q)
   * planer finns se [tweet](https://twitter.com/linneakarlberg_/status/1427886596058198018) "Vi har interna identifierare för yrken och möjligheten finns att koppla dessa till externa, och lägga ut yrkena som egna poster på vårt onlinesök"
+  * se [Historiska museet yrken #6](https://github.com/salgo60/HISCOKoder/issues/6)
 * Kungliga biblioteket - LIBRISXL verkar bara vara textsträngar se [August Strindberg](https://libris.kb.se/tr574vdc33gk2cc/data.jsonld) - [yrken i WD för dessa personer](https://w.wiki/3u2k) - [yrken i Wikidata för dessa personer](https://w.wiki/3u2p)
 * Levande musikarv [Wikidata P4607](https://www.wikidata.org/wiki/Property_talk:P4607) - [yrken i Wikidata för dessa personer](https://w.wiki/3u2k)
 * Litteraturbanken [Wikidata P5101](https://www.wikidata.org/wiki/Property_talk:P5101)  - [yrken i Wikidata för dessa personer](https://w.wiki/3u2y)
