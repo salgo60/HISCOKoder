@@ -66,8 +66,8 @@ Status vad vi ser
   * JSON strukturerad data --> yrken [SKBLyrken_valuecount.csv](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SKBLyrken_valuecount.csv)/[csv per person](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SKBLyrken_newListdf.csv) och [Notebook JSON](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SKBL%20yrken%20JSON.ipynb)
     * SKBL har ex. Kerstin Anneka Anderson [svenska](https://skbl.se/sv/artikel/KerstinAnnekaAnderson) [engelska](https://skbl.se/en/article/KerstinAnnekaAnderson) [json](https://skbl.se/sv/artikel/KerstinAnnekaAnderson.json) där yrket i JSON har struktur
        * occupation 
-         * description - borde vara [Linked data](https://vimeo.com/36752317)  för kopplingar till arbegtsgivare etc...
-         * detail
+         * description 
+         * detail - borde vara [Linked data](https://vimeo.com/36752317)  för kopplingar till arbegtsgivare etc...
          * from
            * comment / date - borde vara maskinläsbara datum, tidsperioder
          * place
