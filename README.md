@@ -27,7 +27,7 @@ Status vad vi ser
 #### Andra aktörer som verkar sakna bra strukturerad data och koppling HISCO utan kör eget
 * Alvin [Wikidata P6821](https://www.wikidata.org/wiki/Property_talk:P6821) - [yrken i WD för i personer kopplade till Alvin](https://w.wiki/3u2w)
   * [samma fråga men visa om Wikidata har en bild](https://w.wiki/3uCW) eller bildkatalog  
-  * samma fråga men där yrkena har en artikel på [svenska wikipedia](https://w.wiki/3uEV) / [engelska](https://w.wiki/3uEi) / [tyska](https://w.wiki/3uEa) / [kinesiska](https://w.wiki/3uEs) / saknar [svensk Wikipedia artikel](https://w.wiki/3uJE)
+  * samma fråga men där yrkena också har en artikel på [svenska wikipedia](https://w.wiki/3uEV) / [engelska](https://w.wiki/3uEi) / [tyska](https://w.wiki/3uEa) / [kinesiska](https://w.wiki/3uEs) / saknar [svensk Wikipedia artikel](https://w.wiki/3uJE)
      * vilka egenskaper har dessa yrken i Wikidata idag (behövs nog en hel del jobb för att få ordning på detta)
        * av typ [Authority control properties ](https://w.wiki/3uT2)
        * alla [externa egenskaper](https://w.wiki/3uSx) 
