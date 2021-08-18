@@ -44,14 +44,14 @@ Status vad vi ser
   * har dataset [Life roles (KulturIT AS [no])](https://kulturnav.org/23c7080c-6752-4691-8c8a-ce0d65623c51) men annars verkar det ostrukturerat
   * [yrken i Wikidata för personer i kulturnav P1248](https://w.wiki/3u2s) - [P1248](https://www.wikidata.org/wiki/Property_talk:P1248)
 
-* Historiska museet [Wikidata P9495](https://www.wikidata.org/wiki/Property_talk:P9495) - [yrken i Wikidata för dessa personer](https://w.wiki/3u2q)
+* Historiska museet [Wikidata P9495](https://www.wikidata.org/wiki/Property_talk:P9495) - [yrken i Wikidata för personer kopplade till Historiska museer](https://w.wiki/3u2q)
   * planer finns se [tweet](https://twitter.com/linneakarlberg_/status/1427886596058198018) "Vi har interna identifierare för yrken och möjligheten finns att koppla dessa till externa, och lägga ut yrkena som egna poster på vårt onlinesök"
   * se [Historiska museet yrken #6](https://github.com/salgo60/HISCOKoder/issues/6)
-* Kungliga biblioteket - LIBRISXL verkar bara vara textsträngar se [August Strindberg](https://libris.kb.se/tr574vdc33gk2cc/data.jsonld) - [yrken i WD för dessa personer](https://w.wiki/3u2k) - [yrken i Wikidata för dessa personer](https://w.wiki/3u2p)
-* Levande musikarv [Wikidata P4607](https://www.wikidata.org/wiki/Property_talk:P4607) - [yrken i Wikidata för dessa personer](https://w.wiki/3u2k)
-* Litteraturbanken [Wikidata P5101](https://www.wikidata.org/wiki/Property_talk:P5101)  - [yrken i Wikidata för dessa personer](https://w.wiki/3u2y)
+* Kungliga biblioteket - LIBRISXL verkar bara vara textsträngar se [August Strindberg](https://libris.kb.se/tr574vdc33gk2cc/data.jsonld) - [yrken i WD för dessa personer](https://w.wiki/3u2k) - [yrken i Wikidata för personer kopplade till KB](https://w.wiki/3u2p)
+* Levande musikarv [Wikidata P4607](https://www.wikidata.org/wiki/Property_talk:P4607) - [yrken i Wikidata för personer kopplade till Levande musikarv](https://w.wiki/3u2k)
+* Litteraturbanken [Wikidata P5101](https://www.wikidata.org/wiki/Property_talk:P5101)  - [yrken i Wikidata för personer kopplade till Litteraturbanken](https://w.wiki/3u2y)
   * här har vi kopplat böcker som [Bellman var där. En vägvisare till Bellmansmiljöer (1997)](https://litteraturbanken.se/f%C3%B6rfattare/Anders%C3%A9nML/titlar/BellmanVarD%C3%A4r/sida/3/faksimil?om-boken) till Wikidata se [karta](https://w.wiki/mMH)/[graf](https://w.wiki/mYV) och [Runstenar till böcker hos Litteraturbanken](https://w.wiki/3Fz9) se [karta](https://w.wiki/3Fz9) se längre artikel om [dataroundtripping](https://meta.wikimedia.org/wiki/Structured_data_for_GLAM-Wiki/Roundtripping/KMB) 
-* Riksarkivet SBL [Wikidata P3217](https://www.wikidata.org/wiki/Property:P3217?uselang=sv) - [yrken i Wikidata för dessa personer](https://w.wiki/3u2i)
+* Riksarkivet SBL [Wikidata P3217](https://www.wikidata.org/wiki/Property:P3217?uselang=sv) - [yrken i Wikidata för personer kopplade till SBL](https://w.wiki/3u2i)
   * har yrken men ingen koppling till HISCO koder [länk](https://sok.riksarkivet.se/sbl/YrkesSearch.aspx?fbclid=IwAR1CHuNsVj45vQyh9LTy-vJV7344qhMys421nlIY3Jq82h1KqcQZlH3B70o) 
   * se [csv fil](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SBLyrken.csv) och [Notebook](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Yrken%20SBL.ipynb)
   * jämförelse yrken hos SKBL och SBL - [Notebook](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/J%C3%A4mf%C3%B6r%20yrken%20SBL%20SKBL.ipynb) / [csv fil](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SKBL_SBL_yrken.csv)
@@ -62,7 +62,7 @@ Status vad vi ser
 
 * [Stadens ansikte](https://stockholmia.stockholm.se/forskning/projekt/stadens-ansikten/) ingen koppling idag till Wikidata 
   * se försök att öppna en dialog [T268374](https://phabricator.wikimedia.org/T268374) 
-* Svenskt Kvinnobiografiskt lexikon [Wikidata P4963](https://www.wikidata.org/wiki/Property_talk:P4963) - [yrken i Wikidata för dessa personer](https://w.wiki/3u2h)
+* Svenskt Kvinnobiografiskt lexikon [Wikidata P4963](https://www.wikidata.org/wiki/Property_talk:P4963) - [yrken i Wikidata för personer kopplade till SKBL](https://w.wiki/3u2h)
   * har vissa yrken som [nyckelord](https://skbl.se/sv/nyckelord)  
   * se [csv fil](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SKBLyrken.csv) och [Notebook](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Yrken%20SKBL.ipynb)
   * JSON strukturerad data --> yrken [SKBLyrken_valuecount.csv](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SKBLyrken_valuecount.csv)/[csv per person](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SKBLyrken_newListdf.csv) och [Notebook JSON](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SKBL%20yrken%20JSON.ipynb)
