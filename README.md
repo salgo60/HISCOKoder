@@ -1,6 +1,6 @@
 # HISCOKoder - Historiska yrken #
 
-Kan vi Digitalt koppla ihop historiska yrken **"same as"**? Känns som en lågt hängande frukt... utmaningen är nog att börja jobba ihop och ha [https://www.youtube.com/watch?v=502ILHjX9EE publika backlogs]....
+Kan vi Digitalt koppla ihop historiska yrken **"same as"**? Känns som en lågt hängande frukt... utmaningen är nog att börja jobba ihop och ha [publika backlogs](https://www.youtube.com/watch?v=502ILHjX9EE)....
 
 Projekt SWEPOP har skapat [Principles of Coding Swedish Historic Occupations](https://swedpop.se/wp-content/uploads/2021/06/Principles-of-Coding-Swedish-Historic-Occupations.pdf) tanken är att se om vi kan föra över det till Wikidata och se om andra aktörer rör sig åt samma håll då det gäller att digitalisera datat och röra sig mot HISCO istället för textsträngar.
 
