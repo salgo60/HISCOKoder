@@ -15,6 +15,13 @@ Tanken
      * API ex. [SKBL](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SKBL%20yrken%20JSON.ipynb)
      * dokumentation ex. [SWEPOP](https://swedpop.se/wp-content/uploads/2021/06/Principles-of-Coding-Swedish-Historic-Occupations.pdf)
      * att skapa en mer avancerad modell för yrken och kopplingen till person se [JSON filen](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SKBL%20yrken%20JSON.ipynb) från SKBL mer beskriven nedan där man anger när en person jobbar med ett visst yrke och var....
+     * att ha en modell för vilka egenskaper som behövs för att beskriva ett yrke se Wikidata spretiga försök med 
+        * kvinnlig form [P2521](https://www.wikidata.org/wiki/Property:P2521)
+        * manlig form [P3321](https://www.wikidata.org/wiki/Property:P3321)
+        * egenskaper för denna objekttyp [Property:P1963](https://www.wikidata.org/wiki/Property:P1963)
+        * verksamhetsområde [P425](https://www.wikidata.org/wiki/Property:P425)
+        * beskriven av källa [P1343](https://www.wikidata.org/wiki/Property:P1343)
+        * föremål eller koncept som används av subjektet [P2283](https://www.wikidata.org/wiki/Property:P2283)....
      * ?!?!?
 
 ## Yrkesklassificering - HISCOkoder ##
