@@ -14,6 +14,7 @@ Tanken
   * vad behövs i Wikidata för att vi skall starta i Sverige!!! Vilka är intresserade och vilka byggstenar har ni? 
      * API ex. [SKBL](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SKBL%20yrken%20JSON.ipynb)
      * dokumentation ex. [SWEPOP](https://swedpop.se/wp-content/uploads/2021/06/Principles-of-Coding-Swedish-Historic-Occupations.pdf)
+     * att skapa en mer avancerad modell för yrken och kopplingen till person se [JSON filen](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SKBL%20yrken%20JSON.ipynb) från SKBL mer beskriven nedan där man anger när en person jobbar med ett visst yrke och var....
      * ?!?!?
 
 ## Yrkesklassificering - HISCOkoder ##
