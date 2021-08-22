@@ -55,7 +55,7 @@ Status vad vi ser
   * har lite struktur men inga kopplingar HISCOkoder finns ett schema ej åtkomligt https://arken.kb.se/Actor-occupations
     * exempel 
       * SKOS [Diplomater](https://arken.kb.se/Diplomater;skos)   
-        * finns stöd för flerspråkighet men verkar inte användas mer än på texten "_Yrken för aktör_"
+        * finns stöd för flerspråkighet 
       * SKOS [Författare](https://arken.kb.se/F%C3%B6rfattare;skos)  
       * SKOS [filmproducenter](https://arken.kb.se/filmproducenter)
         * finns stöd BT (Broader term), NT (Narrow term)  
