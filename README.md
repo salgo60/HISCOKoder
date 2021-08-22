@@ -86,7 +86,7 @@ Status vad vi ser
 
 * [Stadens ansikte](https://stockholmia.stockholm.se/forskning/projekt/stadens-ansikten/) ingen koppling idag till Wikidata 
   * se försök att öppna en dialog [T268374](https://phabricator.wikimedia.org/T268374) 
-* Svenskt Kvinnobiografiskt lexikon [Wikidata P4963](https://www.wikidata.org/wiki/Property_talk:P4963) - [yrken i Wikidata för personer kopplade till SKBL](https://w.wiki/3u2h)
+* Svenskt Kvinnobiografiskt lexikon [Wikidata P4963](https://www.wikidata.org/wiki/Property_talk:P4963) - [yrken i Wikidata för personer kopplade till SKBL](https://w.wiki/3u2h) motsv. [partitillhörighet](https://w.wiki/3wPR)
   * har vissa yrken som [nyckelord](https://skbl.se/sv/nyckelord)  
   * se [csv fil](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SKBLyrken.csv) och [Notebook](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Yrken%20SKBL.ipynb)
   * JSON strukturerad data --> yrken [SKBLyrken_valuecount.csv](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SKBLyrken_valuecount.csv)/[csv per person](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SKBLyrken_newListdf.csv) och [Notebook JSON](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/SKBL%20yrken%20JSON.ipynb)
