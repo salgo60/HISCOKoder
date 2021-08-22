@@ -1,3063 +1,2632 @@
 ,yrke
-Professor,3510
-Physician,3370
-Surgeon,958
-professor,755
-författare,625
-Politician,580
-konstnär,529
-Botanist,526
-Konstnär,475
-Anatomist,463
-Författare,394
-Chemist,386
-Physiologist,353
-Philologist,352
-Historian,319
-Mathematician,308
-Physicist,302
-Zoologist,294
-Philosopher,281
-Poet,272
-Theologian,256
-Ophthalmologist,255
-Pathologist,255
-Astronomer,246
-Man of letters,244
-Naturalist,232
-Painter,225
-Author,224
-Clergyman,216
-politiker,204
-Jurist,202
-Psychiatrist,198
-Geologist,197
-Gynaecologist,197
-Internist,190
-Explorer,185
-Librarian,185
-Natural scientist,180
-Neurologist,170
-Officer,160
-Tonsättare,158
-Engraver,154
-Orientalist,145
-Gravör,141
-Judge,134
-Journalist,133
-Antiquary,131
-Editor,128
-Diplomat,127
-Präst,122
-Bookseller,121
-Hygienist,118
-Bacteriologist,118
-Official,117
-Archaeologist,114
-Publisher,114
-Politiker,113
-Engineer,113
-Writer,113
+professor,4265
+physician,3372
+författare,1019
+konstnär,1004
+surgeon,958
+politician,581
+botanist,556
+anatomist,463
+chemist,386
+physiologist,353
+philologist,352
+historian,319
+politiker,317
+mathematician,308
+poet,307
+physicist,302
+zoologist,297
+philosopher,281
+theologian,256
+pathologist,255
+ophthalmologist,255
+jurist,251
+astronomer,246
+man of letters,244
+journalist,234
+naturalist,233
+painter,225
+author,224
+clergyman,217
+psychiatrist,198
+gynaecologist,197
+geologist,197
+internist,190
+gravör,188
+präst,186
+explorer,185
+librarian,185
+natural scientist,180
+läkare,174
+diplomat,171
+neurologist,170
+tonsättare,168
+officer,166
+kompositör,161
+skådespelare,158
+engraver,154
+redaktör,154
+orientalist,151
+teolog,141
+historiker,135
+judge,134
+antiquary,131
+arkeolog,131
+editor,128
+bookseller,121
+bacteriologist,118
+arkitekt,118
+hygienist,118
+official,117
+archaeologist,115
+publisher,114
+writer,113
+engineer,113
 fil. dr.,112
-redaktör,108
-journalist,101
-Pharmacist,101
-skådespelare,100
-Pediatrician,99
-läkare,97
-Teolog,94
-Mineralogist,93
-Geographer,92
-Pharmacologist,87
-kompositör,86
-Medical historian,85
-Member of Parliament,85
-Historiker,83
-Obstetrician,82
-Lawyer,79
-Dermatologist,78
-Läkare,77
-Biologist,77
-Entomologist,76
-Kompositör,75
-fotograf,74
-direktör,74
-Oto-rhino-laryngologist,71
-Arkeolog,70
-Dermato-venereologist,69
-Printer,68
-skriftställare,65
-präst,64
-Inventor,63
-arkitekt,63
-lektor,63
-Photographer,62
-Minister,62
-arkeolog,61
-Språkforskare,61
-Architect,59
-Bishop,59
-Skådespelare,58
-General,56
-Histologist,55
-Arkitekt,55
-Publicist,53
-rektor,53
-översättare,53
-historiker,52
-docent,52
-Orthopedist,51
-Statesman,51
-bibliotekarie,50
-Fil dr,50
-Naval officer,50
-jurist,49
-Teacher,48
-Artist,48
-teolog,47
-Översättare,47
-gravör,47
-Veterinary,47
-fysiker,47
-Målare,47
-Barrister,46
-Redaktör,46
-landshövding,46
-Antiquarian,45
-Anthropologist,45
-diplomat,44
-Konsthistoriker,44
-Linguist,44
-Medical officer,43
-Collector,43
-kemist,42
-Sculptor,42
-lärare,42
-Lärare,42
-Otologist,41
-Filosof,41
-Ämbetsman,41
-biskop,40
-Traveller,40
-Philanthropist,39
-Militär,39
-ämbetsman,39
-Archiater,38
-Scientific author,38
-Tecknare,38
-Economist,37
-Translator,37
-Radiologist,37
-skulptör,37
-Zoolog,36
-Bibliographer,36
-Army officer,36
-målare,35
-poet,35
-Geolog,35
-Skulptör,35
-regissör,35
-Urologist,34
-Numismatist,34
-Geograf,34
+direktör,104
+pharmacist,101
+översättare,100
+pediatrician,99
+fotograf,97
+mineralogist,93
+geographer,92
+pharmacologist,87
+skriftställare,85
+medical historian,85
+member of parliament,85
+lärare,84
+obstetrician,82
+målare,82
+publicist,81
+ämbetsman,80
+rektor,79
+lektor,79
+lawyer,79
+dermatologist,78
+bibliotekarie,78
+fil dr,77
+biologist,77
+entomologist,76
+språkforskare,75
+konsthistoriker,74
+skulptör,72
+militär,71
+oto-rhino-laryngologist,71
+fysiker,70
+minister,70
+dermato-venereologist,69
+printer,68
+filosof,68
+landshövding,67
+biskop,65
+geolog,65
+zoolog,64
+inventor,63
+photographer,62
+artist,61
+general,61
+bishop,59
+architect,59
+docent,59
+geograf,56
+histologist,55
+tecknare,55
+kemist,54
+regissör,54
+tidningsman,52
+orthopedist,51
+statesman,51
+naval officer,50
+konstnärinna,50
+teacher,48
+veterinary,47
+kyrkoherde,46
+barrister,46
+bokförläggare,45
+anthropologist,45
+antiquarian,45
+linguist,44
+medical officer,43
+botaniker,43
+collector,43
+museiman,43
+litteraturhistoriker,43
+ingenjör,42
+sculptor,42
+otologist,41
+violinist,40
+traveller,40
+philanthropist,39
+archiater,38
+kapellmästare,38
+skådespelerska,38
+scientific author,38
+radiologist,37
+translator,37
+economist,37
+riksdagsman,36
+army officer,36
+bibliographer,36
+universitetslärare,36
+organist,35
+matematiker,34
+filolog,34
+urologist,34
+numismatist,34
 överbibliotekarie,33
-tidningsman,33
-Industrialist,33
-Violinist,32
-militär,32
-Agronomist,31
-Konstnärinna,31
-konsthistoriker,30
-Direktör,30
-Kapellmästare,30
-geolog,30
-botanist,30
-museiman,30
-Book collector,29
-Palaeontologist,29
-Art historian,29
-Bibliotekarie,28
-zoolog,28
-publicist,28
-Composer,28
-riksdagsman,28
-Numismatiker,28
-Ornithologist,28
-Skådespelerska,27
-Actor,27
-fil dr,27
-Biographer,27
-Organist,27
-Cardinal,27
-filosof,27
-Bokförläggare,27
-Laryngologist,27
-ingenjör,26
-Mayor,26
-Egyptologist,26
-Rektor,26
-oceanograf,25
-Lithographer,25
-Kyrkoherde,25
-Biskop,25
-Literary historian,25
-Biochemist,25
-Classical scholar,25
-statsråd,25
-Natural historian,24
+industrialist,33
+författarinna,33
+nationalekonom,32
+advokat,32
+skolman,32
+affärsman,31
+numismatiker,31
+kritiker,31
+agronomist,31
+friherre,30
+palaeontologist,29
+art historian,29
+dirigent,29
+book collector,29
+biblioteksman,28
+ornithologist,28
+composer,28
+statsråd,28
+godsägare,28
+grafiker,27
+laryngologist,27
+ambassadör,27
+litteraturkritiker,27
+oceanograf,27
+cardinal,27
+actor,27
+biographer,27
+mayor,26
+egyptologist,26
+literary historian,26
+biochemist,25
+classical scholar,25
+lantmätare,25
+lithographer,25
+musiker,25
+dr phil,25
+grosshandlare,25
+greve,25
+banker,24
+teaterdirektör,24
+natural historian,24
+civilingenjör,24
 förste bibliotekarie,24
-Paleontologist,24
-Banker,24
-botaniker,23
-Diplomatist,23
-universitetslärare,23
-Fotograf,23
-Scientist,23
-Fysiker,23
-Natural philosopher,23
-Medaljgravör,23
-Forensic surgeon,23
-Psychologist,23
-Litteraturhistoriker,22
+industriman,24
+paleontologist,24
+teaterchef,24
+pianist,24
+chefredaktör,23
+kopparstickare,23
+medaljgravör,23
+psychologist,23
+kartograf,23
+natural philosopher,23
+läroverkslärare,23
+dr,23
+diplomatist,23
+pedagog,23
+scientist,23
+intendent,23
+forensic surgeon,23
 fil. lic.,22
-dirigent,22
-geograf,22
-Civil servant,22
-Prime minister,22
-ambassadör,22
-Portrait painter,21
-Kopparstickare,21
-kyrkoherde,21
-litteraturhistoriker,21
-Meteorologist,21
-intendent,21
-Landshövding,21
+civil servant,22
+riksdagsledamot,22
+prime minister,22
+sångerska,22
+riksråd,21
+meteorologist,21
+portrait painter,21
+meteorolog,21
+envoyé,21
 ,21
-Educationalist,20
-Matematiker,20
-författarinna,20
-Filolog,20
-Skriftställare,20
-Lord Chancellor,20
-Botaniker,20
-Biblioteksman,20
-Musician,20
-Dentist,20
-meteorolog,19
-Regissör,19
-Archivist,19
-teaterdirektör,19
-godsägare,19
-teaterchef,19
-Tidningsman,19
-konstnärinna,19
-Mechanician,19
-Skolman,19
-Oto-laryngologist,18
-friherre,18
-Indologist,18
-advokat,18
-bokförläggare,18
-Nationalekonom,18
-grafiker,18
-Archbishop,18
-Dramatist,18
-Litteraturforskare,17
-Autograph collector,17
-Epidemiologist,17
-Statistician,17
-Alienist,17
-Kritiker,17
-Affärsman,17
-tecknare,17
-Landowner,17
-sångerska,17
-chefredaktör,16
-Lektor,16
-sångare,16
-överläkare,16
-Merchant,16
-Ingenjör,16
-läroverkslärare,16
-Roentgenologist,15
-Ethnographer,15
-Grosshandlare,15
-Scholar,15
-Boktryckare,15
-Greve,15
-Draughtsman,15
-Topographer,15
-Novelist,15
-Curator,15
-Litteraturkritiker,14
-kritiker,14
-generalkonsul,14
-pedagog,14
-PhD,14
-envoyé,14
-Embryologist,14
-nationalekonom,14
-Medico-legal examiner,14
-riksdagsledamot,14
-Missionary,14
-affärsman,14
-matematiker,14
-musiker,14
-industriman,14
-Courtier,14
-filolog,14
-språkforskare,14
-Advokat,14
-Agriculturist,14
-Förläggare,14
-Stomatologist,13
-Administrator,13
-Instrument maker,13
-Litograf,13
-Folklorist,13
-arkivarie,13
-Lingvist,13
-Bokhandlare,13
-Civilingenjör,13
-Historian of medicine,13
-artist,13
-Lantmätare,13
-Författarinna,13
-Civil engineer,13
-pianist,13
-Universitetslärare,13
-Museiman,13
-Secretary,13
-Myntmästare,13
-skolman,13
-Museum curator,13
-Headmaster,13
-litteraturkritiker,13
-Friherre,12
-Admiral,12
-lantmätare,12
-Kemist,12
-Dr phil,12
-Educationist,12
-Apothecary,12
-Kartograf,12
-riksråd,12
-Oculist,12
-Paleontolog,12
-Ethnologist,12
-dr.,12
-dr,12
-Psychoanalyst,12
-Arctic explorer,12
-Hydrographer,12
-Fil lic,12
-Colonial governor,11
-kammarherre,11
-Homeopath,11
-astronom,11
-Political writer,11
-Genealogist,11
-Musiker,11
-kartograf,11
-Pianist,11
-Överste,11
-Dr,11
-skådespelerska,11
-Fil kand,11
-Advocate,11
-operasångare,11
-Art collector,11
-civilingenjör,11
-forskningsresande,11
-Optician,11
-Missionär,11
-College head,11
-Hydrotherapist,11
-Etsare,10
-biolog,10
-folkskollärare,10
-Patron of the arts,10
-dr phil,10
-grosshandlare,10
-tonsättare,10
-statsminister,10
-Parasitologist,10
-greve,10
-naturforskare,10
-Dr. phil.,10
+förläggare,21
+lord chancellor,20
+educationalist,20
+fil lic,20
+överläkare,20
+musician,20
+dentist,20
+boktryckare,20
+astronom,20
+skald,19
+överste,19
+archivist,19
+mechanician,19
+borgmästare,19
+folkskollärare,19
+sångare,19
+generalkonsul,18
+indologist,18
+archbishop,18
+litteraturforskare,18
+oto-laryngologist,18
+dramatist,18
+lingvist,18
+landowner,17
+epidemiologist,17
+missionär,17
+statistician,17
+alienist,17
+autograph collector,17
+merchant,16
+generallöjtnant,16
+paleontolog,15
+operasångare,15
+arkivarie,15
+naturforskare,15
+litograf,15
+scholar,15
+roentgenologist,15
+bokhandlare,15
+musiklärare,15
+ethnographer,15
+curator,15
+topographer,15
+illustratör,15
+draughtsman,15
+bankdirektör,15
+novelist,15
+agriculturist,14
+phd,14
+missionary,14
+justitieråd,14
+lärarinna,14
+medico-legal examiner,14
+humanist,14
+courtier,14
+embryologist,14
+prost,14
+dr.,14
+litteraturvetare,14
+fil kand,14
+stomatologist,13
+myntmästare,13
+instrument maker,13
+forskningsresande,13
+headmaster,13
+secretary,13
+historian of medicine,13
+generaldirektör,13
+folklorist,13
+överstelöjtnant,13
+museum curator,13
+major,13
+statsminister,13
+konsthandlare,13
+biolog,13
+museichef,13
+administrator,13
+skeppsredare,13
+civil engineer,13
+domprost,13
+oculist,12
+kammarherre,12
+polarforskare,12
+hydrographer,12
+arctic explorer,12
+ethnologist,12
+admiral,12
+operasångerska,12
+apothecary,12
+educationist,12
+kapten,12
+psychoanalyst,12
+fil. dr.,11
+dramatiker,11
+political writer,11
+homeopath,11
+köpman,11
+genealogist,11
+jur kand,11
+musikdirektör,11
+optician,11
+advocate,11
+art collector,11
+colonial governor,11
+hydrotherapist,11
+kommunalpolitiker,11
+sociolog,11
+etsare,11
+generalmajor,11
+college head,11
+kyrkohistoriker,10
+theatre manager,10
 fil. kand.,10
-Theatre manager,10
-Political scientist,10
-Kontraktsprost,10
-Skald,10
-Industriman,10
-generallöjtnant,10
-Caricaturist,10
-borgmästare,10
-museichef,10
-prost,10
-Grafiker,9
-Godsägare,9
-Singer,9
-Water colour painter,9
-Schoolmaster,9
-Toxicologist,9
-polarforskare,9
-Microbiologist,9
-Borgmästare,9
-lärarinna,9
-Humanist,9
-Metallurgist,9
-Conchologist,9
-Jesuit,9
-Medaljkonstnär,9
-Surveyor,9
+språkman,10
+museiintendent,10
+patron of the arts,10
+political scientist,10
+sekreterare,10
+ekonom,10
+folkskoleinspektör,10
+kontraktsprost,10
+psykolog,10
+dr. phil.,10
+lantbrukare,10
+entomolog,10
+konstkritiker,10
+parasitologist,10
+caricaturist,10
+statistiker,9
+cartographer,9
+dottore,9
+skribent,9
+cardiologist,9
+predikant,9
+etnolog,9
+formgivare,9
+konsul,9
+göteborg,9
+metallurgist,9
+grevinna,9
+director,9
+kyrkoman,9
+balneotherapist,9
+conchologist,9
+toxicologist,9
+medaljkonstnär,9
+hovman,9
+jesuit,9
+statsvetare,9
+microbiologist,9
+ärkebiskop,9
+surveyor,9
+schoolmaster,9
+tryckare,9
+lecturer,9
+gymnasielärare,9
 marinbiolog,9
-Astronom,9
-Göteborg,9
-Folkskollärare,9
-Lecturer,9
-bankdirektör,9
-Riksråd,9
-Musiklärare,9
-Pedagog,9
-museiintendent,9
-Balneotherapist,9
+water colour painter,9
+singer,9
 vissångare,9
-skald,9
-Cardiologist,9
-Cartographer,9
-överste,8
-Tuberculosis specialist,8
-Gardener,8
-Riksdagsledamot,8
-Phrenologist,8
-kapten,8
-Litteraturvetare,8
-Principal,8
-Literary scholar,8
-Skeppsredare,8
-fil. dr h.c.,8
-Critic,8
-Fil. dr.,8
-violinist,8
-Sheriff,8
-organist,8
-Ekonom,8
-minister,8
-med dr,8
 huvudredaktör,8
-Colonial administrator,8
-operasångerska,8
-Hellenist,8
-Literary critic,8
-Riksdagsman,8
-Kyrkohistoriker,8
-fil lic,8
-Kyrkoman,8
-Ophthalmic surgeon,8
-Literary editor,8
-generaldirektör,8
-Illustratör,8
-Man of science,8
-kapellmästare,8
-Venereologist,8
-Horticulturist,8
-Lexicographer,8
-Printmaker,8
-biblioteksman,8
-illustratör,7
-Malacologist,7
-Physical anthropologist,7
-Docent,7
-Envoyé,7
-Polymath,7
-Personhistoriker,7
-Legal writer,7
-Astrologer,7
-Seaman,7
-major,7
+personhistoriker,8
+brukspatron,8
+gardener,8
+man of science,8
+fil mag,8
+ophthalmic surgeon,8
+gymnastikdirektör,8
+konsthantverkare,8
+colonial administrator,8
+venereologist,8
+sheriff,8
+printmaker,8
+phrenologist,8
+literary editor,8
+librettist,8
+överintendent,8
+bankir,8
+tuberculosis specialist,8
+horticulturist,8
+guvernör,8
+justerare,8
+riksantikvarie,8
+diktare,8
+mineralog,8
+lexicographer,8
+fil. dr h.c.,8
+hellenist,8
+med dr,8
+literary critic,8
+critic,8
+literary scholar,8
+principal,8
+physical anthropologist,7
+university administrator,7
+bankman,7
+marshal,7
+unitarian minister,7
+genetiker,7
+bildhuggare,7
+manufacturer,7
+legal writer,7
 hydrograf,7
-Musikdirektör,7
-riksantikvarie,7
-Stockholm,7
-Läroverkslärare,7
-University administrator,7
-Congregational minister,7
-Statsvetare,7
-Unitarian minister,7
+uppfinnare,7
+musikförläggare,7
 lutsångare,7
-Businessman,7
-Justitieråd,7
+psykiater,7
 läroverksadjunkt,7
-Kung,7
-konstkritiker,7
-förläggare,7
-överstelöjtnant,7
+överdirektör,7
+malacologist,7
+radioman,7
+borgarråd,7
+antikvarie,7
 teol dr,7
-Technologist,7
-justitieråd,7
-psykolog,7
-Museum director,7
-generalmajor,7
-Dirigent,7
+seaman,7
+astrologer,7
+congregational minister,7
+sinologist,7
 fil.dr.,7
-konsul,7
-Tryckare,7
-Sinologist,7
-Director,7
-Marshal,7
-Historiographer,7
-Chefredaktör,7
-folkskoleinspektör,7
-domprost,7
-konsthandlare,7
-Manufacturer,7
-Herald,6
-Cricketer,6
-Statistiker,6
-dramatiker,6
-Generallöjtnant,6
-missionär,6
-radioman,6
-Brewer,6
-Konsthandlare,6
-Lantbrukare,6
-Librettist,6
-Land surveyor,6
-kommunalpolitiker,6
-Gymnasielärare,6
-grevinna,6
-Bankdirektör,6
-Domprost,6
-Palaeographer,6
-Ichtyologist,6
-Scandinavian philologist,6
-Köpman,6
-Captain,6
-University teacher,6
-officer,6
-Oslo,6
-Nobelpristagare,6
-Överstelöjtnant,6
+bildkonstnär,7
+museum director,7
+kulturhistoriker,7
+stockholm,7
+kung,7
+businessman,7
+teckningslärare,7
+medicinare,7
+byråchef,7
+historiographer,7
+technologist,7
+industriidkare,7
+genealog,7
+sjöofficer,7
+arkivman,7
+polymath,7
+komminister,7
+palaeographer,6
+land surveyor,6
+med dr,6
+visdiktare,6
+chamberlain,6
+pastor,6
+senator,6
+bergsråd,6
+herald,6
+ichtyologist,6
+hovpredikant,6
+scandinavian philologist,6
+berlin,6
+nobelpristagare,6
 fil. dr. h. c.,6
-jur kand,6
-Major,6
-Illustrator,6
-Mystic,6
-Justerare,6
-sociolog,6
-musiklärare,6
+alchemist,6
+religionshistoriker,6
+amiral,6
+etnograf,6
+museidirektör,6
+illustrator,6
+teol dr,6
+apotekare,6
+oslo,6
+antikforskare,6
+soprintendente,6
 utrikesminister,6
-Alchemist,6
-Navigator,6
-orientalist,6
-Landed proprietor,6
-Predikant,6
-Bankir,6
-litteraturvetare,6
-språkman,6
-Berlin,6
-Chamberlain,6
-Religionshistoriker,6
-gymnastikdirektör,5
-schlagertextförfattare,5
-diktare,5
-Assyriologist,5
-antikvarie,5
-dottore,5
-Electrician,5
-Genealog,5
-musikskriftställare,5
-Lexikograf,5
-jur kand,5
-Med dr,5
-boktryckare,5
-Naturforskare,5
-Kommunalpolitiker,5
-guvernör,5
+disponent,6
+mystic,6
+förlagschef,6
+kommendör,6
+kantor,6
+navigator,6
+landed proprietor,6
+captain,6
+lexikograf,6
+brewer,6
+löjtnant,6
+superintendent,6
+rådman,6
+konstsamlare,6
+cricketer,6
+university teacher,6
+phonetician,5
+oceanographer,5
+rättsvetenskapsman,5
+naval architect,5
+agricultural chemist,5
+statsman,5
+inspector,5
+hovkapellmästare,5
+fältmarskalk,5
+revolutionary,5
+medaljör,5
+historian of science,5
+landsantikvarie,5
+vice häradshövding,5
+germanist,5
+fornforskare,5
+clerk,5
+rear-admiral,5
 musikpedagog,5
-entomolog,5
-Hovman,5
-humanist,5
-Administrator in India,5
-Teaterdirektör,5
-disponent,5
+assyriologist,5
+abbot,5
+forskare,5
+fysiolog,5
+musikskriftställare,5
 teol. dr. h. c.,5
-pastor,5
-Clerk,5
-lingvist,5
-köpman,5
-Auctioneer,5
-Educator,5
-etnograf,5
-Typographer,5
-Phonetician,5
-Sekreterare,5
-Museidirektör,5
-Ambassadör,5
-Inspector,5
-Genetiker,5
-Sociolog,5
-Agricultural chemist,5
-visdiktare,5
-Medaljör,5
-Actress,5
-Abbot,5
-etnolog,5
-Factory owner,5
-Polar explorer,5
-skeppsredare,5
-medicinare,5
-Germanist,5
-byråchef,5
-överintendent,5
-Physiotherapist,5
-Entomolog,5
-Jur kand,5
-teckningslärare,5
-Antikforskare,5
-Art dealer,5
-Sångerska,5
-Revolutionary,5
-Industriidkare,5
-Colonel,5
-Tradesman,5
-Soldier,5
-borgarråd,5
-Mycologist,5
-Historian of science,5
-Archbishop of Canterbury,5
-sekreterare,5
-ärkebiskop,5
-brukspatron,5
-Lärarinna,5
-Rector,5
-Forester,5
-Senator,5
-general,5
-Generaldirektör,5
-Formgivare,5
+essayist,5
+bruksägare,5
+tradesman,5
+educator,5
+musikkritiker,5
+gymnast,5
+electrician,5
+språkvetare,5
+sjökapten,5
 fil. mag.,5
-mineralog,5
-Oceanographer,5
-skribent,5
-Naval architect,5
-Rear-admiral,5
-Dramatiker,5
-Plant collector,5
-Gymnast,5
-förlagschef,5
-Teaterchef,5
-Miscellaneous writer,4
-riksbibliotekarie,4
-Språkman,4
-Operasångare,4
-viceamiral,4
-Theosophist,4
-Överläkare,4
-Demographer,4
-Akademiräntmästare,4
-undervisningsråd,4
-ståthållare,4
-State archivist,4
-psykiater,4
-sångpedagog,4
-Police magistrate,4
-glaskonstnär,4
-Skribent,4
-Sociologist,4
-Church historian,4
-Cellist,4
-Farmer,4
-jägmästare,4
-Scientific writer,4
-soprintendente,4
-Generalkonsul,4
+schlagertextförfattare,5
+amanuens,5
+kansliråd,5
+colonel,5
+forester,5
+jägmästare,5
+typographer,5
+administrator in india,5
+klassisk filolog,5
+auctioneer,5
+mycologist,5
+polar explorer,5
+jur kand,5
+rector,5
+factory owner,5
+physiotherapist,5
+archbishop of canterbury,5
+soldier,5
+art dealer,5
+fiskeribiolog,5
+plant collector,5
+legationsråd,5
+folklivsforskare,5
+förlagsman,5
+egyptolog,5
+fabrikör,5
+ombudsman,5
+lagman,5
+actress,5
+naturvetenskapsman,5
+ryttmästare,4
+folkhögskolelärare,4
+army surgeon,4
+naturvetare,4
+teaterledare,4
 med. dr. h. c.,4
-Operasångerska,4
-Egyptolog,4
-legationsråd,4
-Bergsråd,4
-Paris,4
-Hovkapellmästare,4
-Zymologist,4
-Priest,4
-musikdirektör,4
-revyartist,4
-Superintendent,4
-London,4
-Prefect,4
-Playwright,4
-revyförfattare,4
-hovpredikant,4
-lantbrukare,4
-sjökapten,4
-Kulturhistoriker,4
-Sjöofficer,4
-formgivare,4
-Bildhuggare,4
-fil mag,4
-Konsthantverkare,4
-amanuens,4
-bildkonstnär,4
-fysiolog,4
-kantor,4
-Magician,4
-Kapten,4
-folklivsforskare,4
-fiskeribiolog,4
-Medical jurist,4
-Folkhögskoleman,4
-Typefounder,4
-Notkopist,4
-hovman,4
-kommendörkapten,4
-Arrangör,4
-Master in chancery,4
-Essayist,4
-Political economist,4
-Överdirektör,4
-Prost,4
-militärattaché,4
-Court official,4
-Generalmajor,4
-Freemason,4
-Consul-general,4
-teaterkritiker,4
-bankman,4
-komminister,4
-Prehistorian,4
-Etcher,4
-Army surgeon,4
-konsthantverkare,4
-Professor i historia,4
-Biblical Scholar,4
-landsantikvarie,4
-Dottore,4
-Consul,4
-ombudsman,4
-Kommunalman,4
-Jeweller,4
-Etnolog,4
-uppfinnare,4
-Military surgeon,4
-Museum keeper,4
-Naturvetare,4
-Ärkebiskop,4
-Teol dr,4
-Literary man,4
-Musikförläggare,4
-Gastronome,4
-Governor,4
-Rådman,4
-Immunologist,4
-Fil mag,4
-Vice-chancellor,4
-Arkivman,4
+sociologist,4
+konservator,4
+filmproducent,4
+bergsingenjör,4
+zymologist,4
+political economist,4
+prehistorian,4
+gitarrist,4
+kommunalman,4
+vice-chancellor,4
+retoriker,4
+military surgeon,4
+dekorationsmålare,4
+körledare,4
+skriftställarinna,4
+court official,4
+viceamiral,4
+antropolog,4
+farmer,4
+undervisningsråd,4
+church historian,4
+london,4
+riksbibliotekarie,4
+tandläkare,4
+skolföreståndarinna,4
+stadsbibliotekarie,4
+kammarråd,4
 astrofysiker,4
+cellist,4
+skolföreståndare,4
+demographer,4
+teaterkritiker,4
+folkhögskoleman,4
+theosophist,4
+biblical scholar,4
+akademiräntmästare,4
+literary man,4
+förlagsredaktör,4
+kommendörkapten,4
+revyförfattare,4
+gastronome,4
+glaskonstnär,4
+ornitolog,4
+governor,4
+consul,4
+filmregissör,4
+sjukgymnast,4
+typefounder,4
+bruksdisponent,4
+paris,4
+master in chancery,4
+consul-general,4
+police magistrate,4
+lyriker,4
+revyartist,4
+pressattaché,4
+domare,4
+prefect,4
+museum keeper,4
+etcher,4
+professor i historia,4
+revisor,4
+arméofficer,4
+jeweller,4
+läroboksförfattare,4
+häradshövding,4
+sjuksköterska,4
+freemason,4
+arrangör,4
+medical jurist,4
+priest,4
+militärattaché,4
+konstnär.,4
+musikteoretiker,4
+notkopist,4
+sångpedagog,4
+ståthållare,4
+friherrinna,4
+universitetslektor,4
+kommissionslantmätare,4
+miscellaneous writer,4
+jur dr,4
+playwright,4
+magician,4
+state archivist,4
+scientific writer,4
+immunologist,4
+teaterman,3
+electrical engineer,3
+serologist,3
+speaker of the house of commons,3
+social reformer,3
+journal editor,3
+fastighetsdirektör,3
+byrådirektör,3
+neurophysiologist,3
+företagsekonom,3
+finansman,3
 hovsångerska,3
-Brukspatron,3
-Amiral,3
-Stockbroker,3
-Lichenologist,3
-musikförläggare,3
-Secretary of State,3
-numismatiker,3
-Naval surgeon,3
-Newspaper editor,3
-Serologist,3
-gitarrist,3
-essäist,3
-Bryologist,3
-generalguvernör,3
-musikvetare,3
-Neurophysiologist,3
-Bankman,3
-arkivman,3
-Psykolog,3
-fil kand,3
-statistiker,3
-partiordförande,3
-Actuary,3
-sjuksköterska,3
-fru,3
-Bibliophile,3
-förlagsredaktör,3
-Statsråd,3
-filosofie doktor,3
-Naturvetenskapsman,3
-Mesmerist,3
-Presbyterian minister,3
-stadsarkitekt,3
-Commissioner,3
-Alpinist,3
-Wood-engraver,3
-Endocrinologist,3
-Grevinna,3
-Taxidermist,3
-univ.lärare,3
+surgeon-general,3
+naval surgeon,3
 filantrop,3
-Dansk författare,3
-Musicologist,3
-Man-midwife,3
-Wholesaler,3
-Journal editor,3
-konstsamlare,3
-East India Co. director,3
-ornitolog,3
-Public servant,3
-Tandläkare,3
-Recorder,3
-Serjeant-at-law,3
-feminist,3
-universitetskansler,3
-Kansliråd,3
-Watchmaker,3
-överingenjör,3
-sjukgymnast,3
-Komminister,3
-Law reporter,3
-Klassisk filolog,3
-teaterledare,3
-paleontolog,3
-Canon,3
-Bildkonstnär,3
-Kammarråd,3
-Överintendent,3
-Geneticist,3
-löjtnant,3
-textilkonstnär,3
-Statsminister,3
-Law reformer,3
-Bruksägare,3
-geofysiker,3
-agitator,3
-Sångare,3
-idéhistoriker,3
-Romanist,3
-Folkskoleinspektör,3
-Heraldist,3
-lagman,3
-Taxonomist,3
-bondkomiker,3
-Prosector,3
-psykoanalytiker,3
-Psykiater,3
-Rättsvetenskapsman,3
-predikant,3
-Polarforskare,3
-Travel writer,3
-bildhuggare,3
-Oboist,3
-kommunpolitiker,3
-bergsingenjör,3
-TV-producent,3
-Socialist,3
-kommendör,3
-tekn. dr.,3
-Jur dr,3
-donator,3
-Local historian,3
-Häradshövding,3
+plant physiologist,3
+stadsarkitekt,3
+public servant,3
+divine,3
+romanist,3
+musicologist,3
+baron,3
 kyrkofader,3
-Field-marshal,3
-konservator,3
-Educational reformer,3
-Postal official,3
-Electrical engineer,3
-stadsbibliotekarie,3
-Statsman,3
-Dental surgeon,3
-Vice häradshövding,3
-fil. dr.,3
-amiral,3
-Mineralog,3
-Divine,3
-Fornforskare,3
-mecenat,3
-Preacher,3
-Horologist,3
-Designer,3
-Musikhistoriker,3
-Professor i konsthistoria,3
-Apotekare,3
-kabinettskammarherre,3
-Diktare,3
-hovstallmästare,3
-Konstnär.,3
-operachef,3
-jur. dr.,3
-retoriker,3
-Kommendör,3
-Ryttmästare,3
-Helminthologist,3
-Musikteoretiker,3
+generalsekreterare,3
 producent,3
-Provost,3
-musikkritiker,3
-Museichef,3
-Surgeon-general,3
-Mechanical engineer,3
-Landscape painter,3
-Spiritualist,3
-Master of the rolls,3
-sjöofficer,3
-skolföreståndarinna,3
-apotekare,3
-Solicitor,3
-Plant physiologist,3
-Language teacher,3
-Järnvägstjänsteman,3
-Speaker of the House of Commons,3
-Arméofficer,3
-Lyriker,3
-socialpolitiker,3
-Uppfinnare,3
-Antikvetare,3
-Akademiboktryckare,3
-Judge in India,3
-Kommissionslantmätare,3
-filmregissör,3
-Löjtnant,3
-kulturhistoriker,3
-Social reformer,3
-Konstsamlare,3
-Språkvetare,3
-Professor of Latin,3
-Religious leader,3
-Landscape gardener,3
-fältmarskalk,3
-friherrinna,3
-Skolföreståndare,3
-Konstkritiker,3
-Skriftställarinna,3
-Technician,3
-Fabrikör,3
-gymnasielärare,3
-zoologist,3
-Goldsmith,3
-Dekorationsmålare,3
-Conservator,3
-överdirektör,3
-Army medical officer,3
-Guvernör,3
-forskare,3
-Diarist,3
-Industriledare,3
+jur. dr.,3
+överståthållare,3
+programchef,3
+hovstallmästare,3
+kommunpolitiker,3
+professor of latin,3
+idéhistoriker,3
+landscape painter,3
+newspaper editor,3
+actuary,3
+canon,3
+myntgravör,3
+musikhistoriker,3
+professor i konsthistoria,3
+filosofie doktor,3
+bryologist,3
+helminthologist,3
+mesmerist,3
+universitetskansler,3
+univ.lärare,3
+preacher,3
+law reformer,3
+översättarinna,3
+kommerseråd,3
+presbyterian minister,3
+förste intendent,3
+akademiboktryckare,3
+agitator,3
+mechanical engineer,3
+technician,3
+oboist,3
+dental surgeon,3
+assessor i bergskollegium,3
+kabinettskammarherre,3
+manusförfattare,3
+soprano,3
+generalguvernör,3
+law reporter,3
+taxidermist,3
+markis,3
+educational reformer,3
+commissioner,3
+geofysiker,3
+landscape gardener,3
+musikvetare,3
+essäist,3
+dansk författare,3
+antikvetare,3
+teaterförläggare,3
+stockbroker,3
+tidningsredaktör,3
+aktuarie,3
+riksarkivarie,3
+tv-producent,3
+föreståndarinna,3
+conservator,3
+kirurg,3
+solicitor,3
+kulturgeograf,3
+east india co. director,3
+man-midwife,3
+travel writer,3
+bibliophile,3
+partiordförande,3
+secretary of state,3
+textilkonstnär,3
+goldsmith,3
+överingenjör,3
+dansös,3
+judge in india,3
+fru,3
+serjeant-at-law,3
+religious leader,3
+tekn. dr.,3
+mecenat,3
+univ.lärare i helsingfors,3
+kulturskribent,3
+spiritualist,3
+stadsläkare,3
+watchmaker,3
+heraldist,3
+socialist,3
+arkitekturhistoriker,3
+hovrättspresident,3
+wholesaler,3
+partisekreterare,3
+donator,3
+process engraver,3
+provost,3
+epigrafiker,3
+taxonomist,3
+feminist,3
+försäkringsdirektör,3
+language teacher,3
 musikrecensent,3
-Förlagsman,3
-Process engraver,3
-Biolog,3
-Gymnastikdirektör,3
-kyrkohistoriker,2
-justerare,2
-Writer on music,2
-universitetslektor,2
-Ironmaster,2
-ämbetsman.,2
-Baron,2
-Cotton manufacurer,2
-dr Phil,2
-föreståndarinna,2
-Bookkeeper,2
-Körledare,2
-Forskningsresande,2
-Tax collector,2
-Crystallographer,2
-Läroboksförfattare,2
-Railway projector,2
-teol dr,2
-statsfru,2
-manusförfattare,2
-Print collector,2
-naturvetenskapsman,2
-Railway engineer,2
-Professor i teoretisk fysik,2
-Universitetslektor,2
-King,2
-idrottsledare,2
-adjunkt,2
-Regeringsråd,2
-alkemist,2
-Kejsare,2
-Kommerseråd,2
-bruksägare,2
-Forger,2
-Deaf-and-dumb teacher,2
-Filmproducent,2
-Magistrate,2
-korrespondent,2
-tryckare,2
-stadsläkare,2
-Antique dealer,2
-Soprano,2
-Freethinker,2
-språkvetare,2
-Limnologist,2
-Veterinär,2
-univ.lärare i Strassburg,2
-Idrottsman,2
-Toponomist,2
-Musical antiquary,2
-Paediatrician,2
-Musikkopist,2
-Medical editor,2
-Forskare,2
-Foreign secretary,2
-Chefsgravör vid Kungl. Mynt- och justeringsverket,2
-kopparstickare,2
-Printseller,2
-Marinmålare,2
-Chief Medical Officer,2
-Vetenskapshistoriker,2
-Architectural historian,2
-Writer on agriculture,2
-Antropolog,2
-Läroverkslektor,2
-Medical journalist,2
-Oncologist,2
-ekonom,2
-dansare,2
-kontorist,2
-Craniologist,2
-Potter,2
-Balneologist,2
-överståthållare,2
-fornforskare,2
-Anaesthetist,2
-förste intendent,2
-County historian,2
-physician,2
-Lord Chamberlain,2
-Balloonist,2
-Shipowner,2
-cand jur,2
-fabrikör,2
-konstpedagog,2
-kulturskribent,2
-Nobel prize winner,2
-turnéledare,2
-Algologist,2
-kyrkoadjunkt,2
-partisekreterare,2
-jur utr dr,2
-Postmästare,2
-kansliråd,2
-Councillor,2
-Barber-surgeon,2
-Controversialist,2
-programchef,2
-psykoterapeut,2
-Drawing master,2
-Italian patriot,2
-Fil,2
-handlanden,2
-Nurseryman,2
-Map maker,2
-Ambassador,2
-Myntgravör,2
-Entreprenör,2
-Customs officer,2
-bankir,2
-Runologist,2
-Musikforskare,2
-French revolutionary,2
-Vulkanolog,2
-Teaterman,2
-Fältläkare,2
-Förbundsordförande,2
-Natural history artist,2
-museiinspektör,2
-Psalmförfattare,2
-genetiker,2
-rådman,2
-Försäkringsdirektör,2
-Kantor,2
-Instrumentmakare,2
-Kyrkomusiker,2
-Millowner,2
-trubadur,2
-Osteologist,2
-Kulturgeograf,2
-Print publisher,2
-Grammarian,2
-Mountaineer,2
-Marinläkare,2
-byrådirektör,2
-biokemist,2
-Moral philosopher,2
-Forest officer,2
-kosmolog,2
-Book illustrator,2
-Museumsdirektör,2
-Miniature painter,2
-Gravör i Avesta,2
-markis,2
-fackföreningsledare,2
-Garden designer,2
-Shipbuilder,2
-postdirektör,2
-Skönlitterär författare,2
-Gambist,2
-statsman,2
-univ.lärare i Helsingfors,2
-Director of the Zoological Gardens,2
-Konsul,2
-Purist,2
-handelsman,2
-operettsångerska,2
-Privy Councillor,2
-Byråchef,2
-Rope maker,2
-industriidkare,2
-redaktionschef,2
-Förlagsdirektör,2
-Professor i Rostock,2
-Postmaster,2
-fastighetsdirektör,2
-pressattaché,2
-Academic administrator,2
-textillärare,2
-Keramiker,2
-Graphic artist,2
-Borgarråd,2
-Electro-therapist,2
-Agronom,2
-Satirtecknare,2
-folkhögskolelärare,2
-aktuarie,2
-litograf,2
-Print dealer,2
-Kronofogde,2
-Nun,2
-Assessor i Bergskollegium,2
-Athlete,2
-skolledare,2
-Religionsvetare,2
-Positivist,2
-Notary public Autograph collector,2
-Professor i geografi,2
-Fackföreningsman,2
-Förlagsbokhandlare,2
-riksarkivarie,2
-dramaturg,2
-Writer on science,2
-hävdatecknare,2
-Accoucheur,2
-statsvetare,2
-Director of research station,2
-hovrättsråd,2
-Konduktör,2
-teol. dr h.c.,2
-Lord Lieutenant,2
-Pressattaché,2
-Musikkritiker,2
-hydrolog,2
-Geodesist,2
-Uppsala,2
-Revisor,2
-Hovpredikant,2
-Företagsekonom,2
-Intendent,2
-kurator,2
-Leprosy specialist,2
-Animal-painter,2
-High school teacher,2
-Växtförädlare,2
-radioproducent,2
-Government official,2
-Estetiker,2
-Meteorolog,2
-sopran,2
-vice häradshövding,2
-antropolog,2
-ryttare,2
-Anarchist,2
-Midwife,2
-Christian apologist,2
-Treasurer,2
-Bruksdisponent,2
-University professor,2
-Översättarinna,2
-Electro-physiologist,2
-Governor-general of Bengal,2
-Old English scholar,2
-satiriker,2
-director,2
-Socialist theorist,2
-läroboksförfattare,2
-Headmistress,2
-Domare,2
-Konstteoretiker,2
-Fältmarskalk,2
-Public health reformer,2
-Medical practitioner,2
-lantmarskalk,2
-revisor,2
-phil,2
-Soprintendente,2
-Nurse,2
-Radical,2
-universitetslärare i Wien,2
-German philologist,2
-Lord Mayor,2
-fiskeritillsynsman,2
-Music critic,2
-Författare.,2
-Dansös,2
-Eugenist,2
-Epigrafiker,2
-Founder of scholarship,2
-Speleologist,2
-superintendent,2
-Antikvarie,2
-Medicinare,2
-hovrättspresident,2
-kamrer,2
-förlagsman,2
-tullinspektör,2
-genealog,2
-koreograf,2
-rättsvetenskapsman,2
-Mezzotintgravör,2
-Specialist in mental diseases,2
-klassisk filolog,2
+psykoanalytiker,3
+byggmästare,3
+geneticist,3
+socialpolitiker,3
+horologist,3
+diarist,3
+recorder,3
+local historian,3
+field-marshal,3
+industriledare,3
+mekaniker,3
+army medical officer,3
+operettsångerska,3
+sinolog,3
+designer,3
+prosector,3
+master of the rolls,3
+regeringsråd,3
+landskapsmålare,3
+endocrinologist,3
+postal official,3
+adjunkt,3
+operachef,3
+järnvägstjänsteman,3
+handelsman,3
+lichenologist,3
+alpinist,3
+wood-engraver,3
+bondkomiker,3
+musikforskare,3
+theatre official,2
+greek scholar,2
+lord chamberlain,2
+map maker,2
+governor-general of bengal,2
+headmaster of harrow,2
+theatrical historian,2
+gentleman,2
+bokbindare,2
+accoucheur,2
+legationssekreterare,2
+vulkanolog,2
+marinläkare,2
+paper manufacturer,2
+antique dealer,2
 teol. kand.,2
-hovfotograf,2
-Drottning,2
-Telegrapher,2
-Folkhögskolelärare,2
-körledare,2
-Lagman,2
-King of Spain,2
-Kammarrättsråd,2
-civilekonom,2
-arkitekturhistoriker,2
-Teckningslärare,2
-filmproducent,2
-Lord Chief Justice,2
-Theatre official,2
-Företagsledare,2
-Mekaniker,2
-folkhögskollärare,2
-förste bibliotekarie,2
-Plant pathologist,2
-Landskapsmålare,2
-Hovjuvelerare,2
-justitiekansler,2
-Headmaster of Harrow,2
-Kirurg,2
-Governor-general of India,2
-generalsekreterare,2
-Tidningsredaktör,2
-radiochef,2
-Connoisseur of the arts,2
-Viscount,2
-Private secretary to the king,2
-Finansman,2
-Nonjuror,2
-sinolog,2
-Judge advocate,2
-bokhandlare,2
-byggmästare,2
-bruksdisponent,2
-Paper manufacturer,2
-Museologist,2
-Kommendör i Frälsningsarmén,2
-Anglist,2
-Builder and administrator of roads,2
-Landsarkivarie,2
-vicekonsul,2
-cand phil,2
-Hypnotist,2
-Copyist,2
-domare,2
-Ph dr,2
-folkminnesforskare,2
-Greek scholar,2
-prins av Sverige,2
-superkargör,2
-Minister for Justice,2
-München,2
-Bokbindare,2
-fångvårdschef,2
-bergsråd,2
-Tutor,2
-Catoonist,2
-Gentleman,2
+italian patriot,2
+hemmansägare,2
+chefsgravör vid kungl. mynt- och justeringsverket,2
+print dealer,2
+tax collector,2
+book illustrator,2
+magistrate,2
+university professor,2
+kommendör i frälsningsarmén,2
+viscount,2
+headmistress,2
+medical editor,2
+anaesthetist,2
+stadsträdgårdsmästare,2
+barnboksförfattare,2
+osteologist,2
+athlete,2
+cand jur,2
+stadsfogde,2
+writer on science,2
+printseller,2
+jur utr dr,2
+skollärare,2
+paediatrician,2
+paleobotaniker,2
+provinsialläkare,2
+landsarkivarie,2
+ämbetsman.,2
+physical chemist,2
+french revolutionary,2
+positivist,2
+balneologist,2
+phil,2
+utrikesråd,2
+medical practitioner,2
+skönlitterär författare,2
+christian apologist,2
 assuransdirektör,2
-Hydrologist,2
-Physician-in-ordinary to the king,2
-Oceanograf,2
-Physical chemist,2
-Showman,2
-Arkivarie,2
-librettist,2
-Theatrical historian,2
-Teaterförläggare,2
+univ. lärare,2
+nykterhetsman,2
+biokemist,2
+professor i geografi,2
+builder and administrator of roads,2
+old english scholar,2
+radical,2
+folkminnesforskare,2
+attaché,2
+sopran,2
+baletthistoriker,2
+toponomist,2
+specialist in mental diseases,2
+polyhistor,2
+postdirektör,2
+scenograf,2
+architectural historian,2
+bookkeeper,2
+print publisher,2
+kanslisekreterare,2
+controversialist,2
+professor i rostock,2
+nobel prize winner,2
+miniature painter,2
+museiinspektör,2
+komiker,2
+alkemist,2
+ryttare,2
+moral philosopher,2
+fackföreningsledare,2
+växtförädlare,2
+förste bibliotekarie,2
+hebraist,2
+folkhögskollärare,2
+agronom,2
+music critic,2
+marskalk,2
+teaterdekoratör,2
+postmaster,2
+plant pathologist,2
+pjäsförfattare,2
+ståletsare,2
+kamrer,2
+religionsforskare,2
+president,2
+spion,2
+målarinna,2
+german philologist,2
+skogsman,2
+fackföreningsman,2
+museumsdirektör,2
+railway projector,2
+vetenskapshistoriker,2
+teaterhistoriker,2
+ordboksredaktör,2
+chief medical officer,2
+kassör,2
+ambassador,2
+copyist,2
+professor i klassiska studier.,2
+fångvårdschef,2
+kanslist,2
+instrumentmakare,2
+midwife,2
+purist,2
+dansare,2
+director of research station,2
+freethinker,2
+hävdatecknare,2
+nonjuror,2
+governor-general of india,2
+privy councillor,2
+teaterpedagog,2
+satiriker,2
+turnéledare,2
+idrottsledare,2
+psykoterapeut,2
+prins av sverige,2
+tutor,2
+high school teacher,2
+leprosy specialist,2
+writer on agriculture,2
+connoisseur of the arts,2
+gymnastiklärare,2
+inredningsarkitekt,2
+kronofogde,2
+postmästare,2
+sjukhusdirektör,2
+fiskeritillsynsman,2
+balloonist,2
+treasurer,2
+electro-physiologist,2
+danskonstnärinna,2
+bergmästare,2
+koreograf,2
+gravör i avesta,2
+railway engineer,2
+statsfru,2
+psalmförfattare,2
+radioproducent,2
+anarchist,2
+print collector,2
+keramiker,2
+forger,2
+kyrkomusiker,2
+samhällsdebattör,2
+millowner,2
+textilkonstnärinna,2
+dramaturg,2
+public health reformer,2
+socialråd,2
+musikkopist,2
+universitetslärare i berlin,2
+catoonist,2
+socialist theorist,2
+professor vid univ. i berlin,2
+korrespondent,2
+påve,2
+förlagsbokhandlare,2
+heraldiker,2
+ironmaster,2
+councillor,2
+founder of scholarship,2
+konstpedagog,2
+hydrologist,2
+textillärare,2
+teol. dr h.c.,2
+kosmolog,2
+religionsvetare,2
+nurseryman,2
+författare.,2
+kurator,2
+entreprenör,2
+minister for justice,2
+garden designer,2
+kapare,2
+ärftlighetsforskare,2
+shipbuilder,2
+geodesist,2
+algologist,2
+showman,2
+drawing master,2
+limnolog,2
+superkargör,2
+xylograf,2
+grammarian,2
+redaktionschef,2
+veterinär,2
+customs officer,2
+private secretary to the king,2
+civilekonom,2
+lantmarskalk,2
+förste stadsläkare,2
+förlagsdirektör,2
+patolog,2
+fil dr.,2
+konstteoretiker,2
+justitiekansler,2
+hovfotograf,2
+rope maker,2
+hovrättsråd,2
+överceremonimästare,2
+musical antiquary,2
+nun,2
+överlärare,2
+äventyrare,2
+hydrolog,2
+dialektforskare,2
+konduktör,2
+museologist,2
+vicekonsul,2
 samlare,2
-Religionsforskare,2
-Dr.,2
-Postal reformer,1
-programledare,1
-franciskanbroder,1
-Inredningsarkitekt,1
-Ungsocialist,1
-Industrihistoriker,1
-Public relations councel,1
-Professor i ekonomisk geografi vid Handelshögskolan i Göteborg.,1
-Professor i ekonomisk geografi,1
-Administrator in Ireland,1
-Foreign minister,1
-Professor i nationalekonomi,1
-Writer on geography,1
-generalrikspostmästare,1
-professor i estetik,1
-legosoldat,1
-Kanslist med mera,1
-Medallist,1
-Maid of honour,1
-Lokalhistoriker,1
-Pastellmålare,1
-Evolutionary biologist,1
-Direktör för Le Figaro,1
-fv rektor för Uppsala universitet (2012-2020),1
-TV-programledare,1
-Rhinologist,1
-Danskonstnärinna,1
-clergyman,1
-Anatom,1
-Indolog,1
-Engelsk fotograf,1
-baryton,1
-Psalmboksförfattare,1
-Forstmästare,1
-ordboksman,1
-HM Konungens kabinettskammarherre (Gustaf V),1
-stadsträdgårdsmästare,1
-folkbildningsman,1
-Estetiker och universitetsbibliotekarie,1
-tjänsteman i Krigshovrätten,1
-premierlöjtnant,1
-statsgeolog,1
-Landstingsman,1
-amatörforskare,1
-Historie- och dekorationsmålare.,1
-Borgmästare i Sala,1
-War correspondent,1
-Skollärare,1
-varvsägare,1
-Dean of Exeter,1
-kopist,1
-teaterhistoriker,1
-förste hovsångare,1
-Daguerreotypist,1
-Fabriksinspektör,1
-Suffraganbiskop i Poznań,1
-cytolog,1
-äventyrare,1
-Ogan designer,1
-Byrettsdommer,1
-Chemistry teacher,1
-Contractor for railways and public works,1
-tillverkare av balansvågar och myntvikter,1
-Aural surgeon,1
-dansk prins,1
-Rektor för Lunds universitet 1980-1983,1
-univ.lärare i Kiel,1
-Biblioteksman från Lund,1
-Stadsbibliotekarie,1
-baletthistoriker,1
-Legal reformer,1
-statshydrograf,1
-Founder of the Ordnance Survey,1
-Commissioner of prisons,1
-Professor vid handelshögskolan i Berlin,1
-konsulatstjänsteman,1
-nykterhetsivrare,1
-Franciscan,1
-Natural history auctioneer,1
-Litteraturhistoriker och skolman.,1
-Teacher of deaf people,1
-Fabriksägare,1
-Writer on architecture,1
-Sermonist,1
-dr. phil.,1
-specialreferent i tyska riksdagens pressavdelning,1
-Ambassadråd,1
-Bridge player,1
-förste bibliotekarie i Stockholm,1
-neurofysiolog,1
-Railway-man,1
-Lantbruksskoleföreståndare,1
-Victim of kidnapping,1
-historieskrivare,1
-Chief Justice of Bombay,1
-hovjägmästare,1
-Naturgeograf,1
-Kemihistoriker,1
-Pleasure garden proprietor,1
-Förste arkivarie i utrikesdepartementet,1
-Partihandlare,1
-Bergsingenjör,1
-norsk kronprinsessa,1
-upptäcktsresande,1
-President,1
-Marine engineer,1
-programchef vid Sveriges Radio.,1
-Cameo cutter,1
-Methodist,1
-Legationsråd,1
-Yrkessjuksköterska,1
-tekn dr,1
-riksombudsman,1
-hovkonstgjutare,1
-Myrmecologist,1
-Distriktskamrerare,1
-Dir. i Svenska gymnastikförbundet,1
-Bibliograf,1
-fransk konstnär,1
-Dövstumlärare och skriftställare inom sitt område.,1
-soprano,1
-Philosophic radical,1
-Finländsk journalist,1
-Local politician,1
-Developer of steam navigation,1
-Vizepräsident der Reichsbank,1
-Teaterpedagog,1
-Anti-sabbatarian,1
-tolagskamrer,1
-elektrotekniker,1
-Universitetslärare i Halle,1
-konstskridskoåkare,1
-Litigant,1
-folkmålsforskare,1
-etsare,1
-Nykterhetsman,1
-studierektor,1
-kammarskrivare,1
-Underofficer,1
-Italiensk arkeolog,1
-radioman m.m.,1
-Baptist biblical scholar,1
-dirigent och organist,1
-Skolföreståndarinna,1
-Akademiträdgårdsmästare i Lund,1
-Folkdiktsforskare,1
-Stilforskare,1
-Litograf.,1
-Scandinavian scholar,1
-Professor i klassiska studier.,1
-skolföreståndare,1
-kemiingenjör,1
-professor i norrön filologi,1
-Hispanist,1
-Fishmonger,1
-Professor i ekonomi och statsvetenskap,1
-Riksråd och författare,1
-Lärare vid Alnarps lantbruksinstitut,1
-Social commentator,1
-Kammarjungfru,1
-fil. hedersdokt.,1
-Direktör för Konstakademien i München,1
-Teaterdekoratör,1
-Överlärare,1
-förvaltningsråd,1
-Gouverneur-generaal,1
-telegrafkommissarie,1
-Murderer,1
-Professor i arkitekturhistoria,1
-Iron merchant,1
-Teolog dr,1
-Marine scientist,1
-dir gen,1
-President Uppsala college,1
-Fredsarbetare,1
-Reichsbankpräsident,1
-University treasurer,1
-Notarie i Svea hovrätt,1
-Tragédienne,1
-Konst- och litteraturkritiker,1
-Partisekreterare,1
-skogsman,1
-Hovkamrer,1
-Skåne,1
-Protestant reformer,1
-Poltical hostess,1
-Geofysik,1
-Provinsialläkare,1
-British museum director,1
-Popular anthropologist,1
-Stadsbyggnadsdirektör,1
-Evangelist,1
-Borgmästare i Ystad,1
-Bokförläggare i Jena,1
-guvernementssekreterare på den svenska kolonin Saint-Barthélemy,1
-Arkitekturhistoriker,1
-Ecklesiastikminister,1
-Bankofullmäktig,1
-vapenkonstruktör,1
-hovkapellmästare,1
-Polemicist,1
-Psalmdiktare,1
-Upptäcksresande,1
-Reformer,1
-generalsekr. för Rassemblement universel pour la paix,1
-Evangelical journalist,1
-domkyrkoarkitekt,1
-Riksdagspolitiker,1
-skriftställare i Dehli,1
-Restaurator,1
-West Indies merchant,1
-Skogsman,1
-m fl,1
-rektor vid Malmö skola,1
-Sjömilitär,1
-univ.lärare i München,1
-Armaments manufacturer,1
-förste arkivarie,1
-talpedagog,1
-Överborgmästare,1
-Mining financier,1
-prinsessa av Sverige och Danmark,1
-Religionssociolog,1
-folkförsörjningsminister,1
-konteramiral,1
-univ. lärare i Heidelberg,1
-Litteratur- och teaterforskare,1
-Fil. mag.,1
-Kardiolog,1
-scenograf,1
-Föreståndare på Övralid,1
-redaktionssekreterare,1
-sjömilitär,1
-överpostdirektör,1
-Revivalist,1
-retoriklärare,1
-Slavist,1
-Historian of architecture,1
-Professor i Kulturgeografi,1
-univ.lärare i Göttingen,1
-provinsialläkare,1
-dialektforskare,1
-Rektor för Lunds universitet 1970-77,1
-TV-personlighet,1
-Linköpings stift,1
-Landsstatstjänsteman,1
-teatermålare,1
-univ. lärare,1
-förste legationssekreterare,1
-Geomorfolog,1
-Kungl. hovinstrumentmakare,1
-fv. landshövding,1
-Hallska flickskolan,1
-personalkonsulent,1
-Kurfurste,1
-Sångare (bas),1
-Byggnadsantikvarie,1
-förste statsmeteorolog,1
-Komiker,1
-försäkringsman,1
-Kanik,1
-University chancellor,1
-Spanish scholar,1
-Benediktinmunk (abbot),1
-Official of the Royal Mint,1
-Utrikesråd,1
-Medium,1
-Politician in the United States,1
-bergmästare,1
-Miltitär,1
-Ärkebiskop av Riga,1
-Ballerinna,1
-Geological collector,1
-Hovgrafiker.,1
-Hotel proprietor,1
-hovintendent,1
-ekumenisk patriark av Konstantinopel,1
-Expeditionschef i Ecklesiastikdepartementet,1
-Natural history collector,1
-Norsk socialekonom o. sociolog,1
-Initiativtagare till 1:a majblomman,1
-Polismästare,1
-Redaktionssekreterare (Vecko-Revyn),1
-Pope,1
+spelman,2
+landstingsman,2
+shipowner,2
+radiochef,2
+mezzotintgravör,2
+natural history artist,2
+museuminspektör,2
+gambist,2
+satirtecknare,2
+king of spain,2
+förbundsordförande,2
+limnologist,2
+fältläkare,2
+industrichef,2
+handlanden,2
+cand phil,2
+crystallographer,2
+münchen,2
+hypnotist,2
+idrottsman,2
+anatom,2
+potter,2
+fil,2
+lord lieutenant,2
+anglist,2
+eugenist,2
+kyrkoadjunkt,2
+forest officer,2
+lord mayor,2
+sånglärare,2
+speleologist,2
+kontorschef,2
+medical journalist,2
+jordbruksforskare,2
+king,2
+tullinspektör,2
+kontorist,2
+friidrottare,2
+trubadur,2
+polismästare,2
+mountaineer,2
+barber-surgeon,2
+foreign secretary,2
+univ.lärare i strassburg,2
+notary public autograph collector,2
+kammarrättsråd,2
+electro-therapist,2
+craniologist,2
+academic administrator,2
+läroverkslektor,2
+ph dr,2
+writer on music,2
+skulptris,2
+deaf-and-dumb teacher,2
+telegrapher,2
+företagsledare,2
+graphic artist,2
+judge advocate,2
+county historian,2
+forstmästare,2
+nurse,2
+animal-painter,2
+marinmålare,2
+government official,2
+fängelsedirektör,2
+dispaschör,2
+hovjuvelerare,2
+hkh kronprinsens adjutant (gustaf adolf),2
+uppsala,2
+oncologist,2
+sjömilitär,2
+kejsare,2
+lord chief justice,2
+banktjänsteman,2
+tjänsteman,2
+kammarjunkare,2
+skolledare,2
+yrkesinspektör,2
+director of the zoological gardens,2
+runologist,2
+professor i teoretisk fysik,2
+estetiker,2
+slavist,2
+universitetslärare i wien,2
+cotton manufacurer,2
+drottning,2
+physician-in-ordinary to the king,2
+myntdirektör,2
 rikskansliråd,1
-Överceremonimästare,1
-Chefsläkare,1
-Adventurer,1
-Social critic,1
-Mynt- och medaljgravör,1
-Builder,1
-FN:s generalsekreterare,1
-Medaljskulptör,1
-King of Portugal,1
-Newsagent,1
-Idé- och lärdomshistoriker,1
-Verse-writer,1
-studerande,1
-Geological artist,1
-Förste intendent,1
-E.o professor vid univ. i Strassburg,1
-Criminologist,1
-Viceroy of India,1
-Humanist and poet,1
-Vitterhetsidkare,1
-Teaterhistoriker,1
-Livland,1
-Moralist,1
-Violinlärare,1
-Slottsbyggmästare,1
-kung av Norge,1
-Xylographer,1
-Maskiningenjör,1
-filosofie magister,1
-Universitetslärare i Berlin,1
-Roman Catholic polemicist,1
-Förste hovjägmästare,1
-Professor i indoeuropeisk språkforskning vid Univ. of Penn. Philadelphia,1
-biskop i Linköping,1
-Filmforskare,1
-East Orange,1
-Dottoressa,1
-Luzern,1
-Calico printer,1
-Medical climatologist,1
-Överhovstallmästare,1
-förste livmedikus,1
-Bruxelles-Uccle,1
-Registrar,1
-Bosättningskonsulent.,1
-Explorer in Africa,1
-Jägmästare,1
-Målarinna,1
-Art administrator,1
-departementsråd,1
-Professor i orkesterdirigering vid Uppsala universitet,1
-jur. dr.,1
-Utrecht,1
-universitetslärare i Köpenhamn.,1
-Köpenhamn,1
-Programredaktör i Norsk rikskringkasting,1
-Promoter of arts and literature,1
-konstnär.,1
-Skriftställare (pseudonym för John Jönsson),1
-Landshövding i Halland.,1
-Scenograf,1
-Shipping merchant,1
-överlots,1
-Clock-and-watch maker,1
-förste hovmarskalk,1
-Myntdirektör,1
-Konstnär och tecknare,1
-parapsykolog,1
-Samhällsdebattör,1
-univ.lärare i Atén,1
-polismästare,1
-VD för Nobelstiftelsen,1
-Reproduktionstekniker,1
-Amanuens vid Lunds observatorium,1
-tekn. dr h.c.,1
-professor i Stockholm,1
-museuminspektör,1
-Hertiginna av Västergötland,1
-teaterregissör,1
-univ.lärare i Oslo,1
-Inoculator,1
-museilektor,1
-Social theorist,1
-Herpetologist,1
-kvinnosakskämpe,1
-Samepolitiker,1
-univ.lärare i Heidelberg,1
-Medical psychologist,1
-filantropist,1
-Silk-weaver,1
-Deputy speaker,1
-lärare vid École cantonale,1
-schackspelare,1
-Museiintendent,1
-Folkskolinspektör,1
-debattör,1
-svensk-amerikansk konstnär,1
-Political agent,1
-Borgmästarinna,1
-Hunter,1
-Arvprins,1
-Principal of St Andrews,1
-Sinolog,1
-Datalog,1
-Nationalrat,1
-Helsingfors,1
-LittD,1
-geokemist,1
-Sthlms Lucia 1941,1
-Silversmed,1
-archaeologist,1
-odont dr,1
-Geografi,1
-Immunolog,1
-minerals and shells,1
-Monsignor,1
-Civilian,1
-fartygskonstruktör,1
-Baletthistoriker,1
-Dansk läroverkslärare,1
-Provincialläkare,1
-banktjänsteman,1
-cirkusdirektör,1
-Inspettore,1
-Duke of Burgundy and Lord of the Netherlands,1
-kommissionslantmätare,1
-Wine merchant,1
-Arabist,1
-Musiker och kompositör,1
-Fysiolog,1
-teaterproducent.,1
-musikforskare,1
-stadsdirektör,1
-Pro-vivisection campaigner,1
-Kristinehamn,1
-Bitr. professor,1
-Occultist,1
-Pisciculturist,1
-Textile merchant,1
-Författare och redaktör,1
-fil dr.,1
-Keeper,1
-Godsherre,1
-skivsamlare,1
-italiensk pacifist,1
-forntidsforskare,1
-Sceninstruktör,1
-Public health officer,1
-Expert på klassisk konst,1
-porträttfotograf,1
-Dean of Norwich,1
-Litteratur- teater- och konstkritiker,1
-Fransk politiker,1
-Lektor i Linköping,1
-Wien,1
-Anti-vivisectionist,1
-skriftställarinna,1
-Visdiktare,1
-kapare,1
-sjukhusdirektör,1
-Compiler of reference works,1
-kompositör och författare,1
-viceregent,1
-Modedesigner,1
-Markis,1
-biometeorolog,1
-palynolog,1
-Recluse,1
-ingenjör?,1
-scoutchef,1
-Master of the Horse,1
-Elector,1
-Topograf,1
-Prince del Drago,1
-Förste byråsekreterare,1
-mfl,1
-Chief forestry supervisor,1
-Professor i processrätt.,1
-tidningsredaktör,1
-Lantbruksekonom,1
-tullförvaltare,1
-Stadsläkare,1
-missionsföreståndare,1
-regeringsråd,1
-Dr. phil,1
-commendatore,1
-Urmakare,1
-Phycologist,1
-Prince,1
-teol. dr.,1
-Policeman,1
-skulptör och porträttmålare,1
-filosofie hedersdoktor,1
-Intendent vid Kungliga museet,1
-Director of laboratory,1
-Gynekolog,1
-Operettsångerska,1
-Rasbiolog,1
-Tidningsutgivare,1
-Biskop i Alba,1
-Science demonstrator,1
-akademiledamot,1
-Singer Singer,1
-Fabrikant,1
-Kommersråd,1
-Friend of Robert Burns,1
-Slavery abolitionist,1
-Rocket designer,1
-folkemindeforsker,1
-Universitetslärare i Leipzig,1
-Vicekansler vid universitetet i Köln,1
-Museuminspektör,1
-prokurator,1
-Swedish-Norwegian vice consul in Smyrna 1856-1887; consul 1887-1895,1
-professor i hälsovård,1
-xylograf,1
-Universitetslärare i München,1
-kulturjournalist,1
-univ.lärare i Riga,1
-Doktor,1
-Palaeoanthropologist,1
-Generalmajor och chef för Södra skånska infanteriregementet,1
-professor vid handelshögskolorna i München,1
-inrikesminister,1
-Anglo-Jewish community leader,1
-Diplomat och poet.,1
-Stenographer,1
-teaterdekoratör,1
-Member of the Rigsråd,1
-Generalpostdirektör,1
-Garter King-of-Arms,1
-Dekan,1
-Hebraist,1
-Misogynist,1
-Radiolog,1
-Archdeacon of Oxford,1
-Lunds stift,1
-Univ.lärare i Groningen,1
-Författare och samhällsdebattör.,1
-DHS,1
-bruksidkare,1
-Instrumentalist,1
-bergsrådinna,1
-Baptistpredikant,1
-Astrophysicist,1
-Berlin och slutl. i London,1
-Director of fisheries,1
-Lund,1
-universitetsrektor,1
-Stortingsbibliotekarie,1
-Halmstad,1
-Limnolog,1
-d'Expansion et d*Exchanges artistiques,1
-kyrkoman,1
-East India Co. chaplain,1
-Co-operator,1
-försäkringstjänsteman,1
-Nonconformist writer,1
-Exhibition organizer,1
-Läkare och politiker,1
-Kung av Belgien,1
-Historie- och porträttmålare,1
-Gitarrist,1
-Master of Balliol College,1
-sjukvårdsdirektör,1
-Pamphleteer,1
-Italiensk-fransk konstnär,1
-Docent i litteraturhistoria,1
-Minister of Naval Affairs,1
-freds- och konfliktforskare,1
-Landsantikvarie,1
-Präst för döva/dövstumma,1
-prorektor,1
-grammatiker,1
-Campaigner against the lunacy laws,1
-statskonsulent,1
-textilkonstnärinna,1
-Classical historian,1
-professor vid Konstakademien från 1873,1
-Comic writer,1
-Kardinal inom katolska kyrkan,1
-fabrikssyster,1
-Bruksinspektor,1
-Tjänsteman,1
-Savings bank manager,1
-Conductor,1
-Lithologist,1
-Writer on printing,1
-Manusförfattare,1
-Surgical appliance maker,1
-Queen,1
-riksmarskalk,1
-hovtraktör,1
-spion,1
-personhistoriker,1
-Landshövdingen,1
-Univ.-lärare,1
-kyrkoherde i S:t Peters kloster,1
-nykterhetsman,1
-bagarmästare,1
-dott,1
-Textile manufacturer,1
-Archduke of Austria and Sovereign of the Netherlands,1
-professor vid univ. i Berlin,1
-filmkritiker,1
-klassisk filolog,1
-Tenngjuterifabrikant,1
-Flickskolföreståndarinna,1
-Holländsk skulptör,1
-telegrafist,1
-County squire,1
-Gynaecological surgeon,1
-polyhistor,1
-förste legationssekretarare,1
-Professor of Research Policy and cultural attaché at the Swedish Embassy in Beijing,1
-Palaeobotanist,1
-Stadsträdgårdsmästare,1
-Danskritiker,1
-Ciselör,1
-jur,1
-bokkonstnär,1
-Regierungsrat,1
-Manufakturist,1
-såsom vågar,1
-Mezzo-soprano,1
-hembygdsforskare,1
-Kapare,1
-stortingsrepresentant,1
-Professor vid univ. i Berlin,1
-dispaschör,1
-Professor i Antikens kultur och samhällsliv.,1
-dansk astronom,1
-Handelsman,1
-King of Castille,1
-överhovmästarinna,1
-College administrator,1
-antikforskare,1
-Ass. director,1
-filosofihistoriker,1
-Writer on philosophy,1
-Retoriker,1
-Överhovjägmästare,1
-museidirektör,1
-etruskolog,1
-Tidningsman.,1
-Abbot i Spanheim,1
-Examiner of plays,1
-byrådirektör i Kungl. socialstyrelsen,1
-mystiker,1
-slavist,1
-Borgmästare i Skänninge,1
-Bailiff,1
-Krigare,1
-Filosofie doktor i tysk språkvetenskap,1
-Cartoonist,1
-belgisk konstnär,1
-socialantropolog,1
-Förenta nationernas generalsekreterare,1
-juridisk rådgivare,1
-Factory inspector,1
-recitatris,1
-anatom,1
-diplomat och politiker,1
-Latin scholar,1
-teaterdekorationsmålare,1
-Lord of the Netherlands,1
-Numismat,1
-kabinettssekreterare,1
-dekoratör,1
-överhovpredikant,1
-Chief justice of the U.S. supreme court,1
-Prison administrator,1
-industrichef,1
-Editorial superintendent,1
-helgon,1
-Psykiatriker,1
-Sexologist,1
-Prelat,1
-hovdam,1
-Eugenicist,1
-Newspaper proprietor,1
-Master draughtsman,1
-Biblioteksman och litteraturkritiker.,1
-impressario,1
-föreläsare,1
-Cembalist,1
-Penal reformer,1
-Phytogeographer,1
-Broadcaster,1
-v häradshövding,1
-musiklärarinna,1
-Journal founder,1
-Konst- och litteraturpsykolog,1
-Rabbin,1
-Comic singer,1
-Pjäsförfattare,1
-DLitt,1
-Topographical printer,1
-Patent agent,1
-Kärnfysiker,1
-Universitetssekr.,1
-professor vid univ. i Helsingfors,1
-Typograf,1
-direttore dei musei,1
-Eidsvollsmann,1
-Enthusiast,1
-Verkställande direktör,1
-Health campaigner,1
-partiledare,1
-överceremonimästare,1
-Sjökapten,1
-Överlärare i Göteborg,1
-föreståndare för Nietzsche-arkivet i Weimar,1
-Zoo superintendent,1
-Nationalbankdirektör,1
-Uppsyningsman vid Landbohojskolen,1
-Grafisk formgivare,1
-gatudirektör,1
-Nederländska Ostindiens generalguvernör,1
-landskapsmålare,1
-Plåtslagare,1
-Professor i iransk filologi i Leningrad,1
-Professor of art emiritus,1
-Patolog,1
-mariningenjör,1
-i Prag,1
-Husmor,1
-Vetenskapsman,1
-Träsnidare,1
-Antiquarian artist,1
-professor.,1
-landsbibliotekarie,1
-Aktuarie,1
-Legationssekreterare,1
-revyman,1
-Cattle breeder,1
-Amanuens,1
-Ornamentsbildhuggare,1
-Kanslisekreterare,1
-Hushållerska,1
-Distiller,1
-Landshövding i Västerbottens län,1
-Postsparbankschef,1
-folkskolelärare,1
-teaterförläggare,1
-Perfumer,1
-Socialdemokrat,1
-stadsfogde,1
-Social activist,1
-heraldiker,1
-Eng. arbetarledare,1
-Nationalist,1
-Musical historian,1
-Music scholar,1
-Ombudsman,1
-miljövårdare,1
-Baron of the Exchequer,1
-assessor,1
-fil. kand,1
-Urkundsutgivare,1
-King of Qin,1
-lyriker,1
-Assessor i bergskollegium,1
-teaterman,1
-Kassör,1
-Schweiz Gewerkschaftsbund,1
-syndikalist,1
-Literary adviser,1
-fältherre,1
-Medical reformer,1
-petrograf,1
-Bread manufacturer,1
-Pastrycook,1
-författare och konstnär,1
-revy- och teaterforskare,1
-Lord High Treasurer,1
-byråarkitekt,1
-växtpatolog,1
-Technical editor,1
-Klassisk arkeolog,1
-Parliamentary draftsman,1
-geotekniker,1
-inredningsarkitekt,1
-Dean of Westminster,1
-limnolog,1
-levnadstecknare,1
-Lord advocate,1
-Anglicist,1
-Executor,1
-Fransk naturforskare,1
-biblioteksråd,1
-spiritist,1
-County court judge,1
-Litteraturvetare och -kritiker.,1
-Heraldiker,1
-Insurance man,1
-Neurobiolog,1
-radiofysiker,1
-myntdirektör,1
-Språkforskare i Trondheim,1
-Pensionaris,1
-Fältmarskalken,1
-evolutionsbiolog,1
-Legal philosopher,1
-Lunds universitet,1
-Landtmätare,1
-librarian at the Uppsala university library.  Son of Lars Arrhenius,1
-Pottery manufacturer,1
-Klassicist,1
-teckningslärarinna,1
-universitetslärare i Oslo,1
-Music director,1
-Herpetolog,1
-förlagsredaktör och folkbildare,1
-Manufacturer of patent medicines,1
-handsekreterare hos kung Gustav VI Adolf.,1
-chefsredaktör,1
-New York,1
-Director of the State Life Assurance Institute,1
-Antikvarie vid Vitterhetsakademien,1
-Bergsman,1
-Ärftlighetsforskare,1
-Bibliotekschef vid British museum,1
-Neuropsychiatrist,1
-Advocate-General,1
-Hornist,1
-slottsbibliotekarie,1
-portvakt,1
-Livländsk arkivman,1
-Kanslist,1
-Ottoman sultan,1
-Missionärsledare,1
-State Prosecutor,1
-Writer on typography,1
-professor i historia vid Lunds universitet,1
-Professor i litteraturhistoria,1
-dekoratiosmålare,1
-Military engineer,1
-pastorsadjunkt,1
-Bryolog,1
-Timmerhandlare,1
-Läroverksrektor,1
-myntgravör,1
-Religionsfilosof,1
-operasångreska,1
-med dr,1
-Sekreterare vid Nationaltheatret,1
-Linnéforskare,1
-Lantgreve,1
-Vicar (dean),1
-Chief bailiff,1
-Förste intendent på Malmö museum,1
-Royalist author,1
-senare i Göttingen,1
-Prison reformer,1
-Director musices vid Uppsala universitet,1
-universitetslärare i Bern,1
-Pianolärare,1
-The pierpont Morgan Library,1
-chairman,1
-Konstskriftställare,1
-Map publisher,1
-Konstskribent,1
-förste intendent,1
-Förste antikvarie,1
-företagare,1
-Inspector-general of army hospitals,1
-Svensk-japansk företagsledare,1
-Balettkritiker,1
-rikshemvärnschef,1
-Ämbetsman och författare,1
-rysk tsar,1
-Leader writer,1
-Public health administraor,1
-Heiress,1
-Chemical manufacturer,1
-Banktjänsteman,1
-Klockgutare i Jönköping. Rådman.,1
-Photographic entrepreneur,1
-Livmedikus,1
-prästbiograf,1
-Professor i Zürich,1
-filatelist,1
-skeppsbyggmästare,1
-Emperor of China,1
-Hypnotherapist,1
-Equerry-in-waiting,1
-Medical services director general,1
-skolkökspionjär,1
-Stadssekreterare,1
-Folkbildare,1
-latinist,1
-Ämbetsman och skriftställare,1
-socialattaché,1
-professor i diagnostisk radiologi vid Lunds universitet.,1
-riksstallmästare,1
-Påve,1
-Bibliotekarie vid Universitetsbiblioteket i Lund,1
-Globe maker,1
-jur. dr h.c.,1
-Luthersk teolog,1
-Litteraturhistoriker.,1
-univ.lärare i Königsberg,1
-Libraries agitator,1
-Student,1
-Hippolog,1
-Conveyancer,1
-Kyrkoherde och prost i Rystad,1
-biskop i Göteborgs stift,1
-Marskalk,1
-Polisman,1
-Programchef,1
-publicist/tidningsman,1
-rysk ämbetsman,1
-Guldsmed,1
-lärare vid Institut für ostdeutsche Wirtschaft,1
-företagsekonom,1
-Trädgårdsdirektör,1
-iktyolog,1
-Dr Phil,1
-Polyhistor,1
-hovbokbindare,1
-Ekonomhistoriker,1
-Merchant banker,1
-kommunfullmäktiges ordförande,1
-professor vid univ. i München,1
-Länsarkitekt,1
-Konst- och kulturforskare,1
-Univ.lärare i Helsingfors,1
-skolkökslärarinna,1
-Dean of Peterborough,1
-Etnograf,1
-kung av Sverige,1
-Pastor,1
-Äventyrare,1
-börschef,1
-Friidrottare,1
-Pastor primarius,1
-HM Konungens förste hovmarskalk (Gustaf VI Adolf),1
-Fylkesman,1
-rektor vid Ystads  h a l,1
-biblioteksman i Wien,1
-Drottning av Belgien,1
-Foreign Office,1
-Dean of Llandaff,1
-utrikesråd,1
-Hairdresser,1
-Naval surveyor,1
-Urolog,1
-Whig grandee,1
-kanslichef,1
-lantbrukare i Hög,1
-Carpenter,1
-Doge,1
-muesiman,1
-auditör,1
-Programdirektör i Sveriges radio,1
-Textilkonstnärinna,1
-kammarjunkare,1
-neuropsykiatriker,1
-HM Drottningens kammarherre (Victoria),1
-Förskolelärare,1
-Bergmästare,1
-professor i anatomi,1
-medgrundare till Svenska filmsamfundet,1
-fiskeriinspektör,1
-advokatfiskal,1
-teaterpedagog,1
-Electrochemist,1
-Övermekaniker vid kanalbolaget,1
-spelman,1
-dr.phil.,1
-direktör på Oslo Kinematografer,1
-Mass.,1
-Riksbanksfullmäktige,1
-Independent minister,1
-kulturgeograf,1
-Medical inspector of schools,1
-Filosof och författare,1
-Historisk författare,1
-balettmästare,1
-Rheumatologist,1
-Underståthållare,1
-Hospital founder,1
-Bryggare,1
-Poisoner,1
-socialarbetare,1
-Economic improver,1
-Lagman och president i Göta hovrätt,1
-Runforskare,1
-Porftrait painter,1
-Skulptris,1
-Hovkansler,1
-professor vid l'Université nouvelle i Bruxelles o. vid Collège libre des sciences sociales,1
-forstmästare,1
-King of Spain and the last ruler of the Habsburg empire,1
-Historiemålare,1
-Massmedieforskare,1
-major.,1
-regementspastor,1
-Sjuksköterska,1
-kontorschef,1
-Dispensationalist,1
-naturalhistoriker,1
-Metallurgical chemist,1
-Teolog och filosof,1
-Homoeopath,1
-Writer on education,1
-Målarmästare,1
-Evolutionary theorist,1
-Dialektforskare,1
-Författare och dramatiker,1
-Fiskeribiolog,1
-förlagsfirma i Berlin.,1
-ordförande för människorättsorganisationen LTDH,1
-teoretiker,1
-kulturattaché,1
-marinkemist,1
-Promoter of sanitary science,1
-socialistisk agitator,1
-länsjägmästare,1
-Byggmästare,1
-Univ.lärare i Oxford,1
-Singing master,1
-Exegete,1
-universitetslärare i Kiel,1
-samhällsdebattör,1
-Ryssland,1
-Cambridge,1
-Tenngjutare,1
-presskommissarie,1
-Headmaster of Eton,1
-Riksdagspresident,1
-lanthushållare,1
-literary historian,1
-chefsbibliotekarie,1
-Fine-art publisher,1
-Nationalskald,1
-Förlagschef på Norstedts & söner.,1
-Self-proclaimed philosopher,1
-Rev,1
-marskalk,1
-Dietician,1
-flygplatschef,1
-antikforskare och föreståndare för Svenska institutet i Athen,1
-kulturantropolog,1
-Arctic yachtsman,1
-Metallurg,1
-målarinna,1
-1964-1967,1
-barnboksforskare,1
-Historian of photography,1
-Common serjeant,1
-kanslist,1
-Akvarellmålare,1
-Director of assurance company,1
-påve,1
-President of Harvard,1
-neuroforskare,1
-litteratur- och teaterkritiker,1
-Dr jur,1
-Army physician,1
-Engelsk författare,1
-Överättare,1
-1: bibliotekarie,1
-Systemvetare,1
-Partisekr.,1
-Colonial railway director,1
-Föreståndarinna,1
-paleobotaniker,1
-Metropolitian Museum of Art,1
-Textual scholar,1
-Convict,1
-Frankrikes ambassadör i Rom och Konstantinopel; envoyé i Stockholm 1862-1872.,1
-Professor i teologi,1
-Dr rer pol,1
-konrektor,1
-Stadsingenjör,1
-socialistisk filosof.,1
-Stadsantikvarie,1
-Political radical,1
-dekorationsmålare,1
-professor i medicin,1
-Orientalist och professor,1
-folkskollärarinna,1
-Haematologist,1
-programråd,1
-Fabriksidkare,1
-univ. lärare i Leipzig,1
-kusk,1
-Språkforskare i Bergen,1
-Natural history dealer,1
-Minister i Finland,1
-pomolog,1
-privatlärare,1
-förste kammarskrivare,1
-Schoolteacher,1
-Amateur naturalist,1
-Director of National Portrait Gallery,1
-finländsk konstnär,1
-bibliotekskonsulent,1
-Tenant in tail,1
-Folklivsforskare,1
-Writer on botany,1
-Seminarielärare,1
-komiker,1
-Professor at Lund university,1
-clown,1
-Knivsmed,1
-professor vid Konstakademien i Stockholm.,1
-Tenor,1
-tandläkare,1
-Amateur artist,1
-apologet,1
-anställd på Hufvudstadsbladet,1
-Professor vid univ. i Halle,1
-häradshövding,1
-skådespelerska arkeolog,1
-föreståndare för Göteborgs Arbetareinstitut,1
-Chargé d'affaires,1
-Industrichef,1
-Sanitary reformer,1
-Hemmansägare,1
-Marine biologist,1
-Ecclesiologist,1
-Kyrkoherde i Fjälie,1
-Army and intelligence officer,1
-Promoter of science in Australia,1
-historiograf,1
-Collector of natural history specimens,1
-Scenchef,1
-Stained-glass artist,1
-friidrottare,1
-Mikrobiolog,1
-senator,1
-Anti-emancipationist,1
-Lokförare,1
-universitetslärare i Berlin,1
-Fransk teolog och filosof; biskop i Lisieux från 1377,1
-Racing patron,1
-Telephone operator,1
-Fire eater,1
-militant anarkist,1
-Författare och journalist,1
-rättslärd,1
-ärftlighetsforskare,1
-teol prof,1
-Polsk-Amerikansk pianist,1
-fängelsedirektör,1
-Tea and coffee merchant,1
-Överrabin,1
-Riksantikvarie,1
-fil. Hedersdoktor,1
-pjäsförfattare,1
-utg. av Esaias Tegnérs brev,1
-Bibliotekarie och litteraturhistoriker (psalmdiktning),1
-Medical scientist,1
-essayist,1
-direktör i Ullstein & co.,1
-jur. dr. h. c.,1
-justitieminister,1
-Lord High Steward,1
-musikhandlare,1
-Hovläkare,1
-Sångförfattare,1
-Gruvingenjör,1
-skollärare,1
-geheime regeringsråd,1
-Orkesterledare,1
-Grafisk formgivare och målare.,1
-litterär sekreterare,1
-Fysisker,1
-Fornvårdare,1
-High sheriff,1
-Gåfvetorp,1
-Spiritualist medium,1
-yrkesinspektör,1
-hovlakej,1
-Medical inspector,1
-trädgårdsmästare,1
-klassiker,1
-Assessor i Kommerskollegium,1
-Tysk publicist,1
-Rikshistoriograf,1
-Univ.lärare vid Berkley Univ. of Carlif.,1
-assistent vid Sorbonne,1
-Sports writer,1
-jesuitisk präst,1
-Moralist och litteraturteoretiker,1
-Kommunalordförande,1
-arkivråd,1
-Annonstecknare,1
-Kameralist,1
-Hovrättspresident,1
-Chambermaid,1
-Medaljmakare,1
-med. lic.,1
-stadsskrivare,1
-kommerseråd,1
-Foreign secretary of the Post Office,1
-förlagsanställd,1
-antikvitetshandlare,1
-Shakespeare critic,1
-egyptolog,1
-Folkhögskolerektor,1
-Satirist,1
-Glaciolog,1
-Association Francaise,1
-Inspector of Ancient Monuments ...,1
-brother of Jacob Arrhenius.,1
-handelslärare,1
-U.S.A.,1
-och lagman,1
-Professor i klassiska studier,1
-kansler,1
-Excavator,1
-Commissioner of the Copenhagen Police,1
-Kammarherre,1
-Alderman,1
-Mrs,1
-Prison governor,1
-Political pamphleteer,1
-Litteraturhistoriker och estetiker,1
-Advocate of the Supreme Court,1
-Railway director,1
-Chancellor,1
-privatdocent,1
-Gymnastikpedagog,1
-fiskeriintendent,1
-Plaintiff in disputed marriage,1
-direktör i AB D. Carnegie & co,1
-Lärare vid Alnarps lantbruksinstitut.,1
-trollkonstnär,1
-mekaniker,1
-Rektor i Heidelberg,1
-Stadsfogde,1
-Royal matriarch,1
-Professor i litteraturhistoria.,1
-Historian of music,1
-politician,1
-Domkyrkosyssloman,1
-riksfinansminister,1
-Fängelsedirektör,1
-Faith-healer,1
-Nautical surveyor,1
-Riksarkivarie,1
-museibiträde,1
-Kammarjunkare,1
-sånglärare,1
-docent i statistik,1
-Föreståndarinna Samariterhemmet,1
-recensent,1
-Sendemann,1
-Steel manufacturer,1
-Jordbruksforskare,1
-Benefactor,1
-Ovariotomist,1
-Amateur photographer,1
-Brain surgeon,1
-Lantmäteriaskultant,1
-hemmansägare,1
-Disponent,1
-hundexpert,1
-Magazine editor,1
-Isländsk filolog,1
-Precious stones collector,1
-förste stadsläkare,1
-slottspredikant,1
-Kemist och metallurg,1
-King of Naples and Sicily,1
-Författare och översättare,1
-Simmare,1
-Jurist och direktör,1
-försäkringsdirektör,1
-Spion,1
-ballongflygare,1
-vice-provst,1
-oberst,1
-rysk filolog,1
-tullöverkontrollör,1
-slöjdlärare,1
-Byrådirektör,1
-ordförande i Teaterrådet,1
-översättare.,1
-Balettdansare,1
-attaché,1
-bibliotekschef,1
-legationspredikant,1
-Ärkebiskop av Canterbury,1
-förste ombudsman,1
-Marquis di Riofreddo,1
-arkivchef,1
-Collector of musical instruments,1
-Rektor för Lunds universitet 1977-1980,1
-cand phil.,1
-sjöman,1
-Förste stadsläkare,1
-Oberkonsistorialrat,1
-Verkmästare,1
-lyrikuppläsare,1
-professor of the History of Art at University College London,1
-Dispaschör,1
-Fisheries expert,1
-Privatlärd,1
-stabsryttmästare,1
-överrabbin,1
-Manager,1
-Lord chancellor of Ireland,1
-träpatron,1
-kyrkokonservator,1
-Muckraker,1
-jur dr,1
-Telescope builder,1
-Fil dr.,1
-Trustee,1
-Serviceman,1
-Protoierej,1
-Dancer,1
-Biblioteksamanuens,1
-Kejsare av Japan,1
-Professor i Klassiska studier.,1
-barnavårdsinspektör,1
-Schackmästare,1
-Society hostess,1
-Secretary of the Treasury,1
-hebraist,1
-Professor i botanik och praktisk ekonomi,1
-Fondmäklare,1
-Literary entrepreneur,1
-försäljningschef,1
-Kyrkohede,1
-Ståletsare,1
-Civlingenjör,1
-Petrographer,1
-polis,1
-Wit,1
-Kammarsångerska,1
-Pressfotograf,1
-Songwriter,1
-Egyptolog.,1
-Rural dean,1
-Hövding,1
-Doct ès lettres,1
-Juvelerare,1
-fideikommissarie,1
-Dissenting minister,1
-Förstekonservator,1
-redaktör för Falu Kuriren 1933-50.,1
-Chief engraver to the Mint,1
-Bokhistoriker,1
-Counsellor,1
-Trädgårdsarkitekt,1
-Ordboksredaktör,1
-Nervläkare,1
-Museum direktör,1
-handbollsspelare,1
-Lektor och författare.,1
-Dealer in fossils,1
-professor i Perm,1
-City engineer,1
-professor i latinska språket och litteraturen vid Uppsala universitet,1
-Helsingfors.,1
-järnvägsbyggare,1
-kvinnohistoriker,1
-Commissioner of the Customs,1
-Akademifogde,1
-barnboksförfattare,1
-Tysk dr. phil,1
-Patriot,1
-krigshistoriker,1
-konstexpert,1
-University beadle,1
-folksskollärare,1
-Writer on prophecy,1
-Rabbi,1
-stadsarkivarie,1
-Teacher for the deaf and mentally handicapped,1
-LO-ordf.,1
-Litteratur- och religionshistoriker,1
-jordbruksforskare,1
-Gymnastiklärare,1
-Överintendent och chef för hovförvaltningen.,1
-rådsherre,1
-Studierektor vid ABF,1
-Lingvist. Universitetslärare i Bryssel.,1
-Stud. med.,1
-kung av Danmark,1
-Saami missionary,1
-Dean of Westminster and Wells,1
-Cooper,1
-generalsekreterare i Deutsch-Irische Gesellschaft,1
-Hembygdsvårdare,1
-Teratologist,1
-järnvägskamrer,1
-Collaborator,1
-Univ. lärare,1
-Logiker,1
-professor vid univ. i Kiel,1
-Snickarmästare,1
-Författare och professor i franska,1
-skulptris,1
-legationssekreterare,1
-epigrafiker,1
-HKH Kronprinsens adjutant (Gustaf Adolf),1
-landstingsman,1
-lärare vid sjökrigsskolan,1
-Tsar,1
-Överståthållare,1
-kyrkoherde i Helsingborg,1
-Florens,1
-fiskeriexpert,1
-förste kanslist,1
-Professor i lingvistik,1
-konsistorialpresident,1
-presschef hos tyske rikskanslern,1
-Lic ès lettres,1
-Sjöofficer och professor i matematik,1
-Sekreterare i Kanslikollegium,1
-Estate commissioner,1
-generalsekreterare för Tunisiens fackliga centralorganisation,1
-Campaigner for women's rights,1
-tysk-amerikansk astronom,1
-Övermyntmästare,1
-Frälsningssoldat,1
-Hovmarskalk,1
-Ornamentsstickare,1
-vicerektor,1
-Akademiritmästare i Lund,1
-Scientific bibliographer,1
-Biskop i Lunds stift 1638-1679,1
-patolog,1
-Military physician,1
-mictrographie,1
-Social worker,1
-Dean of Christ Church Oxford,1
-Zionist,1
-lexikograf,1
-Dansk författare och museiintendent.,1
-Timber merchant,1
-folkskolelärarinna,1
-konsul i Stockholm,1
-biblioteksassistent,1
-Circumnavigator,1
-Greek philologist,1
-Anthropometrist,1
-socialråd,1
-Lärare i franska vid Gbgs högskola,1
-Pastellist,1
-librairie,1
-Banvakt,1
-president,1
-geheimeråd,1
-Roma,1
-1:e bibliotekarie,1
-Naturopath,1
-munk,1
-Inspector of mines (bergmästare),1
-Handlande,1
-jazzmusiker,1
-Prima donna,1
-Master of the Royal Hunt,1
-skomakare,1
-ordförande i Kvinnliga akademikers förening,1
-Filmregissör,1
-Textilhistoriker,1
-Riksmarsk,1
-Wool merchant,1
-Druggist,1
-Kritiker och dramatiker,1
-Lustspelsförfattare,1
-skogsmarkforskare,1
-socialdemokratisk politiker,1
-Animal painter,1
-Prior,1
-Författare och litteraturkritiker.,1
-Town clerk,1
-Polemist,1
-Philosopher of science,1
-Petrologist,1
-Writer of school books,1
-Filantro,1
-univ.lärare i New York,1
-Histoire naturelle,1
-Exhibitor,1
-Konstkritiker och författare,1
-Hotelier,1
-Music editor,1
-Regementsläkare,1
-kammarråd,1
-Oberschulrat,1
-førstebibliotekarie,1
-univ-lärare i Giessen,1
-Master of the mint,1
-IT-chef,1
-Präst i Svenska kyrkan; domprost i Linköping,1
-ståletsare,1
-"professor vid Instituto di scienze sociali "" Cesare Alfieri""",1
-Medeltidshistoriker,1
-kanslisekreterare,1
-arbetsförmedlingsdirektör,1
-Slöjdlärarinna,1
-Väg- och vattenbyggnadsingenjör,1
-antikvariatsbokhandlare,1
-förbundsjurist,1
-Akvarellist,1
-Domkyrkoorganist i Linköping,1
-Dansk språkforskare,1
-bankofullmäktige,1
-kyrkoman och riksdagsman.,1
-överdir. i statist. centralbyrån,1
-Spelman,1
-Förlagsredaktör och skald,1
-fortifikationsofficer,1
-Reproduktionsgravör,1
-finansman,1
-Locksmith,1
-Marine zoologist,1
-Thief,1
-Fur trader,1
-Sånglärare,1
-Kontorschef,1
-Horticultural writer,1
-Hospital inspector,1
-Aeronautical designer,1
-Mpönsterriterska,1
-Stage manager,1
-Dr ph,1
-Arkeolog.,1
-Coptic scholar,1
-gen.priorinna för ursulinerkongregationen,1
-Asylum superintendent,1
-kvinnosakspolitiker,1
-Nobleman,1
-Norsk författare,1
-översättarinna,1
-Telegraph entrepreneur,1
-ålderman,1
-Palm-reader,1
-Kristiania,1
-Dean,1
-assyriolog,1
-överlärare,1
-med. dr h.c.,1
-dr ing,1
-litteraturforskare,1
-jordbrukskooperatör,1
-Hop merchant,1
-Vaccinator,1
-professor i Göteborg,1
-förste hovtandläkare,1
-Flygpionjär,1
-Professor i privat- och finansrätt.,1
-Skomakare i Hälsingborg,1
-Forstmand,1
-Ångbåtskommisionär,1
-socialinspektör,1
-Ornitolog,1
-sceninspektör,1
-Medievist,1
-Colonial official,1
-Operatic manager,1
-Justitiestatsminister,1
-fil.hedersdoktor,1
-justeringskontrollör,1
-Hövding och författare,1
-museiperson,1
-Porträttgravör,1
-fritänkare,1
-Conspirator,1
-universitetslärare i Königsberg.,1
-Dealer in minerals,1
-Dramatisk författare,1
-Sovereign of the Netherlands and co-monarch of Albert VII,1
-Klimatolog,1
-Geodet,1
-reformist,1
-Lektor i Falun.,1
-Mining manager,1
-havsforskare,1
-Skolman och författare,1
-Professor of poetry,1
-lantbruksråd,1
-gymnastiklärare,1
-viskompositör,1
-Reviewer,1
-dansös,1
-Expert on India,1
-Stadsplanerare,1
-King's proctor,1
-Foundry proprietor,1
-The Art Institute of Chicago,1
-univ. lärare i Breslau,1
-idrottsorganisatör,1
-Barnboksförfattare,1
-biblioteksman i Göttingen,1
-Chief forest officer,1
-kyrkobyggare,1
-Norroy king of arms,1
-Adjunkt,1
-Soprintendente alle gallerie,1
-Landscape draughtsman,1
-Universitetslärare i Jena,1
-Chefredaktör för Hufvudstadsbladet Helsingfors,1
-Noblewoman,1
-prince-elector and Duke of Pfalz-Sulzbach,1
-Kåsör,1
-Tillverkare av vetenskapliga instrument,1
-Språk- och fornforskare,1
-ryttmästare,1
-Teologie professor,1
-Stridsflygare,1
-"Secretary of the ""Statsråd""",1
-flygare,1
-"""Colonial manager""",1
-Direktör London museum,1
-Italiensk diplomat,1
-Fortune-teller,1
-Bee-keeper,1
-Duca di Milano,1
-Vicar at Funbo,1
-jordbruksminister,1
-Matematiker och filosof,1
-Kulturskribent,1
-språk och litteratur,1
-Generalsekreterare,1
-Contractor,1
-Yrkesinspektör,1
-Hymnolog,1
-Förlagsredaktör,1
-Paleobotaniker,1
-Lenins sekreterare,1
-professor i nordisk och jämförande fornkunskap,1
-Dansk skådespelerska,1
-Medical administrator,1
-Spårvägsdirektör,1
-sekreterare i Fotografiska föreningen,1
-Litteratör,1
-Museiföreståndare,1
-Public health administrator,1
-Docent i klassisk fornkunskap och antikens historia,1
-Programdirektör,1
-Arctic scientist,1
-Inspector of schools,1
-Deputy governor,1
-Entrepreneur,1
-Journalist och skriftställare.,1
-Legal historian,1
-Women's activist,1
-tjänsteman,1
-Friherrinna,1
-Historisk lingvist,1
-Docent i praktisk astronomi,1
-Environmental scientist,1
-konstutställare,1
-Språkstatistiker,1
-arméofficer,1
-Kyrkomusiker; domkyrkoorganist i Uppsala,1
-vd,1
-Field botanist,1
-Folklivs- o. folkmålsforskare,1
-Eccentric,1
-docent vid univ. i Rom,1
-baron,1
-Master of college,1
-Professor i nordiska språk,1
+överlärare i göteborg,1
+skriftställare (pseudonym för john jönsson),1
+chefsläkare,1
+italiensk arkeolog,1
+assessor i kommerskollegium,1
 konstgjutare,1
-Karantänsmästare å Känsö,1
-President of the National Board of Trade,1
-Attaché,1
-danskonstnärinna,1
-Patentingenjör,1
-Sekreterare vid den svenska arkeologiska institutionen i Rom 1927-28,1
-Governor-general of the Union of South Africa,1
-Overretssagförer,1
-rektor.,1
-Överste i flygvapnet,1
-Professor i historia vid Uppsala universitet,1
-Författare och entomolog,1
-kirurg,1
-formand,1
-Fyrmästare,1
-Journalist och korrespondent för Nya Dagligt Allehanda 1927-37,1
-barnavårdskonsulent,1
-Diplomat?,1
-kung av Sverige,1
-ekon. dr h.c.,1
-univ.lärare vid Sorbonne,1
-chef för Radiotjänst,1
-Teaterledare,1
-Angler,1
-Socialråd,1
-Russian scholar,1
-Lutenist,1
-trafikflygare,1
-Förrådsman,1
-Affärsledare,1
-muisker,1
-Parliamentary counsel,1
-Kommendörkapter,1
-Flax spinner,1
-kassör,1
-konstrecensent,1
-Art functionary,1
-Historian of bookbindings,1
-Läroverksöverstyrelsedirektör,1
-Kirchenrat,1
-Nonconformist divine,1
-fv universitetsbibliotekarie,1
-geheimekonferensråd,1
-riksjusterare och Stockholms borgerskaps sekreterare,1
-författare. Ledamot i 1969 års psalmbokskommitté.,1
+natural history dealer,1
+writer on typography,1
+senare i göttingen,1
+writer on prophecy,1
+pastellist,1
+jesuitisk präst,1
+slöjdlärare,1
+direktör i ab d. carnegie & co,1
+fornvårdare,1
+oberschulrat,1
+akademifogde,1
+telegraph entrepreneur,1
+rektor för lunds universitet 1980-1983,1
+förste intendent,1
+operatic manager,1
+overretssagförer,1
+konst- och litteraturpsykolog,1
+registrar,1
+metropolitian museum of art,1
+borgmästarinna,1
+littd,1
+miltitär,1
 vetenskapsman och ämbetsman,1
-artistchef,1
-Punch cutter,1
-univ.-lärare i Münster,1
-HKH kronprinsens adjutant (Gustaf Adolf),1
-Rikskansler,1
-Politician in India,1
-farm. dr. h. c.,1
-Möbelsnickare,1
-Topographical engineer,1
-Riksgäldskommissarie,1
-Domprost i Växjö,1
-Bergsmekaniker,1
-Xylograf,1
-osteolog,1
-Chefredaktör för Göteborgs Morgonpost 1937-49,1
-naturalist,1
-Universitetslärare i Kowno,1
-Writer on literature,1
-Lärare vid teknisk skola,1
-Gymnastikhistoriker,1
-Keyboard performer,1
-Univ.lärare i Hamburg,1
-kongressledamot,1
-Turkolog,1
-Förlagschef,1
+rysk tsar,1
+independent minister,1
+helsingfors,1
+telegrafkommissarie,1
+skomakare i hälsingborg,1
+foreign secretary of the post office,1
+inspector of schools,1
+forntidsforskare,1
+kyrkohede,1
+hovkamrer,1
+chief forestry supervisor,1
+greek philologist,1
+dekan,1
+rabbin,1
+victim of kidnapping,1
+nervläkare,1
+professor i perm,1
+brother of jacob arrhenius.,1
+kristinehamn,1
+baron of the exchequer,1
+univ.-lärare,1
+museibiträde,1
+finländsk konstnär,1
+docent i litteraturhistoria,1
+professor i hälsovård,1
+cameo cutter,1
 stratigraf,1
-Cand teol,1
-Professor i Wien,1
-Social anthropologist,1
-ordboksredaktör,1
-Sjukgymnast,1
-konsertmästare,1
-Radioman,1
-fil mag.,1
-Konservator,1
-Professor i svenska språket,1
-Lyriker.,1
-preparator vid British Museum,1
-Officer of the royal household,1
-Founder of charity schools,1
+litteratur- och religionshistoriker,1
+king of naples and sicily,1
+telegrafist,1
+professor i processrätt.,1
+länsarkitekt,1
+suffraganbiskop i poznań,1
+cytolog,1
+fil. mag.,1
+prelat,1
+muckraker,1
+överste i flygvapnet,1
+friend of robert burns,1
+diplomat och poet.,1
+bergsman,1
+kammarskrivare,1
+litterär sekreterare,1
+teratologist,1
+medievist,1
+palaeoanthropologist,1
+riksfinansminister,1
+nederländska ostindiens generalguvernör,1
+slavery abolitionist,1
+turkolog,1
+intendent vid kungliga museet,1
+professor vid univ. i münchen,1
+plåtslagare,1
+civilian,1
+fil.hedersdoktor,1
+hembygdsforskare,1
+mynt- och medaljgravör,1
+lärare vid institut für ostdeutsche wirtschaft,1
+musiklärarinna,1
+musical historian,1
+och lagman,1
+distiller,1
+conductor,1
+konstkritiker och författare,1
+factory inspector,1
+singing master,1
+dancer,1
+master of the royal hunt,1
+spårvägsdirektör,1
+serviceman,1
+hushållerska,1
+indolog,1
+sångförfattare,1
+rasbiolog,1
+kulturantropolog,1
+schackspelare,1
+socialistisk filosof.,1
+libraries agitator,1
+headmaster of eton,1
+filosofihistoriker,1
+bibliotekarie vid universitetsbiblioteket i lund,1
+lord high treasurer,1
+professor i litteraturhistoria,1
+dansk prins,1
+studerande,1
+lektor i linköping,1
+county squire,1
+porträttfotograf,1
+arctic yachtsman,1
+datalog,1
+schackmästare,1
+master of the mint,1
+järnvägskamrer,1
+saami missionary,1
+self-proclaimed philosopher,1
+ecklesiastikminister,1
+skåne,1
+förskolelärare,1
+gatudirektör,1
+växtpatolog,1
+tidningsman.,1
+museum direktör,1
+prinsessa av sverige och danmark,1
+vice-provst,1
+univ.lärare i groningen,1
+pope,1
+pianolärare,1
+advocate of the supreme court,1
+environmental scientist,1
+polisman,1
+promoter of science in australia,1
+bokkonstnär,1
+rektor vid ystads  h a l,1
+programdirektör,1
+verse-writer,1
+founder of charity schools,1
+filosofie hedersdoktor,1
+sjöman,1
+oberkonsistorialrat,1
+förste antikvarie,1
+univ.lärare i atén,1
+ogan designer,1
+professor i latinska språket och litteraturen vid uppsala universitet,1
+diplomat?,1
+bankofullmäktige,1
+horticultural writer,1
+director of the state life assurance institute,1
+philosophic radical,1
+talpedagog,1
+petrograf,1
+carpenter,1
+universitetslärare i kiel,1
+livland,1
+stortingsbibliotekarie,1
+medical climatologist,1
+lantmäteriaskultant,1
+nationalrat,1
+präst i svenska kyrkan; domprost i linköping,1
+textile merchant,1
+counsellor,1
+fartygskonstruktör,1
+skomakare,1
+kammarjungfru,1
+popular anthropologist,1
+folkhögskolerektor,1
+gynaecological surgeon,1
+advocate-general,1
 veterinärläkare,1
-Food chemist,1
-Sailor,1
-Folkhögskoleföreståndare (Hvilan),1
-Aviator,1
-Usher of the Court of Receipts,1
+chemical manufacturer,1
+marquis di riofreddo,1
+universitetslärare i jena,1
+lord advocate,1
+affärsledare,1
+regierungsrat,1
+dean of westminster and wells,1
+literary entrepreneur,1
+lic ès lettres,1
+systemvetare,1
+förlagsanställd,1
+förste legationssekretarare,1
+the art institute of chicago,1
+secretary of the treasury,1
+chargé d'affaires,1
+inspector of ancient monuments ...,1
+writer on philosophy,1
+snickarmästare,1
+psalmdiktare,1
+zoo superintendent,1
+bergsrådinna,1
+excavator,1
+dietician,1
+nobleman,1
+överlots,1
+singer singer,1
+soprintendente alle gallerie,1
+pamphleteer,1
+collector of musical instruments,1
+psykiatriker,1
+vaccinator,1
+läroverksrektor,1
+magazine editor,1
+journal founder,1
+social critic,1
+latinist,1
+fire eater,1
+balettdansare,1
+notarie i svea hovrätt,1
+med. dr h.c.,1
+riksstallmästare,1
+univ.lärare vid berkley univ. of carlif.,1
+spiritist,1
+litteratur- och teaterkritiker,1
+teoretiker,1
+tysk-amerikansk astronom,1
+klassiker,1
+lutenist,1
+dealer in fossils,1
+kvinnosakskämpe,1
+military physician,1
+språk- och fornforskare,1
+antikvitetshandlare,1
+förenta nationernas generalsekreterare,1
+psalmboksförfattare,1
+hop merchant,1
+hm konungens kabinettskammarherre (gustaf v),1
+riksombudsman,1
+handbollsspelare,1
+1964-1967,1
+universitetslärare i köpenhamn.,1
+kung av norge,1
+uppsyningsman vid landbohojskolen,1
+timmerhandlare,1
+lantbruksskoleföreståndare,1
+hembygdsvårdare,1
+retoriklärare,1
+antiquarian artist,1
+riksbanksfullmäktige,1
+professor of art emiritus,1
+clown,1
+överpostdirektör,1
+förlagschef på norstedts & söner.,1
+ordförande för människorättsorganisationen ltdh,1
+advokatfiskal,1
+riksdagspolitiker,1
+linköpings stift,1
+sermonist,1
+folkskolinspektör,1
+spiritualist medium,1
+garter king-of-arms,1
+news agency founder,1
+fondmäklare,1
+programchef vid sveriges radio.,1
+trädgårdsmästare,1
+executor,1
+partiledare,1
+fur trader,1
+comic singer,1
+civlingenjör,1
+east india co. chaplain,1
+rheumatologist,1
+radiolog,1
+electrochemist,1
+angler,1
+medeltidshistoriker,1
+premierlöjtnant,1
+ornamentsbildhuggare,1
+simmare,1
+hovdam,1
+telephone operator,1
+stadsdirektör,1
+författare. ledamot i 1969 års psalmbokskommitté.,1
+manufacturer of patent medicines,1
+lustspelsförfattare,1
+utrecht,1
+danskritiker,1
+viceroy of india,1
+dean of peterborough,1
+shipping merchant,1
+conveyancer,1
+skriftställare i dehli,1
+scenchef,1
+spa physician,1
+rektor.,1
+bagarmästare,1
+surgical appliance maker,1
+timber merchant,1
+professor i teologi,1
+runforskare,1
+gen.priorinna för ursulinerkongregationen,1
+eng. arbetarledare,1
+shakespeare critic,1
+anthropometrist,1
+univ.lärare i oslo,1
+economic improver,1
+arkivråd,1
+protoierej,1
+public relations councel,1
+freds- och konfliktforskare,1
+eidsvollsmann,1
+comic writer,1
+precious stones collector,1
+präst för döva/dövstumma,1
+silversmed,1
+tidningsutgivare,1
+reviewer,1
+norsk socialekonom o. sociolog,1
+rådsherre,1
+univ-lärare i giessen,1
+dansk författare och museiintendent.,1
+kung av sverige,1
+dispensationalist,1
+kvinnosakspolitiker,1
+litteratur- och teaterforskare,1
+dean of westminster,1
+professor i botanik och praktisk ekonomi,1
+pomolog,1
+"""colonial manager""",1
+fiskeriintendent,1
+gynekolog,1
+geokemist,1
+föreståndarinna samariterhemmet,1
+marinkemist,1
+kyrkokonservator,1
+gouverneur-generaal,1
+bokförläggare i jena,1
+slottsbyggmästare,1
+director of laboratory,1
+industrihistoriker,1
+cand phil.,1
+solicitor-general,1
+prokurator,1
+univ.lärare i new york,1
+jur,1
+programledare,1
+förste statsmeteorolog,1
+enthusiast,1
+hovläkare,1
+bosättningskonsulent.,1
+konsertmästare,1
+promoter of sanitary science,1
+chairman,1
+konstnär och tecknare,1
+zionist,1
+writer of school books,1
+redaktör för falu kuriren 1933-50.,1
+författare och journalist,1
+anti-sabbatarian,1
+dövstumlärare och skriftställare inom sitt område.,1
+svensk-amerikansk konstnär,1
+m fl,1
+tillverkare av vetenskapliga instrument,1
+akademiträdgårdsmästare i lund,1
+fiskeriinspektör,1
+pastor primarius,1
+universitetslärare i königsberg.,1
+sjöofficer och professor i matematik,1
+amateur photographer,1
+amateur naturalist,1
+domkyrkoorganist i linköping,1
+field botanist,1
+kejsare av japan,1
+dr jur,1
+geofysik,1
+professor i stockholm,1
+polemicist,1
+officer of the royal household,1
+it-chef,1
+east orange,1
+monsignor,1
+univ.lärare i oxford,1
+cirkusdirektör,1
+director of assurance company,1
+biblioteksman och litteraturkritiker.,1
+benefactor,1
+restaurator,1
+författare och litteraturkritiker.,1
+tysk dr. phil,1
+statsgeolog,1
+kabinettssekreterare,1
+dir. i svenska gymnastikförbundet,1
+ciselör,1
+byrådirektör i kungl. socialstyrelsen,1
+local politician,1
+fil. hedersdokt.,1
+handlande,1
+porftrait painter,1
+professor of research policy and cultural attaché at the swedish embassy in beijing,1
+initiativtagare till 1:a majblomman,1
+stained-glass artist,1
+historisk lingvist,1
+heiress,1
+i prag,1
+domprost i växjö,1
+presschef hos tyske rikskanslern,1
+byråarkitekt,1
+nationalist,1
+vicekansler vid universitetet i köln,1
+textilhistoriker,1
+socialattaché,1
+metallurgical chemist,1
+klockgutare i jönköping. rådman.,1
+universitetslärare i oslo,1
+sovereign of the netherlands and co-monarch of albert vii,1
+manager,1
+leader writer,1
+hovjägmästare,1
+professor i historia vid lunds universitet,1
+stage manager,1
+homoeopath,1
+textile manufacturer,1
+kemihistoriker,1
+nationalskald,1
+protestant reformer,1
+eccentric,1
+fil. hedersdoktor,1
+usher of the court of receipts,1
+språkforskare i trondheim,1
+medium,1
+gruvingenjör,1
+oberst,1
+jordbruksminister,1
+direktör för le figaro,1
+professor i zürich,1
+professor vid handelshögskolorna i münchen,1
+sjukvårdsdirektör,1
+herpetolog,1
+debattör,1
+marine biologist,1
+dissenting minister,1
+forstmand,1
+historiograf,1
+bitr. professor,1
+kungl. hovinstrumentmakare,1
+maskiningenjör,1
+läkare och politiker,1
+professor i norrön filologi,1
+övermyntmästare,1
+kopist,1
+elektrotekniker,1
+musiker och kompositör,1
+circumnavigator,1
+trädgårdsarkitekt,1
+palynolog,1
+konteramiral,1
+legal philosopher,1
+guvernementssekreterare på den svenska kolonin saint-barthélemy,1
+examiner of plays,1
+socialinspektör,1
+recitatris,1
+fältherre,1
+tenngjuterifabrikant,1
+historiemålare,1
+political pamphleteer,1
+landshövdingen,1
+xylographer,1
+litteraturhistoriker och estetiker,1
+fabriksidkare,1
+docent i klassisk fornkunskap och antikens historia,1
+pleasure garden proprietor,1
+tekn dr,1
+builder,1
+postal reformer,1
+photographic entrepreneur,1
+faith-healer,1
+museilektor,1
+fyrmästare,1
+assyriolog,1
+publicist/tidningsman,1
+tragédienne,1
+egyptolog.,1
+upptäcksresande,1
+rikshemvärnschef,1
+livländsk arkivman,1
+anställd på hufvudstadsbladet,1
+geheimeråd,1
+radioman m.m.,1
+geological collector,1
+lord high steward,1
+member of the rigsråd,1
+historieskrivare,1
+kritiker och dramatiker,1
+dansk astronom,1
+dr rer pol,1
+textual scholar,1
+partisekr.,1
+professor i arkitekturhistoria,1
+duke of burgundy and lord of the netherlands,1
+chancellor,1
+minister i finland,1
+landtmätare,1
+vitterhetsidkare,1
+murderer,1
+amatörforskare,1
+anti-emancipationist,1
+dott,1
+fil. kand,1
+italiensk diplomat,1
+stabsryttmästare,1
+helsingfors.,1
+stridsflygare,1
+cambridge,1
+nonconformist divine,1
+master of balliol college,1
+dr. phil.,1
+rev,1
+social theorist,1
+neurobiolog,1
+målarmästare,1
+lyriker.,1
+univ.-lärare i münster,1
+privatlärd,1
+polsk-amerikansk pianist,1
+sanitary reformer,1
+ekonomhistoriker,1
+underståthållare,1
+borgmästare i skänninge,1
+hotel proprietor,1
+tysk industriman,1
+topographical printer,1
+studierektor vid abf,1
+classical historian,1
+tenant in tail,1
+barnavårdskonsulent,1
+författare och professor i franska,1
+muisker,1
+dean of christ church oxford,1
+anglo-jewish community leader,1
+orkesterledare,1
+scientific bibliographer,1
+bankofullmäktig,1
+assistent vid sorbonne,1
+konstskribent,1
+kameralist,1
+kyrkobyggare,1
+tullförvaltare,1
+professor i ekonomi och statsvetenskap,1
+kusk,1
+professor i wien,1
+teol. dr.,1
+lund,1
+revyman,1
+tullöverkontrollör,1
+campaigner against the lunacy laws,1
+medaljskulptör,1
+telescope builder,1
+commissioner of prisons,1
+evangelist,1
+geomorfolog,1
+folkskollärarinna,1
+patent agent,1
+roman catholic polemicist,1
+professor of the history of art at university college london,1
+county court judge,1
+verkställande direktör,1
+professor i klassiska studier,1
+deputy speaker,1
+ämbetsman och skriftställare,1
+museiföreståndare,1
+byrettsdommer,1
+bibliotekschef vid british museum,1
+kardinal inom katolska kyrkan,1
+silk-weaver,1
+keeper,1
+sekreterare vid den svenska arkeologiska institutionen i rom 1927-28,1
+military engineer,1
+professor i nordiska språk,1
+historian of photography,1
+handelslärare,1
+common serjeant,1
+operasångreska,1
+medical psychologist,1
+dr ph,1
+student,1
+statshydrograf,1
+policeman,1
+hovlakej,1
+univ.lärare i riga,1
+medical administrator,1
+kammarsångerska,1
+grammatiker,1
+orientalist och professor,1
+minerals and shells,1
+the pierpont morgan library,1
+professor vid univ. i helsingfors,1
+tv-personlighet,1
+flygplatschef,1
+halmstad,1
+författare och samhällsdebattör.,1
+ärkebiskop av canterbury,1
+hovmarskalk,1
+newsagent,1
+sendemann,1
+fransk politiker,1
+evolutionary biologist,1
+geological artist,1
+marine engineer,1
+historian of architecture,1
+sångare (bas),1
+chief justice of bombay,1
+d'expansion et d*exchanges artistiques,1
+biskop i linköping,1
+geotekniker,1
+kyrkoherde i helsingborg,1
+förvaltningsråd,1
+contractor,1
+songwriter,1
+förste legationssekreterare,1
+akademiledamot,1
+prince del drago,1
+master draughtsman,1
+porträttgravör,1
+sceninspektör,1
+cooper,1
+finländsk journalist,1
+prima donna,1
+riksjusterare och stockholms borgerskaps sekreterare,1
+nautical surveyor,1
+food chemist,1
+hm drottningens kammarherre (victoria),1
+savings bank manager,1
+lingvist. universitetslärare i bryssel.,1
+social activist,1
+provincialläkare,1
+filosof och författare,1
+journalist och skriftställare.,1
+lokförare,1
+preparator vid british museum,1
+litigant,1
+holländsk skulptör,1
+filmkritiker,1
 generalfältläkare,1
-Museumdirektör,1
-musikteoretiker,1
+stadsarkivarie,1
+director of fisheries,1
+inoculator,1
+matematiker och filosof,1
+förste arkivarie,1
+luthersk teolog,1
+akvarellmålare,1
+king of portugal,1
+v häradshövding,1
+hymnolog,1
+politician in india,1
+tysk publicist,1
+norsk kronprinsessa,1
+ryssland,1
+biometeorolog,1
+army and intelligence officer,1
+pottery manufacturer,1
+ambassadråd,1
+landscape draughtsman,1
+dekoratiosmålare,1
+isländsk filolog,1
+fabrikssyster,1
+fritänkare,1
+förste bibliotekarie i stockholm,1
+co-operator,1
+ärkebiskopinna,1
+cembalist,1
+försäljningschef,1
+lunds stift,1
+bruksinspektor,1
+folkbildare,1
+kyrkoherde och prost i rystad,1
+patriot,1
+misogynist,1
+master of college,1
+muesiman,1
+technical editor,1
+humanist and poet,1
+fideikommissarie,1
 bitr. förbundsrektor,1
-Tryckare.,1
+colonial railway director,1
+regementsläkare,1
+portvakt,1
+artistchef,1
+king's proctor,1
+inspector of mines (bergmästare),1
+biblioteksman i wien,1
+master of the horse,1
+osteolog,1
+alderman,1
+"secretary of the ""statsråd""",1
+univ.lärare i königsberg,1
+literary adviser,1
+"professor vid instituto di scienze sociali "" cesare alfieri""",1
+ungsocialist,1
+professor i svenska språket,1
+trollkonstnär,1
+statskonsulent,1
+legationspredikant,1
+legosoldat,1
+radiofysiker,1
+inspettore,1
+univ.lärare vid sorbonne,1
+teatermålare,1
+hm konungens förste hovmarskalk (gustaf vi adolf),1
+överhovjägmästare,1
+gåfvetorp,1
+medical services director general,1
+assessor,1
+kanik,1
+förlagsfirma i berlin.,1
+underofficer,1
+dean,1
+geheimekonferensråd,1
+exegete,1
+royalist author,1
+evolutionsbiolog,1
+kommunfullmäktiges ordförande,1
+professor i orkesterdirigering vid uppsala universitet,1
+brain surgeon,1
+coptic scholar,1
+professor i medicin,1
+föreståndare för nietzsche-arkivet i weimar,1
+lord chancellor of ireland,1
+rättslärd,1
+odont dr,1
+direktör på oslo kinematografer,1
+militant anarkist,1
+tolagskamrer,1
+teaterregissör,1
+författare och översättare,1
+biblioteksamanuens,1
+mfl,1
+biblioteksman i göttingen,1
+norroy king of arms,1
+byggnadsantikvarie,1
+konsulatstjänsteman,1
+naturopath,1
+writer on printing,1
+new york,1
+socialantropolog,1
+anglicist,1
+social worker,1
+biskop i lunds stift 1638-1679,1
+sailor,1
+socialarbetare,1
+chefredaktör för göteborgs morgonpost 1937-49,1
+commissioner of the customs,1
+eugenicist,1
+journalist och korrespondent för nya dagligt allehanda 1927-37,1
+konsul i stockholm,1
+religionssociolog,1
+benediktinmunk (abbot),1
+miljövårdare,1
+elector,1
+diplomat och politiker,1
+pressfotograf,1
+mpönsterriterska,1
+bokhistoriker,1
+neurofysiolog,1
+librairie,1
+verkmästare,1
+gymnastikhistoriker,1
+ottoman sultan,1
+royal matriarch,1
+universitetslärare i münchen,1
+punch cutter,1
+asylum superintendent,1
+länsjägmästare,1
+music scholar,1
+personalkonsulent,1
+överrabbin,1
+tenngjutare,1
+godsherre,1
+univ. lärare i heidelberg,1
+modedesigner,1
+såsom vågar,1
+wit,1
+balettkritiker,1
+jazzmusiker,1
+mass.,1
+ingenjör?,1
+metallurg,1
+levnadstecknare,1
+generalsekr. för rassemblement universel pour la paix,1
+stadsbyggnadsdirektör,1
+public health officer,1
+lord of the netherlands,1
+konst- och litteraturkritiker,1
+u.s.a.,1
+fortifikationsofficer,1
+teaterdekorationsmålare,1
+religionsfilosof,1
+amateur artist,1
+bailiff,1
+klassisk arkeolog,1
+university treasurer,1
+queen,1
+public health administraor,1
+sthlms lucia 1941,1
+överdir. i statist. centralbyrån,1
+numismat,1
+träsnidare,1
+professor of poetry,1
+wool merchant,1
+perfumer,1
+univ.lärare i hamburg,1
+science demonstrator,1
+town clerk,1
+foreign minister,1
+naval surveyor,1
+teacher for the deaf and mentally handicapped,1
+expert på klassisk konst,1
+universitetslärare i halle,1
+petrographer,1
+generalrikspostmästare,1
+bridge player,1
+president of harvard,1
+svensk-japansk företagsledare,1
+författare och konstnär,1
+antikvarie vid vitterhetsakademien,1
+kongressledamot,1
+dansk läroverkslärare,1
+docent i statistik,1
+nationalbankdirektör,1
+rektor vid malmö skola,1
+roma,1
+lärare i franska vid gbgs högskola,1
+moralist,1
+bergsmekaniker,1
+nykterhetsivrare,1
+generalmajor och chef för södra skånska infanteriregementet,1
+urolog,1
+developer of steam navigation,1
+klassicist,1
+folkhögskoleföreståndare (hvilan),1
+rural dean,1
+sekreterare vid nationaltheatret,1
+generalpostdirektör,1
+lantgreve,1
+administrator in ireland,1
+mikrobiolog,1
+hypnotherapist,1
+lärare vid teknisk skola,1
+grafisk formgivare och målare.,1
+klassisk filolog,1
+collector of natural history specimens,1
+1: bibliotekarie,1
+juvelerare,1
+mrs,1
+politician in the united states,1
+biblioteksråd,1
+förste arkivarie i utrikesdepartementet,1
+professor at lund university,1
+haematologist,1
+husmor,1
+professor.,1
+entrepreneur,1
+poltical hostess,1
+moralist och litteraturteoretiker,1
+convict,1
+ämbetsman och författare,1
+patentingenjör,1
+rektor i heidelberg,1
+impressario,1
+samepolitiker,1
+dlitt,1
+writer on architecture,1
+violinlärare,1
+explorer in africa,1
+medgrundare till svenska filmsamfundet,1
+inrikesminister,1
+university beadle,1
+univ. lärare i breslau,1
+bee-keeper,1
+departementsråd,1
+berlin och slutl. i london,1
+kommendörkapter,1
+fn:s generalsekreterare,1
+socialdemokratisk politiker,1
+litteratur- teater- och konstkritiker,1
+naturalhistoriker,1
+lärare vid sjökrigsskolan,1
+hovintendent,1
+filosofie doktor i tysk språkvetenskap,1
+hospital inspector,1
+dottoressa,1
+socialdemokrat,1
+universitetsrektor,1
+rektor för lunds universitet 1977-1980,1
+ornamentsstickare,1
+chemistry teacher,1
+arbetsförmedlingsdirektör,1
+sports writer,1
+nonconformist writer,1
+hospital founder,1
+dr.phil.,1
+landsbibliotekarie,1
+west indies merchant,1
+polis,1
+parliamentary counsel,1
+landshövding i halland.,1
+ovariotomist,1
+russian scholar,1
+bibliotekskonsulent,1
+karantänsmästare å känsö,1
+writer on botany,1
+förrådsman,1
+doct ès lettres,1
+varvsägare,1
+typograf,1
+lanthushållare,1
+överättare,1
+chef för radiotjänst,1
+geodet,1
+frankrikes ambassadör i rom och konstantinopel; envoyé i stockholm 1862-1872.,1
+skådespelerska arkeolog,1
+cand teol,1
+fishmonger,1
+ärkebiskop av riga,1
+krigshistoriker,1
+ecclesiologist,1
+frälsningssoldat,1
+writer on geography,1
+medical scientist,1
+vicerektor,1
+skulptör och porträttmålare,1
+exhibition organizer,1
+latin scholar,1
+översättare.,1
+tjänsteman i krigshovrätten,1
+keyboard performer,1
+engelsk fotograf,1
+association francaise,1
+lyrikuppläsare,1
+stortingsrepresentant,1
+slottsbibliotekarie,1
+författare och entomolog,1
+baptistpredikant,1
+hornist,1
+sceninstruktör,1
+arkivchef,1
+yrkessjuksköterska,1
+drottning av danmark,1
+slöjdlärarinna,1
+förste ombudsman,1
+poisoner,1
+prince-elector and duke of pfalz-sulzbach,1
+fortune-teller,1
+direttore dei musei,1
+globe maker,1
+hovkonstgjutare,1
+society hostess,1
+medical inspector of schools,1
+balettmästare,1
+insurance man,1
+jordbrukskooperatör,1
+seminarielärare,1
+fransk naturforskare,1
+prorektor,1
+arctic scientist,1
+mariningenjör,1
+förlagsredaktör och folkbildare,1
+dr. phil,1
+universitetslärare i leipzig,1
+regementspastor,1
+konrektor,1
+domkyrkosyssloman,1
+filantropist,1
+dean of llandaff,1
+hallska flickskolan,1
+justitieminister,1
+aviator,1
+skolman och författare,1
+massmedieforskare,1
+trustee,1
+föreståndare för göteborgs arbetareinstitut,1
+trafikflygare,1
+lantbruksråd,1
+fabriksägare,1
+pastellmålare,1
+försäkringsman,1
+bibliotekarie och litteraturhistoriker (psalmdiktning),1
+borgmästare i ystad,1
+teaterproducent.,1
+marine scientist,1
+methodist,1
+chefsbibliotekarie,1
+reproduktionstekniker,1
+flygare,1
+utg. av esaias tegnérs brev,1
+aeronautical designer,1
+krigare,1
+førstebibliotekarie,1
+astrophysicist,1
+music editor,1
+annonstecknare,1
+hövding,1
+broadcaster,1
+railway director,1
+librarian at the uppsala university library.  son of lars arrhenius,1
+förste hovtandläkare,1
+parapsykolog,1
+principal of st andrews,1
+fv universitetsbibliotekarie,1
+lantbrukare i hög,1
+spanish scholar,1
+förste kammarskrivare,1
+revy- och teaterforskare,1
+doktor,1
+upptäcktsresande,1
+museumdirektör,1
+medical reformer,1
+druggist,1
+språk och litteratur,1
+political agent,1
+evangelical journalist,1
+prison administrator,1
+vd för nobelstiftelsen,1
+redaktionssekreterare (vecko-revyn),1
+kyrkoman och riksdagsman.,1
+kardiolog,1
+programråd,1
+folkförsörjningsminister,1
+dramatisk författare,1
+missionsföreståndare,1
+folkmålsforskare,1
+colonial official,1
+folkbildningsman,1
+stadssekreterare,1
+idé- och lärdomshistoriker,1
+universitetslärare i bern,1
+rikshistoriograf,1
+army physician,1
+social anthropologist,1
+auditör,1
+conspirator,1
+univ.lärare i kiel,1
+folkskolelärare,1
+dansk språkforskare,1
+konstskridskoåkare,1
+hövding och författare,1
+historian of bookbindings,1
+legal reformer,1
+mining financier,1
+geheime regeringsråd,1
+professor vid handelshögskolan i berlin,1
+förste byråsekreterare,1
+compiler of reference works,1
+skogsmarkforskare,1
+folkemindeforsker,1
+occultist,1
+professor i antikens kultur och samhällsliv.,1
+direktör för konstakademien i münchen,1
+förste hovsångare,1
+fransk konstnär,1
+kansler,1
+hovgrafiker.,1
+professor i iransk filologi i leningrad,1
+kompositör och författare,1
+kåsör,1
+music director,1
+fiskeriexpert,1
+foundry proprietor,1
+distriktskamrerare,1
+handsekreterare hos kung gustav vi adolf.,1
+natural history auctioneer,1
+lo-ordf.,1
+förste hovjägmästare,1
+konstrecensent,1
+förste kanslist,1
+akvarellist,1
+riksgäldskommissarie,1
+professor i estetik,1
+archduke of austria and sovereign of the netherlands,1
+president uppsala college,1
+antikforskare och föreståndare för svenska institutet i athen,1
+barnavårdsinspektör,1
+king of castille,1
+professor i anatomi,1
+recensent,1
+professor i diagnostisk radiologi vid lunds universitet.,1
+immunolog,1
+rikskansler,1
+stud. med.,1
+president of the national board of trade,1
+tenor,1
+belgisk konstnär,1
+editorial superintendent,1
+professor i lingvistik,1
+författare och redaktör,1
+direktör i ullstein & co.,1
+iktyolog,1
+knivsmed,1
+women's activist,1
+franciskanbroder,1
+banvakt,1
+förlagsredaktör och skald,1
+träpatron,1
+generalsekreterare för tunisiens fackliga centralorganisation,1
+litteratör,1
+wien,1
+professor i indoeuropeisk språkforskning vid univ. of penn. philadelphia,1
+filantro,1
+lektor i falun.,1
+vicar at funbo,1
+lagman och president i göta hovrätt,1
+domkyrkoarkitekt,1
+sekreterare i kanslikollegium,1
+college administrator,1
+pastrycook,1
+studierektor,1
+neuropsykiatriker,1
+iron merchant,1
+governor-general of the union of south africa,1
+folkskolelärarinna,1
+lasarettläkare,1
+reichsbankpräsident,1
+professor i kulturgeografi,1
+syndikalist,1
+city engineer,1
+kemist och metallurg,1
+adventurer,1
+riksmarskalk,1
+jur. dr. h. c.,1
+gymnastikpedagog,1
+medical inspector,1
+prince,1
+förste intendent på malmö museum,1
+urkundsutgivare,1
+övermekaniker vid kanalbolaget,1
+riksdagspresident,1
+filmforskare,1
+språkstatistiker,1
+biblioteksassistent,1
+barnboksforskare,1
+herpetologist,1
+locksmith,1
+minister of naval affairs,1
+tryckare.,1
+social commentator,1
+polemist,1
+biskop i alba,1
+satirist,1
+vetenskapsman,1
+stadsskrivare,1
+franciscan,1
+hippolog,1
+hovkansler,1
+konstexpert,1
+petrologist,1
+fylkesman,1
+duca di milano,1
+reproduktionsgravör,1
+köpenhamn,1
+havsforskare,1
+dekoratör,1
+fabriksinspektör,1
+health campaigner,1
+helgon,1
+börschef,1
+generalsekreterare i deutsch-irische gesellschaft,1
+italiensk-fransk konstnär,1
+hertiginna av västergötland,1
+racing patron,1
+hotelier,1
+vd,1
+reformer,1
+tillverkare av balansvågar och myntvikter,1
+chief forest officer,1
+programredaktör i norsk rikskringkasting,1
+jur. dr.,1
+lenins sekreterare,1
+wine merchant,1
+ordförande i teaterrådet,1
+museiperson,1
+överhovstallmästare,1
+jurist och direktör,1
+landsstatstjänsteman,1
+philosopher of science,1
+mictrographie,1
+newspaper proprietor,1
+farm. dr. h. c.,1
+univ.lärare i münchen,1
+exhibitor,1
+kung av danmark,1
+war correspondent,1
+idrottsorganisatör,1
+överintendent och chef för hovförvaltningen.,1
+recluse,1
+director musices vid uppsala universitet,1
+professor i göteborg,1
+hairdresser,1
+tekn. dr h.c.,1
+hundexpert,1
+urmakare,1
+dialectologist,1
+kirchenrat,1
+föreläsare,1
+expert on india,1
+rhinologist,1
+fine-art publisher,1
+stadsingenjör,1
+föreståndare på övralid,1
+baryton,1
+teologie professor,1
+ballerinna,1
+arkeolog.,1
+bruxelles-uccle,1
+dir gen,1
+railway-man,1
+plaintiff in disputed marriage,1
+1:e bibliotekarie,1
+scandinavian scholar,1
+clock-and-watch maker,1
+chief engraver to the mint,1
+professor i litteraturhistoria.,1
+instrumentalist,1
+prästbiograf,1
+univ.lärare i heidelberg,1
+chambermaid,1
+kommersråd,1
+chief justice of the u.s. supreme court,1
+palm-reader,1
+dirigent och organist,1
+baptist biblical scholar,1
+writer on education,1
+rektor för lunds universitet 1970-77,1
+writer on literature,1
+medallist,1
+grafisk formgivare,1
+inspector-general of army hospitals,1
+docent i praktisk astronomi,1
+drottning av belgien,1
+akademiritmästare i lund,1
+tv-programledare,1
+topograf,1
+tea and coffee merchant,1
+mezzo-soprano,1
+högskolelärare,1
+university chancellor,1
+king of qin,1
+dr ing,1
+archdeacon of oxford,1
+public health administrator,1
+historian of music,1
+förste livmedikus,1
+neuropsychiatrist,1
+state prosecutor,1
+arabist,1
+överborgmästare,1
+whig grandee,1
+specialreferent i tyska riksdagens pressavdelning,1
+teacher of deaf people,1
+prison reformer,1
+universitetslärare i kowno,1
+slottspredikant,1
+etruskolog,1
+lärare vid alnarps lantbruksinstitut.,1
+kung av sverige,1
+viskompositör,1
+privatdocent,1
+manufakturist,1
+map publisher,1
+professor vid univ. i kiel,1
+kanslichef,1
+teol prof,1
+justitiestatsminister,1
+norsk författare,1
+hispanist,1
+kärnfysiker,1
+kung av belgien,1
+teaterregissör och författare,1
+natural history collector,1
+ordförande i kvinnliga akademikers förening,1
+kulturjournalist,1
+florens,1
+armaments manufacturer,1
+prison governor,1
+fisheries expert,1
+postsparbankschef,1
+engelsk författare,1
+överhovmästarinna,1
+chefredaktör för hufvudstadsbladet helsingfors,1
+myrmecologist,1
+professor i historia vid uppsala universitet,1
+criminologist,1
+chief bailiff,1
+fabrikant,1
+penal reformer,1
+founder of the ordnance survey,1
+filatelist,1
+reformist,1
+aural surgeon,1
+swedish-norwegian vice consul in smyrna 1856-1887; consul 1887-1895,1
+fransk teolog och filosof; biskop i lisieux från 1377,1
+scoutchef,1
+estate commissioner,1
+hovtraktör,1
+king of spain and the last ruler of the habsburg empire,1
+hunter,1
+antikvariatsbokhandlare,1
+dansk skådespelerska,1
+viceregent,1
+professor i ekonomisk geografi vid handelshögskolan i göteborg.,1
+folklivs- o. folkmålsforskare,1
+animal painter,1
+rysk filolog,1
+presskommissarie,1
+lokalhistoriker,1
+stenographer,1
+med. lic.,1
+skolkökspionjär,1
+konsistorialpresident,1
+doge,1
+promoter of arts and literature,1
+privatlärare,1
+dealer in minerals,1
+prior,1
+maid of honour,1
+formand,1
+arvprins,1
+apologet,1
+förste hovmarskalk,1
+fv. landshövding,1
+abbot i spanheim,1
+professor i privat- och finansrätt.,1
+fysisker,1
+konst- och kulturforskare,1
+sexologist,1
+e.o professor vid univ. i strassburg,1
+flygpionjär,1
+professor vid univ. i halle,1
+ångbåtskommisionär,1
+univ. lärare i leipzig,1
+riksråd och författare,1
+historisk författare,1
+parliamentary draftsman,1
+direktör london museum,1
+skolkökslärarinna,1
+high sheriff,1
+munk,1
+stilforskare,1
+commendatore,1
+marine zoologist,1
+redaktionssekreterare,1
+järnvägsbyggare,1
+calico printer,1
+landshövding i västerbottens län,1
+cartoonist,1
+kyrkoherde i fjälie,1
+logiker,1
+commissioner of the copenhagen police,1
+litteraturhistoriker.,1
+folkdiktsforskare,1
+contractor for railways and public works,1
+anti-vivisectionist,1
+mystiker,1
+ekon. dr h.c.,1
+missionärsledare,1
+bryggare,1
+klimatolog,1
+konstutställare,1
+kvinnohistoriker,1
+skivsamlare,1
+kyrkoherde i s:t peters kloster,1
+jur. dr h.c.,1
+hovbokbindare,1
+riksmarsk,1
+partihandlare,1
+teolog och filosof,1
+författare och dramatiker,1
+schoolteacher,1
+litteraturhistoriker och skolman.,1
+lantbruksekonom,1
+juridisk rådgivare,1
+möbelsnickare,1
+bread manufacturer,1
+ålderman,1
+art functionary,1
+lingvist och litteraturvetare,1
+kommunalordförande,1
+lunds universitet,1
+univ.lärare i göttingen,1
+försäkringstjänsteman,1
+bruksidkare,1
+evolutionary theorist,1
+stadsantikvarie,1
+chefsredaktör,1
+ordboksman,1
+political radical,1
+naturgeograf,1
+musikhandlare,1
+ballongflygare,1
+pro-vivisection campaigner,1
+expeditionschef i ecklesiastikdepartementet,1
+biskop i göteborgs stift,1
+språkforskare i bergen,1
+litteraturvetare och -kritiker.,1
+tsar,1
+bibliotekschef,1
+guldsmed,1
+deputy governor,1
+linnéforskare,1
+foreign office,1
+skeppsbyggmästare,1
+teolog dr,1
+programdirektör i sveriges radio,1
+phytogeographer,1
+kanslist med mera,1
+rocket designer,1
+professor vid l'université nouvelle i bruxelles o. vid collège libre des sciences sociales,1
+biblioteksman från lund,1
+medaljmakare,1
+sekreterare i fotografiska föreningen,1
+thief,1
+professor vid konstakademien i stockholm.,1
+historie- och dekorationsmålare.,1
+lärare vid alnarps lantbruksinstitut,1
+ass. director,1
+noblewoman,1
+ekumenisk patriark av konstantinopel,1
+kemiingenjör,1
+rysk ämbetsman,1
+väg- och vattenbyggnadsingenjör,1
+merchant banker,1
+fil mag.,1
+förbundsjurist,1
+official of the royal mint,1
+fältmarskalken,1
+pensionaris,1
+art administrator,1
+professor vid konstakademien från 1873,1
+folksskollärare,1
+överhovpredikant,1
+rabbi,1
+campaigner for women's rights,1
+daguerreotypist,1
+filosofie magister,1
+professor i ekonomisk geografi,1
+equerry-in-waiting,1
+italiensk pacifist,1
+vizepräsident der reichsbank,1
+borgmästare i sala,1
+dean of norwich,1
+director of national portrait gallery,1
+british museum director,1
+schweiz gewerkschaftsbund,1
+kristiania,1
+mining manager,1
+konstskriftställare,1
+överrabin,1
+läroverksöverstyrelsedirektör,1
+lithologist,1
+litograf.,1
+bibliograf,1
+dhs,1
 landskapsarkitekt,1
-Ärkebiskopinna,1
-News agency founder,1
-Teaterregissör och författare,1
-Högskolelärare,1
-Tysk industriman,1
-Dialectologist,1
-Lasarettläkare,1
-Spa physician,1
-Solicitor-General,1
-Drottning av Danmark,1
-Fastighetsdirektör,1
-Lingvist och litteraturvetare,1
-Sjukhusdirektör,1
+livmedikus,1
+steel manufacturer,1
+kyrkomusiker; domkyrkoorganist i uppsala,1
+amanuens vid lunds observatorium,1
+revivalist,1
+lektor och författare.,1
+docent vid univ. i rom,1
+pastorsadjunkt,1
+bryolog,1
+histoire naturelle,1
+cattle breeder,1
+topographical engineer,1
+fv rektor för uppsala universitet (2012-2020),1
+professor i nordisk och jämförande fornkunskap,1
+flax spinner,1
+collaborator,1
+stadsplanerare,1
+justeringskontrollör,1
+glaciolog,1
+kulturattaché,1
+flickskolföreståndarinna,1
+emperor of china,1
+estetiker och universitetsbibliotekarie,1
+förstekonservator,1
+universitetssekr.,1
+phycologist,1
+legal historian,1
+företagare,1
+pisciculturist,1
+historie- och porträttmålare,1
+vicar (dean),1
+fredsarbetare,1
+socialistisk agitator,1
+lärare vid école cantonale,1
+vapenkonstruktör,1
+luzern,1
+major.,1
+dean of exeter,1
+kurfurste,1
+professor i nationalekonomi,1
+palaeobotanist,1
+trädgårdsdirektör,1
+geografi,1
+teckningslärarinna,1
+neuroforskare,1
