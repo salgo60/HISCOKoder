@@ -19,7 +19,7 @@ Tanken
         * kvinnlig form [P2521](https://www.wikidata.org/wiki/Property:P2521)
         * manlig form [P3321](https://www.wikidata.org/wiki/Property:P3321)
         * egenskaper för denna objekttyp [Property:P1963](https://www.wikidata.org/wiki/Property:P1963)
-          * exempel forskare [Q901](https://www.wikidata.org/wiki/Q901) utnildad vid [P69](https://www.wikidata.org/wiki/Property:P69)
+          * exempel forskare [Q901](https://www.wikidata.org/wiki/Q901) utbildad vid [P69](https://www.wikidata.org/wiki/Property:P69)
         * verksamhetsområde [P425](https://www.wikidata.org/wiki/Property:P425)
           * exempel skulptör [Q1281618](https://www.wikidata.org/wiki/Q1281618) bildhuggeri [Q11634](https://www.wikidata.org/wiki/Q11634)
         * beskriven av källa [P1343](https://www.wikidata.org/wiki/Property:P1343)
