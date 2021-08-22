@@ -52,7 +52,11 @@ Status vad vi ser
     * [csv fil](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Alvin_yrken_value_counts.csv) > 3000 yrken  
 ![](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Alvin_yrken_alla.png)
 * Arken [Wikidata P8899](https://www.wikidata.org/wiki/Property_talk:P8899) - [yrken i Wikidata för personer kopplade till Arken](https://w.wiki/3wEf)/[lista](https://w.wiki/3wEd)
-
+  * har lite struktur men inga kopplingar HISCOkoder finns ett schema ej åtkomligt https://arken.kb.se/Actor-occupations
+    * exempel SKOS [Diplomater](https://arken.kb.se/Diplomater;skos)   
+      * finns stöd för flersoråkighet 
+    * exempel SKOS [Författare](https://arken.kb.se/F%C3%B6rfattare;skos)   
+    
 * Digitaltmuseum [Wikidata P7847](https://www.wikidata.org/wiki/Property_talk:P7847) 
   * har dataset [Life roles (KulturIT AS [no])](https://kulturnav.org/23c7080c-6752-4691-8c8a-ce0d65623c51) men annars verkar det ostrukturerat
   * [yrken i Wikidata för personer i kulturnav P1248](https://w.wiki/3u2s) - [P1248](https://www.wikidata.org/wiki/Property_talk:P1248)
@@ -93,6 +97,8 @@ Status vad vi ser
 ![](https://github.com/salgo60/HISCOKoder/blob/main/img/SKBL_yrken_json.png)        
 ![](https://github.com/salgo60/HISCOKoder/blob/main/img/SKBL_yrken_json2.png)
 ## Övrigt
+* [ISCO–08](https://www.ilo.org/public/english/bureau/stat/isco/docs/publication08.pdf) "International Standard
+Classification of Occupations Structure, group definitions and correspondence tables"
 ### SSYK Yrken
 * SCB har [SSYK koder för "moderna" yrken](https://www.scb.se/dokumentation/klassifikationer-och-standarder/standard-for-svensk-yrkesklassificering-ssyk/)
   * diskussion jobtech [SSYK egenskap i Wikidata](https://forum.jobtechdev.se/t/ssyk-egenskap-i-wikidata/164/8)
