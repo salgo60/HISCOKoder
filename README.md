@@ -59,7 +59,7 @@ Status vad vi ser
       * SKOS [Författare](https://arken.kb.se/F%C3%B6rfattare;skos)  
       * SKOS [filmproducenter](https://arken.kb.se/filmproducenter)
         * finns stöd BT (Broader term), NT (Narrow term)  
-        * har även udda term SKOS:Note för koppling https://id.kb.se/term/sao/Diplomater borde vara **samma som**
+        * har även udda term **skos:note** för koppling https://id.kb.se/term/sao/Diplomater borde vara **samma som**
 ![](https://github.com/salgo60/HISCOKoder/blob/main/img/SKOSArken.png)      
   * [Notepad](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Arken%20yrken.ipynb) webscrapar Arken efter yrken / [csv](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Arken_yrken_value_counts.csv)  
 ![](https://github.com/salgo60/HISCOKoder/blob/main/img/Arken_yrken.png)    
