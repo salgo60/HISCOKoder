@@ -59,7 +59,9 @@ Status vad vi ser
       * SKOS [Författare](https://arken.kb.se/F%C3%B6rfattare;skos)  
       * SKOS [filmproducenter](https://arken.kb.se/filmproducenter)
         * finns stöd BT (Broader term), NT (Narrow term)  
-    
+![](https://github.com/salgo60/HISCOKoder/blob/main/img/SKOSArken.png)      
+  * [Notepad](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Arken%20yrken.ipynb) / [csv](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Arken_yrken_value_counts.csv)  
+![](https://github.com/salgo60/HISCOKoder/blob/main/img/Arken_yrken.png)    
 * Digitaltmuseum [Wikidata P7847](https://www.wikidata.org/wiki/Property_talk:P7847) 
   * har dataset [Life roles (KulturIT AS [no])](https://kulturnav.org/23c7080c-6752-4691-8c8a-ce0d65623c51) men annars verkar det ostrukturerat
   * [yrken i Wikidata för personer i kulturnav P1248](https://w.wiki/3u2s) - [P1248](https://www.wikidata.org/wiki/Property_talk:P1248)
