@@ -36,7 +36,7 @@ Status vad vi ser
   * [HISCO codes and description](https://swedpop.se/wp-content/uploads/2021/06/HISCO-codes-and-description.pdf) Version: June 28, 2021
 * ...
 
-#### Andra aktörer som verkar sakna bra strukturerad data och koppling HISCO utan kör eget
+#### Andra aktörer som verkar sakna bra strukturerad data och koppling HISCO "utan kör eget"
 * Alvin [Wikidata P6821](https://www.wikidata.org/wiki/Property_talk:P6821) - [yrken i WD för i personer kopplade till Alvin](https://w.wiki/3u2w)
   * [samma fråga men visa om Wikidata har en bild](https://w.wiki/3uCW) eller bildkatalog  
     * samma fråga men [yrken som saknar bild i Wikidata](https://w.wiki/3vJb)
@@ -66,6 +66,7 @@ Status vad vi ser
 * Digitaltmuseum [Wikidata P7847](https://www.wikidata.org/wiki/Property_talk:P7847) 
   * har dataset [Life roles (KulturIT AS [no])](https://kulturnav.org/23c7080c-6752-4691-8c8a-ce0d65623c51) -  [Notepad](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/kulturnav%20dataset%20liferoll.ipynb) / [csv](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/kulturnav_liferoll.csv)
   * [yrken i Wikidata för personer i kulturnav P1248](https://w.wiki/3u2s) - [P1248](https://www.wikidata.org/wiki/Property_talk:P1248)
+    * [WD egenskaper för yrken kopplade till dessa personer](https://w.wiki/3wgt)
   * kulturnav.org: August Strindberg vars [RDF](https://kulturnav.org/291ad5e4-1169-4f50-8fb3-6a82308c4ff6.json-ld) har Liferole som pekar på ex. [JSON författare](https://kulturnav.org/5ffd9b2f-a555-466e-886b-2185d95f4a83.json-ld) som
     * har **exactMatch** 
       * [metadataregistry.org](http://metadataregistry.org/schemaprop/show/id/121.html) 
