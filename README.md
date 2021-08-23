@@ -71,7 +71,8 @@ Status vad vi ser
       * [metadataregistry.org](http://metadataregistry.org/schemaprop/show/id/121.html) 
       * [Getty Vocabularies](http://vocab.getty.edu/aat/300025492)
       * [Library of congress](https://id.loc.gov/vocabulary/relators/aut.html)
-
+![](https://github.com/salgo60/HISCOKoder/blob/main/img/StrindbergLiferole.png)
+![](https://github.com/salgo60/HISCOKoder/blob/main/img/kulturnav_org_F%C3%B6rfattare.png)
 * Historiska museet [Wikidata P9495](https://www.wikidata.org/wiki/Property_talk:P9495) - [yrken i Wikidata för personer kopplade till Historiska museer](https://w.wiki/3u2q)
   * planer finns se [tweet](https://twitter.com/linneakarlberg_/status/1427886596058198018) "Vi har interna identifierare för yrken och möjligheten finns att koppla dessa till externa, och lägga ut yrkena som egna poster på vårt onlinesök"
   * se [Historiska museet yrken #6](https://github.com/salgo60/HISCOKoder/issues/6)
