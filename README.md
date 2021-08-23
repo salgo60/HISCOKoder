@@ -66,6 +66,11 @@ Status vad vi ser
 * Digitaltmuseum [Wikidata P7847](https://www.wikidata.org/wiki/Property_talk:P7847) 
   * har dataset [Life roles (KulturIT AS [no])](https://kulturnav.org/23c7080c-6752-4691-8c8a-ce0d65623c51) men annars verkar det ostrukturerat
   * [yrken i Wikidata för personer i kulturnav P1248](https://w.wiki/3u2s) - [P1248](https://www.wikidata.org/wiki/Property_talk:P1248)
+  * August Strindberg vars [RDF](https://kulturnav.org/291ad5e4-1169-4f50-8fb3-6a82308c4ff6.json-ld) har Liferole som pekar på ex. [JSON författare](https://kulturnav.org/5ffd9b2f-a555-466e-886b-2185d95f4a83.json-ld) som
+    * har **samma som** 
+      * [metadataregistry.org](http://metadataregistry.org/schemaprop/show/id/121.html) 
+      * [Getty Vocabularies](http://vocab.getty.edu/aat/300025492)
+      * [Library of congress](https://id.loc.gov/vocabulary/relators/aut.html)
 
 * Historiska museet [Wikidata P9495](https://www.wikidata.org/wiki/Property_talk:P9495) - [yrken i Wikidata för personer kopplade till Historiska museer](https://w.wiki/3u2q)
   * planer finns se [tweet](https://twitter.com/linneakarlberg_/status/1427886596058198018) "Vi har interna identifierare för yrken och möjligheten finns att koppla dessa till externa, och lägga ut yrkena som egna poster på vårt onlinesök"
@@ -110,7 +115,7 @@ Classification of Occupations Structure, group definitions and correspondence ta
 * SCB har [SSYK koder för "moderna" yrken](https://www.scb.se/dokumentation/klassifikationer-och-standarder/standard-for-svensk-yrkesklassificering-ssyk/)
   * diskussion jobtech [SSYK egenskap i Wikidata](https://forum.jobtechdev.se/t/ssyk-egenskap-i-wikidata/164/8)
   * Wikidata egenskap [P8654](https://www.wikidata.org/wiki/Property_talk:P8654) se  även task ["SSYK 2012"](https://phabricator.wikimedia.org/T263945) 
-  * min tro ör att dessa koder inte är funktionella för en datadriven arbetsmarknad ett nytt initiativ har startats upp se sr.se  
+  * min tro är att dessa koder inte är funktionella för en datadriven arbetsmarknad ett nytt initiativ har startats upp se sr.se tyvärr svårt att förstå vad de gör och har för leverabler 
 ### Wikipedia
 * historiska yrken 
   * [sv:Kategori:Historiska_yrken](https://sv.wikipedia.org/wiki/Kategori:Historiska_yrken)
