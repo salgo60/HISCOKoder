@@ -67,7 +67,7 @@ Status vad vi ser
   * har dataset [Life roles (KulturIT AS [no])](https://kulturnav.org/23c7080c-6752-4691-8c8a-ce0d65623c51) 
   * [yrken i Wikidata för personer i kulturnav P1248](https://w.wiki/3u2s) - [P1248](https://www.wikidata.org/wiki/Property_talk:P1248)
   * August Strindberg vars [RDF](https://kulturnav.org/291ad5e4-1169-4f50-8fb3-6a82308c4ff6.json-ld) har Liferole som pekar på ex. [JSON författare](https://kulturnav.org/5ffd9b2f-a555-466e-886b-2185d95f4a83.json-ld) som
-    * har **samma som** 
+    * har **exactMatch** 
       * [metadataregistry.org](http://metadataregistry.org/schemaprop/show/id/121.html) 
       * [Getty Vocabularies](http://vocab.getty.edu/aat/300025492)
       * [Library of congress](https://id.loc.gov/vocabulary/relators/aut.html)
