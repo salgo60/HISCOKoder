@@ -110,7 +110,7 @@ Classification of Occupations Structure, group definitions and correspondence ta
 * SCB har [SSYK koder för "moderna" yrken](https://www.scb.se/dokumentation/klassifikationer-och-standarder/standard-for-svensk-yrkesklassificering-ssyk/)
   * diskussion jobtech [SSYK egenskap i Wikidata](https://forum.jobtechdev.se/t/ssyk-egenskap-i-wikidata/164/8)
   * Wikidata egenskap [P8654](https://www.wikidata.org/wiki/Property_talk:P8654) se  även task ["SSYK 2012"](https://phabricator.wikimedia.org/T263945) 
-  * min tro ör att dessa koder inte är funktionella för en datadriven arbetsmarknad ett nytt initiativ har startats upp se sr.se  
+  * min tro är att dessa koder inte är funktionella för en datadriven arbetsmarknad ett nytt initiativ har startats upp se sr.se tyvärr svårt att förstå vad de gör och har för leverabler 
 ### Wikipedia
 * historiska yrken 
   * [sv:Kategori:Historiska_yrken](https://sv.wikipedia.org/wiki/Kategori:Historiska_yrken)
