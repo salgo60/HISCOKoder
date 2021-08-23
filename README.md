@@ -1,6 +1,6 @@
 # HISCOKoder - Historiska yrken #
 
-Kan vi Digitalt koppla ihop historiska yrken i Sverige **"same as"**? Och enkelt hitta i alla databaser alla personer/beskrivningar av eempelvis [isutkörare](https://sv.wikipedia.org/wiki/Iskarl) (ett av Sveriges vanligaste yrken)...Känns som en lågt hängande frukt... utmaningen är nog att börja jobba ihop och ha [publika backlogs](https://www.youtube.com/watch?v=502ILHjX9EE) och föra en dialog på exempelvis GITHUB ....
+Kan vi Digitalt koppla ihop historiska yrken i Sverige **"same as"**? Och enkelt hitta i alla databaser alla personer/beskrivningar av exempelvis [isutkörare](https://sv.wikipedia.org/wiki/Iskarl) (ett av Sveriges vanligaste yrken)...Känns som en lågt hängande frukt... utmaningen är nog att börja jobba ihop och ha [publika backlogs](https://www.youtube.com/watch?v=502ILHjX9EE) och föra en dialog på exempelvis GITHUB ....
 
 Projekt SWEPOP har skapat [Principles of Coding Swedish Historic Occupations](https://swedpop.se/wp-content/uploads/2021/06/Principles-of-Coding-Swedish-Historic-Occupations.pdf) tanken är att se om vi kan föra över det till Wikidata och se om andra aktörer rör sig åt samma håll då det gäller att digitalisera datat och röra sig mot HISCO istället för textsträngar.
 
@@ -66,13 +66,15 @@ Status vad vi ser
 * Digitaltmuseum [Wikidata P7847](https://www.wikidata.org/wiki/Property_talk:P7847) 
   * har dataset [Life roles (KulturIT AS [no])](https://kulturnav.org/23c7080c-6752-4691-8c8a-ce0d65623c51) 
   * [yrken i Wikidata för personer i kulturnav P1248](https://w.wiki/3u2s) - [P1248](https://www.wikidata.org/wiki/Property_talk:P1248)
-  * August Strindberg vars [RDF](https://kulturnav.org/291ad5e4-1169-4f50-8fb3-6a82308c4ff6.json-ld) har Liferole som pekar på ex. [JSON författare](https://kulturnav.org/5ffd9b2f-a555-466e-886b-2185d95f4a83.json-ld) som
+  * kulturnav.org: August Strindberg vars [RDF](https://kulturnav.org/291ad5e4-1169-4f50-8fb3-6a82308c4ff6.json-ld) har Liferole som pekar på ex. [JSON författare](https://kulturnav.org/5ffd9b2f-a555-466e-886b-2185d95f4a83.json-ld) som
     * har **exactMatch** 
       * [metadataregistry.org](http://metadataregistry.org/schemaprop/show/id/121.html) 
       * [Getty Vocabularies](http://vocab.getty.edu/aat/300025492)
       * [Library of congress](https://id.loc.gov/vocabulary/relators/aut.html)
 ![](https://github.com/salgo60/HISCOKoder/blob/main/img/StrindbergLiferole.png)
 ![](https://github.com/salgo60/HISCOKoder/blob/main/img/kulturnav_org_F%C3%B6rfattare.png)
+    * har **[mads:see](https://id.loc.gov/ontologies/madsrdf/v1.html#see)** sv:Wikipedia [författare](https://sv.wikipedia.org/wiki/F%C3%B6rfattare)
+![](https://github.com/salgo60/HISCOKoder/blob/main/img/Mads_see.png)    
 * Historiska museet [Wikidata P9495](https://www.wikidata.org/wiki/Property_talk:P9495) - [yrken i Wikidata för personer kopplade till Historiska museer](https://w.wiki/3u2q)
   * planer finns se [tweet](https://twitter.com/linneakarlberg_/status/1427886596058198018) "Vi har interna identifierare för yrken och möjligheten finns att koppla dessa till externa, och lägga ut yrkena som egna poster på vårt onlinesök"
   * se [Historiska museet yrken #6](https://github.com/salgo60/HISCOKoder/issues/6)
