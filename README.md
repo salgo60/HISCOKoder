@@ -64,7 +64,7 @@ Status vad vi ser
   * [Notepad](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Arken%20yrken.ipynb) webscrapar Arken efter yrken / [csv](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Arken_yrken_value_counts.csv)  - [alla](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Arken_yrken.csv)
 ![](https://github.com/salgo60/HISCOKoder/blob/main/img/Arken_yrken.png)    
 * Digitaltmuseum [Wikidata P7847](https://www.wikidata.org/wiki/Property_talk:P7847) 
-  * har dataset [Life roles (KulturIT AS [no])](https://kulturnav.org/23c7080c-6752-4691-8c8a-ce0d65623c51) 
+  * har dataset [Life roles (KulturIT AS [no])](https://kulturnav.org/23c7080c-6752-4691-8c8a-ce0d65623c51) -  [Notepad](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/kulturnav%20dataset%20liferoll.ipynb) / [csv](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/kulturnav_liferoll.csv)
   * [yrken i Wikidata för personer i kulturnav P1248](https://w.wiki/3u2s) - [P1248](https://www.wikidata.org/wiki/Property_talk:P1248)
   * kulturnav.org: August Strindberg vars [RDF](https://kulturnav.org/291ad5e4-1169-4f50-8fb3-6a82308c4ff6.json-ld) har Liferole som pekar på ex. [JSON författare](https://kulturnav.org/5ffd9b2f-a555-466e-886b-2185d95f4a83.json-ld) som
     * har **exactMatch** 
