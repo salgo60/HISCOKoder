@@ -146,7 +146,7 @@ Classification of Occupations Structure, group definitions and correspondence ta
 ![](https://github.com/salgo60/HISCOKoder/blob/main/img/Swedenprop.png)
 * Saknas idag en egenskap för HISCOkoder -  [Q5629694](https://www.wikidata.org/wiki/Q5629694)
 ## Wikidata - mer än yrken
-Intressant i denna ekvation där vi ovan ser hur svenska kulturinstitutioner lyckas trassla din något så trivialt som historiska yrken år hur mycket kopplingar en global databas som Wikidata innehåller av kopplingar till platser och orter
+Intressant i denna ekvation där vi ovan ser hur svenska kulturinstitutioner lyckas trassla din något så trivialt som historiska yrken är hur mycket kopplingar en global databas som Wikidata innehåller till andra extern egenskaper ( se senaste skapade [WD egenskaper](https://w.wiki/AKq) > 9000, [externa](https://w.wiki/DYQ) > 6300)
 * Personer kopplade till Alvin > [34 500 personer, platser ...](https://w.wiki/3yEt) --> men dessa personer i Wikidata har kopplingar till [1300 externa egenskaper](https://w.wiki/3yFH) osv... det är ett enormt jobb att hålla detta vid liv och för att jobba med data skall man ha dom kunskaperna
 ![](https://github.com/salgo60/HISCOKoder/blob/main/img/AlvinExternaEgenskaperB.png)
 ![](https://github.com/salgo60/HISCOKoder/blob/main/img/AlvinExternaEgenskaper.png)
