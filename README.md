@@ -152,3 +152,6 @@ Intressant i denna ekvation där vi ovan ser hur svenska kulturinstitutioner lyc
 * Personer kopplade till Alvin > [34 500 personer, platser ...](https://w.wiki/3yEt) --> men dessa personer i Wikidata har kopplingar till [1300 externa egenskaper](https://w.wiki/3yFH) osv... det är ett enormt jobb att hålla detta vid liv och för att jobba med data skall man ha dom kunskaperna. Kan svenska kulturinstitutioner som pratar samma språk åker på samma konferenser, får bidrag ur samma "ficka" inte klara av att synka hur historiska yrken beskrivs så är att koppla sig till externa egenskaper i andra länder nog en omöjlighet man behöver byta ut laget och våga ställa krav som följs upp....  
 ![](https://github.com/salgo60/HISCOKoder/blob/main/img/AlvinExternaEgenskaperB.png)
 ![](https://github.com/salgo60/HISCOKoder/blob/main/img/AlvinExternaEgenskaper.png)
+  * [personer i Wikidata kopplade till Alvin men också kopplade till andra svenska "egenskaper"](https://w.wiki/3yYZ)
+![](https://github.com/salgo60/HISCOKoder/blob/main/img/AlvinExternaSvenskaEgenskaperB.png)
+![](https://github.com/salgo60/HISCOKoder/blob/main/img/AlvinExternaSvenskaEgenskaper.png)
