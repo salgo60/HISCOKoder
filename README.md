@@ -121,6 +121,9 @@ Status vad vi ser
 ![](https://github.com/salgo60/HISCOKoder/blob/main/img/SKBLJson.png)        
 ![](https://github.com/salgo60/HISCOKoder/blob/main/img/SKBL_yrken_json.png)        
 ![](https://github.com/salgo60/HISCOKoder/blob/main/img/SKBL_yrken_json2.png)
+* [video](https://youtu.be/utcilRXxMZA) hur vi kopplar till en:wikipedia med mallar och ser json i SKBL
+   * exempel
+      * SKBL [svenska](https://www.skbl.se/sv/artikel/ElsaBeataWrede0) [engelska](https://www.skbl.se/en/article/ElsaBeataWrede0) [JSON](https://www.skbl.se/en/article/ElsaBeataWrede0.json ) [en:Wikipedia](https://en.wikipedia.org/wiki/Elsa_Beata_Bunge) [sv:Wikipedia](https://sv.wikipedia.org/wiki/Elsa_Beata_Bunge) 
 ## Övrigt
 * [ISCO–08](https://www.ilo.org/public/english/bureau/stat/isco/docs/publication08.pdf) "International Standard
 Classification of Occupations Structure, group definitions and correspondence tables"
