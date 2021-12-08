@@ -51,7 +51,7 @@ Status vad vi ser
 
 ![](https://github.com/salgo60/HISCOKoder/blob/main/img/WD%20egenskaper%20yrken.png)
 ![](https://github.com/salgo60/HISCOKoder/blob/main/img/WD%20egenskaper%20yrken%20bubble.png)
-  * [Notepad](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Alvin%20yrken.ipynb) kör igenom alla poster i Wikidata kopplade till Uppsala universitetsbibliotek Alvin plattform > 28000 kopplingar där vi försöker identifiera yrkena i html sidan hos Alvin se även [T225522](https://phabricator.wikimedia.org/T225522) 
+  * [Notebook](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Alvin%20yrken.ipynb) kör igenom alla poster i Wikidata kopplade till Uppsala universitetsbibliotek Alvin plattform > 28000 kopplingar där vi försöker identifiera yrkena i html sidan hos Alvin se även [T225522](https://phabricator.wikimedia.org/T225522) 
     * [csv fil](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Alvin_yrken_value_counts.csv) > 3000 yrken  
 ![](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Alvin_yrken_alla.png)
 * Arken [Wikidata P8899](https://www.wikidata.org/wiki/Property_talk:P8899) har > [3 390](https://w.wiki/3yEs) personer kopplade till Wikidata
@@ -68,7 +68,7 @@ Status vad vi ser
   * [Notebook](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Arken%20yrken.ipynb) webscrapar Arken efter yrken / [csv](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Arken_yrken_value_counts.csv)  - [alla](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/Arken_yrken.csv)
 ![](https://github.com/salgo60/HISCOKoder/blob/main/img/Arken_yrken.png)    
 * Digitaltmuseum [Wikidata P7847](https://www.wikidata.org/wiki/Property_talk:P7847) - P7846 används för bilder - P1248 har > [18000](https://w.wiki/3yEq) kopplingar till Wikidata
-  * har dataset [Life roles (KulturIT AS [no])](https://kulturnav.org/23c7080c-6752-4691-8c8a-ce0d65623c51) -  [Notepad](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/kulturnav%20dataset%20liferoll.ipynb) / [csv](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/kulturnav_liferoll.csv)
+  * har dataset [Life roles (KulturIT AS [no])](https://kulturnav.org/23c7080c-6752-4691-8c8a-ce0d65623c51) -  [Notebook](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/kulturnav%20dataset%20liferoll.ipynb) / [csv](https://github.com/salgo60/HISCOKoder/blob/main/Jupyter/kulturnav_liferoll.csv)
   * [yrken i Wikidata för personer i kulturnav P1248](https://w.wiki/3u2s) - [P1248](https://www.wikidata.org/wiki/Property_talk:P1248)
     * [WD egenskaper för yrken kopplade till dessa personer](https://w.wiki/3wgt)
   * kulturnav.org: August Strindberg vars [RDF](https://kulturnav.org/291ad5e4-1169-4f50-8fb3-6a82308c4ff6.json-ld) har Liferole som pekar på ex. [JSON författare](https://kulturnav.org/5ffd9b2f-a555-466e-886b-2185d95f4a83.json-ld) som
