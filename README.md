@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11183897.svg)](https://doi.org/10.5281/zenodo.11183897)
+
 # HISCOKoder - Historiska yrken #
 
 Kan vi Digitalt koppla ihop historiska yrken i Sverige **"same as"**? Och enkelt hitta i alla databaser alla personer/beskrivningar av exempelvis [isutkörare](https://sv.wikipedia.org/wiki/Iskarl) (ett av Sveriges vanligaste yrken)...Känns som en lågt hängande frukt... utmaningen är nog att börja jobba ihop och ha [publika backlogs](https://www.youtube.com/watch?v=502ILHjX9EE) och föra en dialog på exempelvis GITHUB ....
