@@ -4,7 +4,7 @@ Magnus Sälgö. (2024). salgo60/HISCOKoder: HISCOkoder för svenskt kulturarv (H
 
 # HISCOKoder - Historiska yrken #
 
-* "[Principles of Coding Swedish Historic Occupations](https://swedpop.se/wp-content/uploads/2021/06/Principles-of-Coding-Swedish-Historic-Occupations.pdf#:~:text=The%20SwedPop%20encoding%20of%20occupational%20titles%20is%20based,occupational%20titles%20across%20different%20epochs%2C%20languages%20and%20countries.)"
+* [Principles of Coding Swedish Historic Occupations](https://swedpop.se/wp-content/uploads/2021/06/Principles-of-Coding-Swedish-Historic-Occupations.pdf#:~:text=The%20SwedPop%20encoding%20of%20occupational%20titles%20is%20based,occupational%20titles%20across%20different%20epochs%2C%20languages%20and%20countries.) - June 28, 2021
 * [History of Work - HISCO](https://iisg.amsterdam/en/data/data-websites/history-of-work)
 
 ----
